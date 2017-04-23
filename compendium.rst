@@ -60,6 +60,8 @@ Index
 13. `Collection of Synapsian Names, Phrases, Numbers, and Words`_
 
 
+-----------------------------------------------------------------
+
 
 Life
 ----
