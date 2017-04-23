@@ -3345,7 +3345,8 @@ Hy
 An
   Aurora
 
-chi / chj -Life energy
+chi / chj 
+  Life energy
 
 shi / sj
   Magic energy
