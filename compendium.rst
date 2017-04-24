@@ -22,7 +22,7 @@ Index
 
 10. `Hyakanghen`_
 11. `Statements Made by Tsuki`_
-12. `Text Archive of systemspace.link as of Apr 15 2017`_
+12. `Text Archive of systemspace.link as of Apr 23 2017`_
 
     1. `/HOME PAGE/`_
     2. `/STATUS PAGE/`_
@@ -32,30 +32,36 @@ Index
     6. `/FAQ PAGE/`_
     7. `/NEWS PAGE/`_
     8. `/DATAVERSES PAGE/`_
-    9. `/INFINITY PAGE/`_
-    10. `/INFINITY II PAGE/`_
-    11. `/REPRESENTATIVE PAGE/`_
+    
+	  1. `/INFINITY PAGE/`_
+      2. `/INFINITY II PAGE/`_
+	  3. `/THOUGHTS PAGE/`_
+	  
+	    1. `/ECHOES PAGE/`_
+        2. `/THE BURDEN OF TRUTH PAGE/`_
+	
+	9. `/REPRESENTATIVE PAGE/`_
 
     SYNAPSE
 
-    12. `/SYNAPSE EXPLORE LFE PAGE/`_
-    13. `/SYNAPSE EOT PAGE/`_
-    14. `/SYNAPSE ABOUT PAGE/`_
+    10. `/SYNAPSE EXPLORE LFE PAGE/`_
+    11. `/SYNAPSE EOT PAGE/`_
+    12. `/SYNAPSE ABOUT PAGE/`_
 
     RISEN
 
-    15. `/RISEN OUR GOAL PAGE/`_
-    16. `/RISEN EOT PAGE/`_
-    17. `/RISEN ABOUT PAGE/`_
+    13. `/RISEN OUR GOAL PAGE/`_
+    14. `/RISEN EOT PAGE/`_
+    15. `/RISEN ABOUT PAGE/`_
 
     eNdymioN
     
-    18. `/ENDYMION EOT PAGE/`_
-    19. `/ENDYMION ABOUT PAGE/`_
+    16. `/ENDYMION EOT PAGE/`_
+    17. `/ENDYMION ABOUT PAGE/`_
 
     Misc. Pages
     
-    20. `/404 PAGE/`_
+    18. `/404 PAGE/`_
 
 13. `Collection of Synapsian Names, Phrases, Numbers, and Words`_
 
@@ -459,6 +465,9 @@ Is there religion in LFE?
 Is impermanence is a big thing in LFE?
   It's one of the main parts of most of the religions.
 
+Does LFE have some form of zodiac?
+  Yes it does, LFErs love spiritual shit. They have about 49 signs if I remember correctly, don't quote me on that.
+  
 Can humans be banned from LFE?
   Humans cannot be banned.
 
@@ -580,6 +589,12 @@ What are your thoughts on emotions? How would you define the physical and mental
 
 Does it have something to do with the burden of information/knowledge?
   Pretty much.
+
+Do clones have souls? Like, if one were to magically clone that person, is the clone considered sentient?
+  Only if you clone the soul as well. If you do, the User will then have 2 souls and 2 bodies to control simultaneously.
+ 
+Does that conform to the Conik standard?
+No. Absolutely not.
 
 
 Aurora
@@ -962,7 +977,10 @@ What's your favorite part of LFE?
 Would it be possible to design Systemspace stickers?
   We ourselves won't offer any merchandise (as we'd like this project to stay non-profit), but if anyone wants to make stickers or other merch, go ahead! (If you need any assets, email me).
 
-
+Do you have a boss?
+  TSUKI is only a collaboration, it doesn't have a true hierarchy.
+  
+  
 The Key
 -------
 
@@ -1108,6 +1126,15 @@ Is it possible to travel through to other Systems physically?
 
   Big reminder that the numbering of dimensions is relative, what may be the 4th dimension to us could be the 78th in another context.
 
+How does time measurement work across Systemspace?
+  It's all divisions of the omniversal cycle, which is just something built into Systemspace.
+
+How much time is an omniversal cycle?
+  644245094400 seconds.
+
+What is the smallest division of time possible in Systemspace, aka one clock cycle?
+  A systemspatial spin.
+  
 Is there a nearly identical version of Life somewhere else in Systemspace that is almost exactly the same, except only slightly different?
   Yes, there is a different "Life" in a sense. All possible Life worlds exist in the Life System.
 
@@ -1241,11 +1268,12 @@ I heard the idea for 2chan and imageboards in general was borrowed from some soc
 
 I don't want to force you to keep going through Life, and if you really wish to die, we won't stop you from committing suicide on the 2nd of July. But please, please reconsider. If you completely hate Life, then live for LFE. Try and advance your mind as much as possible. Try all sorts of things. Try and become as wise as possible. Knowledge is the only thing you can transfer and knowledge is key.
 
+Tsuki fun fact episode watermelon: Tsuki (when written out in Synapsian) looks like a key, which is one of the reasons why the project has been given this name.
 
 ----------------------------------------------------------------------------
 
 
-Text Archive of systemspace.link as of Apr 15 2017
+Text Archive of systemspace.link as of Apr 23 2017
 ==================================================
 
 
@@ -1260,10 +1288,9 @@ Text Archive of systemspace.link as of Apr 15 2017
     Welcome to the TSUKI project
 
     This webpage has been made to facilitate the broadcasting of all TSUKI messages and to allow interaction between all registrants. A simple summary of the TSUKI project can be read below.
-    There are currently 1237 registrants
-    1000 registrants!
-    800 Slots are now available
-    12.03.17 from Tsuki Rep.
+    There are currently 1500 registrants
+    1500 users hit
+    23.04.17 from Tsuki Rep.
 
     This System is about to be purged
 
@@ -1303,6 +1330,17 @@ Text Archive of systemspace.link as of Apr 15 2017
     ETA of mission failure: 02/08/2017 (if not unlinked by then)
     ETA of assert: 28/10/2017
     Amount of registrant slots: 1500
+	
+	
+	Destruction of Life
+
+
+1. Waiting phase 1
+2. Seeking
+3. Warm-up
+4. Waiting phase 2
+5. Cancellation of Aurora links
+6. Clean-up
 
 ----------------------------
 
@@ -1320,8 +1358,8 @@ Text Archive of systemspace.link as of Apr 15 2017
     You (the User) are about to register to the TSUKI project and its experiment. This consists of:
 
         You will be transferred over to the LFE System after your death in LFE, as long as:
-            You do not soul-shatter (although this is made very hard, this might happen if you undergo too much pressure)
-            You do not die before July 1st, 2017
+        You do not soul-shatter (although this is made very hard, this might happen if you undergo too much pressure)
+        You do not die before July 1st, 2017
         You will lose your body, and be given a new one (it will resemble your Life one).
         You will live a new life in LFE.
         You will keep all memories from when you die.
@@ -2761,7 +2799,95 @@ ID      EID                     Image
 1409    E71-5796.x#.x.x*?##*    
 1410    E59-4451*?##.#.xXXxx    
 1411    E78-4742XXX*#x#xX*#X    
-1412    E07-9435?###XXx#x#X#    
+1412    E07-9435?###XXx#x#X#  
+1413	E75-8152*#?#?xx*X?x?	
+1414	E95-0730**#*?.x!*?X#	
+1415	E17-1785X..!**X?xx*?	
+1416	E99-5890X*x.XXX..!?*	
+1417	E00-9064.!*??.*!!?!*	
+1418	E32-6847XxxXX.x.!X!x	
+1419	E84-6936.X#xx**.*#Xx	
+1420	E70-4598X#xX*!.#x#!X	
+1421	E92-0955X!#xX#X#?!??	
+1422	E68-8232*x*#?##xX?X#	
+1423	E55-9596#?X#.X?#x.?*	
+1424	E26-9030xx!?!##X?x!#	
+1425	E83-0622#.#!*!#!#!.X	
+1426	E51-5452x*?X?#.!#.#.	
+1427	E60-8961X*?!*##xX*x.	
+1428	E83-0422X#*!.!x#X!?x	
+1429	E17-8214.X!x###?!.?*	
+1430	E03-3487X.**?.!xx*x#	
+1431	E46-9424*xX.x!##x.??	
+1432	E96-5878x*#x!**x??.#	
+1433	E81-3067X.#*?#!x?X#?	
+1434	E72-2234XX**#xx?.#?.	
+1435	E61-7746xx.!!x.X.x.X	
+1436	E35-0938?.*.?!*!X?X!	
+1437	E12-6410!X#.!*!x..!.	
+1438	E27-9206.*#!.xX*#.?*	
+1439	E92-2130.XX?x.#x#X.#	
+1440	E83-9926#.#x!..*!X**	
+1441	E31-5285*##!X.*#?#.!	
+1442	E04-7861xx!?X.*?!x!?	
+1443	E29-4135#.X.##!xX#!*	
+1444	E72-4211X*xx!.!!.?#?	
+1445	E14-2179X!#Xx#x#xXx?	
+1446	E18-2557!x?x#?.!x.!!	
+1447	E23-8918x??.#.*!.xx.	
+1448	E67-6079#xx?*X.*X**!	
+1449	E04-2631x??X*#x*.!!X	
+1450	E17-8568**x?*XX!**#?	
+1451	E78-0738#Xx?..?#*.?#	
+1452	E52-1602X?x??!!xX!!.	
+1453	E78-0140Xx...x*xX*!?	
+1454	E85-6025?#*xXx?*??X#	
+1455	E93-4480#x#!!..X#!#x	
+1456	E12-8043!!XX*x!X?X*!	
+1457	E02-3476Xx*x?.#..*..	
+1458	E54-6738?!#.?*#?*?!#	
+1459	E58-5258?!?#xx.*X!.x	
+1460	E61-1054*X.!.!**!x?#	
+1461	E30-5548*..#X*XxXx#*	
+1462	E28-9742Xx?.xX.*.!*!	
+1463	E04-4761!#*!#X.!#!#?	
+1464	E40-5666*!!#x.!X#?##	
+1465	E51-8507!xx*x**xx#!#	
+1466	E84-7162!.#.***?X**X	
+1467	E56-4409?**.xxXxXX**	
+1468	E54-2372#?*#.***?x!X	
+1469	E96-3873*Xx..*#*?x!?	
+1470	E39-7131Xx?.*X?!xX..	
+1471	E81-0938.!?*!?.X!.?.	
+1472	E58-9538!*!#.?.??*Xx	
+1473	E40-4547#!x#X#x#.!x.	
+1474	E74-0522#.##x.Xx!x?*	
+1475	E88-4189?Xx#.X?xX??*	
+1476	E26-5678*?x??xX*#!!?	
+1477	E83-1736*x?*X.#!??#*	
+1478	E86-6755x**XxX#.!#*#	
+1479	E76-1113#.x*.xx!X?X*	
+1480	E54-2348*!*x#!*#*?!.	
+1481	E92-7350!.!!XX#!?#X*	
+1482	E22-1510#XX?!.X**.*x	
+1483	E47-4098.#??.#X*XXX.	
+1484	E69-6576*?*x..*x?#!?	
+1485	E98-8197xXx.#*.Xx*!.	
+1486	E96-6809xX?X*x??!x!*	
+1487	E67-1733#*.*!.Xx#X#X	
+1488	E95-8646.X*#.*x.#!?x	
+1489	E46-4527!.??##X*x##!	
+1490	E72-7182x?x#x?!#!*X.	
+1491	E07-8173?Xx*X?*X*x!x	
+1492	E42-8867?x*??x??!!.!	
+1493	E82-4634?*.?##X*!X?x	
+1494	E24-5382xxX.XX.x*!!x	
+1495	E10-2471!#!?#*?*#Xx*	
+1496	E98-4963!*??#.!?#XX?	
+1497	E98-1482*?!?#?!..?*x	
+1498	E14-6343xx.?*#XX!!x#	
+1499	E95-0486*x*!X#?#*#*!	
+1500	E44-6644.X.!x!xX!#x*	  
 ====    ====================    =====
 
 ----------------------------
@@ -3126,7 +3252,6 @@ Infinity
 
 ----------------------------
 
-
 /THOUGHTS PAGE/
 ---------------
 
@@ -3135,6 +3260,48 @@ Tsuki's Thoughts
 Random thoughts and facts by Tsuki assembled below:
 
 no objects in container
+
+----------------------------
+
+/ECHOES PAGE/
+---------------
+
+When you think about it, a lot of things in LFE and Life have been transferred from eachother by Auroraic Echoing.
+
+-Japanese and other Asian languages comes from an older iteration of Synapsian.
+-Arrows (straight line, capped with a triangle) were never a thing in LFE before Life. We used to use the dot-and-line seen next to the company logos on the homepage.
+-Decimal numbering systems and the human alphabet A-Z were never used in other Systems before Life brought them to us, now the decimal system is the most commonly used system (used to be a base-32 system), although the A-Z alphabet hasn't picked up close to as much traction and is mainly used for grouping things, and text written in English.
+-English is an interesting one. English also exists in Systemspace (and has long been the main language for it), but the Systemspace and Life versions have influenced eachother and they are slowly moving towards eachother.
+-The time notation method used by humans is very much like the one in LFE, although we use 32 hours of 64 minutes.
+-A lot of (not all, please don't start saying your waifu is real) Life media (think movies, anime, books) are loosely based on happenings in other Systems.
+-We think Google and other search engines are even influenced by the search engine of SYNAPSE..
+
+This happens due to Systems sending out Auroraic vibrations, which travel to and from Life, influencing what happens in Life and outside of it. Quite interesting!
+
+----------------------------
+
+/THE BURDEN OF TRUTH PAGE/
+--------------------------
+
+The Burden of Truth
+
+Recorded 23/4/2017, last updated 24/4/2017
+
+You may be asking why I've never given absolute proof of Systemspace. Sure, Life is blocking, but we're RISEN, right? That shouldn't be a problem.
+
+Let me explain.
+We wish for everyone to make a choice as well as possible. Truth is a very important factor in this.
+If there were absolute truth of Systemspace being real, everyone would edge towards signing up.
+On the other side, if there were truth of Systemspace being fake, everyone would edge towards calling me off as a schizophrenic.
+So, to make a choice that truly represents what you wish to believe, we need a balance. A balance of real and fake.
+
+
+During our visit, we have constantly been adjusting this balance to be as perfect as possible. So we have given tiny hints of proof, which are easily warded off by people who do not believe. In the same way, we have "instilled doubt" as you may call it, which can also be warded off by people who believe.
+Not only will this let people make a choice based on their own beliefs, it will also let people feel better with their choice, no matter which side they pick. People who believe will focus on those proofs, while people who don't will focus on the slip-ups.
+
+However, there is one element I'd like to add.
+I try to (and believe to have succeeded to) never lie. If I say they speak Synapsian in Parnatja, for example, they do. Instead, I nuance what I give out. For example, I make Synapsian look a lot like Japanese/Korean. I've been saying the whole "they dont have X but they have X which is similar" to throw people off in that direction. One drawing I did was a drawing of a specific location made to look like Earth. You get the point. I really really try to not lie, so do not be afraid of that. I am merely throwing people off in either direction without lying!
+
 
 ----------------------------
 
@@ -3318,6 +3485,9 @@ nair
 t'xa
   similar to "fuck" or "shit".
 
+t'xatna
+  similar to "fuck off"
+  
 konhya
   Coffee-like beverage.
 
@@ -3340,7 +3510,7 @@ Naine
   128
 
 Hy
-  7.72606529604E2889
+  7.72606529604x10^2889
 
 An
   Aurora
