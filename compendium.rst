@@ -33,14 +33,14 @@ Index
     7. `/NEWS PAGE/`_
     8. `/DATAVERSES PAGE/`_
     
-	  1. `/INFINITY PAGE/`_
-      2. `/INFINITY II PAGE/`_
-	  3. `/THOUGHTS PAGE/`_
-	  
-	    1. `/ECHOES PAGE/`_
-        2. `/THE BURDEN OF TRUTH PAGE/`_
+       1. `/INFINITY PAGE/`_
+       2. `/INFINITY II PAGE/`_
+       3. `/THOUGHTS PAGE/`_
+  
+          1. `/ECHOES PAGE/`_
+          2. `/THE BURDEN OF TRUTH PAGE/`_
 	
-	9. `/REPRESENTATIVE PAGE/`_
+    9. `/REPRESENTATIVE PAGE/`_
 
     SYNAPSE
 
