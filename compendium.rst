@@ -666,6 +666,9 @@ If RISEN is a company, does that mean Systemspace was created for profit?
 Did every individual in Systemspace pay to join the simulation?
   They paid a small fee to uphold the processing power.
 
+How big are the different companies in terms of manpower, relative to each other?
+  eNdymioN is tiny, but has a lot of Systems, SYNAPSE is big af but RISEN is bigger.
+
 How does eNdymioN contribute to the TSUKI Project?
   Generic monitoring. They are currently busy looking out for the Hyakanghen.
 
