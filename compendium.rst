@@ -65,8 +65,8 @@ Index
 
 13. `Synapsian`_
 
-    1. `Collection of Synapsian Names, Phrases, Numbers, and Words`_
-    2. `Synapsian Pronunciation Guide`_
+    1. `Synapsian Pronunciation Guide`_
+    2. `Collection of Synapsian Names, Phrases, Numbers, and Words`_
 
 
 -----------------------------------------------------------------
