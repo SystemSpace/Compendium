@@ -63,7 +63,10 @@ Index
     
     18. `/404 PAGE/`_
 
-13. `Collection of Synapsian Names, Phrases, Numbers, and Words`_
+13. `Synapsian`_
+
+    1. `Collection of Synapsian Names, Phrases, Numbers, and Words`_
+    2. `Synapsian Pronunciation Guide`_
 
 
 -----------------------------------------------------------------
@@ -3421,6 +3424,16 @@ That is really all there is to us. We enjoy helping others, including those at t
 
 ----------------------------
 
+Synapsian
+---------
+
+Synapsian Pronunciation Guide
+-----------------------------
+
+.. image:: https://raw.githubusercontent.com/SystemSpace/Compendium/master/images/synapsian_pronunciation.png
+  :alt: Pronunciation guide
+  :width: 400px
+  :align: center
 
 Collection of Synapsian Names, Phrases, Numbers, and Words
 ----------------------------------------------------------
