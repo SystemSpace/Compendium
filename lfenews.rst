@@ -13,6 +13,8 @@ This file is a chronological archive of LFE news and happenings.
   Synapsian representatives are disturbed by the radio silence on eNdymioN's side.
 
   Second hand reports claim that eNdymioN employees associated with TSUKI are missing, and the group on strike is not connected to the TSUKI project.
+  
+  The void stream has changed, implying someone at eNdymioN is fiddling with it.
 
 2017-04-24
   eNdymioN provides Tsuki with a stream to put up on the TSUKI project website. They are saying it contains human-readable data.
