@@ -1,5 +1,5 @@
 
-.. image:: https://raw.githubusercontent.com/SystemSpace/Compendium/master/voidstream/images/tsuki_small.png
+.. image:: https://raw.githubusercontent.com/SystemSpace/Compendium/master/images/vulpes.png
   :alt: Vulpes News
   :align: center
 
