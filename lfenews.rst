@@ -2,6 +2,7 @@
 .. image:: https://raw.githubusercontent.com/SystemSpace/Compendium/master/images/vulpes.png
   :alt: Vulpes News
   :align: center
+  :width: 400px
 
 ---------
 
