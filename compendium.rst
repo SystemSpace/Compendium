@@ -599,8 +599,10 @@ Do clones have souls? Like, if one were to magically clone that person, is the c
   Only if you clone the soul as well. If you do, the User will then have 2 souls and 2 bodies to control simultaneously.
  
 Does that conform to the Conik standard?
-No. Absolutely not.
+  No. Absolutely not.
 
+How do you shatter yourself? Is there a way to guarantee shattering?
+  If you're in LFE, you can do it via the terminal. I think that goes for eNdymioN too. But it's heavily frowned upon, more than suicide is here.
 
 Aurora
 ------
@@ -1161,6 +1163,18 @@ Aren't there places or mechanisms that at least serve to connect Systems togethe
 Can you give us more details on some of the other Systems (Ha7, Isiki, Danbon, etc)?
   Most of them are pretty usual. The only one really worth noting is Danbon, where physical combat is not possible.
 
+Has anyone ever created a hell-like System?
+  Someone once made a system made for suffering once and lured people into it, it was called Kaneja.
+  
+What happened in it?
+  Nobody knows, all we know is that people disliked it.
+  
+Is Kaneja still running?
+  Nope, the Key shut it down.
+   
+What happened to Kaneja's creator?
+  He shattered himself, after being caught for being the creator of the worst System.
+  
 
 The Ha7 System
 --------------
