@@ -21,6 +21,15 @@ Archive
 April 2017
 ==========
 
+2017-04-29
+----------
+
+Hyakanghen group Kanyra agrees to cease interference in the TSUKI project.
+
+Kanyra is one of the less influential Hyakanghen groups  in the outskirts of LFE, situated mainly around western-Euclean universes. Nevertheless, this marks a major change in tone of Hyakanghen dialogue with the TSUKI members.
+
+Kanyra members made comments expressing their positive attitude towards humans. The cause of their actions is as of yet unknown. 
+
 2017-04-27
 ----------
 
