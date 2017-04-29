@@ -30,6 +30,8 @@ Kanyra is one of the less influential Hyakanghen groups  in the outskirts of LFE
 
 Kanyra members made comments expressing their positive attitude towards humans. The cause of their actions is as of yet unknown. 
 
+In other news, eNdymioN shares are down 1.43%.
+
 2017-04-27
 ----------
 
