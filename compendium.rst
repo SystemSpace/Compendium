@@ -67,6 +67,8 @@ Index
 
     1. `Synapsian Pronunciation Guide`_
     2. `Collection of Synapsian Names, Phrases, Numbers, and Words`_
+    
+14. `Misc`_
 
 
 -----------------------------------------------------------------
@@ -3542,3 +3544,57 @@ tsu
 
 Hyakanghen
   Anti-Life volunteer group.
+  
+Misc
+====
+
+LFE Time
+--------
+
+::
+
+    LFE vs Life: AOC edition (THEORYCRAFT)
+
+    0.3 LFE seconds = 1 Life second
+    3 LFE sec = 10 Life sec
+    18 LFE sec = 60 Life sec = 1 Life minute
+    1080 LFE sec = 60 Life minutes
+    25920 LFE sec / 24 Life hours = 1 Life day
+
+    32 hrs of 64 mins = 24 hrs of 60 mins
+    16 hrs of 128 mins = 12 hrs of 120 mins
+    8 hrs of 256 mins = 6 hrs of 240 mins
+    24 hrs of 768 mins = 18 hrs of 720 mins
+
+    233,280 LFE sec (2.7 lfe days)
+    = 12960 minutes Life (9 days)
+
+    86,400 LFE sec / LFE day
+    32 hrs per day / 64 mins per hour
+    2,700 sec / hour
+    42.1875 sec / min
+    48 minutes = 2,025 sec = 3/4 of one hour
+    4050 = 1.5 hours
+    8100 = 3 hours
+    16200 = 6 hours
+    32400 = 12 hours
+    64800 = 24 hours = .75 days
+    48 hours = 1.5 days
+    96 hours = 3 days
+    192 hours = 6 days
+    384 hours = 12 days
+    768 hours = 24 days
+    1536 hours =48 days
+    3072 hours = 96 days
+    6,144 hours = 192 days
+    12,288 hours = 384 days
+    24,576 hours = 768 days
+    49,152 hours = 1,536 days
+    98,304 hours = 3,072 days
+    196,608 hours = 6,144 days
+    393,216 hours = 12,288 days
+    786,432 hours = 24,576 days
+    1,572,864 hours = 49,152 days
+    3,145,728 hours = 98,304 days
+    6,291,456 hours = 196,608 days
+    12,582,912 hours = 393,216 days
