@@ -219,6 +219,11 @@ Where how? Different country, continent, planet?
 
   I could try and recreate the LFEian Circle (of all major species), I did so once but it'll be a mess on normal paper.
 
+What are the sentient races in LFE like?
+  They look pretty humanoid, Aurora seems to prefer this sort of build.
+  
+  All races have their own perks and weaknesses, I suppose. Synni are good thinkers, but not great fighters.
+  
 Could you give an example of one species?
   Well first of all there's always the mainstream ones like the ones you find in the Synapse, but I assume you want something more exotic so how about the Lynlings, who have a skin that perfectly mimics the night sky while flying?
 
@@ -307,6 +312,9 @@ How does time work in LFE?
 
   The seconds and hours are relatively the same, but as you get away from the smaller numbers it expands quickly.
 
+What is the time scale of LFE vs. Life?
+   It changes all the time, but about 1 Life second is about 0.3 LFE seconds.
+  
 Is the atomic structure the same?
   Completely different. None at all. Everything works differently there.
 
@@ -337,6 +345,9 @@ What are LFE news networks like?
 What other forms of media are there?
   There's a lot, sometimes people even just print a void onto the wall to read.
 
+What is courtship and love like in LFE?
+  Above all, breaking up is a bit of a taboo. Everybody either waits very long to find the perfect one or finds the perfect one instantly.
+
 Are there nations in LFE?
   Yes, they are divided into nations.
 
@@ -346,6 +357,12 @@ Are there any atrocities widely known in LFE?
 What are the most serious crimes in LFE?
   The most serious crime would be trying to make it impossible for someone to ever have good memories again.
 
+What is the crime rate in LFE compared to Life?
+  Depends on where you are, there's always the shitty places where there's a lot of crime but in general the crime rate is lower.
+
+How is the crime rate so low with all the magic/technology?
+  Everyone always carry what we call an "Identity". You can make as many Identities as you want, or only use the one given to you at birth. (This is so you can be anonymous.) However, all actions you do have your Identity linked to them, allowing those in power to find you (if you're stupid enough to reuse that Identity, or even worse, you just use your main).
+  
 What kind of weapons are used in LFE?
   They often use metadevelopment to move earth, use magic or railgun-like guns.
 
@@ -476,7 +493,7 @@ Does LFE have some form of zodiac?
 Can humans be banned from LFE?
   Humans cannot be banned.
 
-  Racism works a lot differently in LFE.
+  Racism works a lot differently in LFE. There's still racism, but not in the large places (like Ghakuwent'sji), because there's so many races there people stopped caring.
 
   Here's an unfinished (I need to make it more busy, it's still too empty, for one there's no people, no guardlines and no traffic) drawing of Sjiyantan-ko, a suburb of Kyansjita.
 
