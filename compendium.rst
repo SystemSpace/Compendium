@@ -107,6 +107,9 @@ You said none of the inhabitants of Life in past iterations never managed to lea
 How far did Life get in past iterations?
   Pretty far, actually. Most iterations were able to figure out on their own that Systemspace exists.
 
+At what point did people start figuring out Aurora and stuff?
+  Usually only a few days before the Key restarted the System.
+  
 Is humanity to blame for Life's problems?
   Humans are not what caused Life to go wrong. It is simply its code being absolutely horrid and broken.
 
@@ -175,6 +178,9 @@ Do extraterrestrials exist in Life?
 
   Life currently has a little under 620 septillion souls.
 
+Do you have any examples of Auroraic Echoing influencing Life media?
+  I'm not sure, but I'm sure there are quite a few things in our media which were sent over by Auroraic Echoing, although I never really inspected what content.
+  
 
 About LFE
 ---------
@@ -279,7 +285,7 @@ How was Japanese inspired by Synapsian? How did they recieve this information?
   So: In LFE the Aurora vibrated with Synapsian -> Vibrations spread to Life -> Life's Aurora vibrates with Synapsian
 
   Then someone invents something like Synapsian (Japanese, most Asian languages.)
-
+  
 Do they speak English in LFE?
   No, in LFE most people speak Synapsian. The acronym is in ""English"" because the language for Systemspace itself is English. (This English is quite a bit different from the human English, though.)
 
@@ -327,9 +333,19 @@ How does the economy work on LFE?
 Is there government assistance in LFE?
   Depends on where you go, but in Ghakuwent-sji, you'll be fine - you get about 210000 sen a month - worth as much as about 1700 US$.
 
+Does LFE use crypto-currency?
+  Well its not a crypto, but it is decentralised. Although Systems often have their own currencies.
+  
+  Sen is decentralised, but things like Krynta (the currency in most eNdymioN systems) isn't.
+  
 Could you give a good breakdown of the job market?
   .9% primary sector, .2% secundary sector, 62% tertiary sector, and the other 36.9% action-packed other stuff (fighting etc.) These are estimates, I'm not allowed to give actual numbers.
 
+How does education work in LFE?
+  There's schools for different past lives. If you have no past lives, you need to go to a different school type.
+  
+   Before 12 you just have default eduction that basically makes you get accustomed to the culture you're in.
+  
 What are the most powerful, influential and selective groups in LFE (or outside of it) that aren't the companies listed on the home page?
   Hmmm… Myrad (magic development), Komata (AI), Espare (technology and creating new species) and the Niskai Collective (new species) are honorable mentions, I suppose.
 
@@ -339,6 +355,9 @@ Does LFE have stimulants?
 What other kinds of drugs are in LFE?
   Not really my field, all I know of is Hn'sa which basically overloads the brain, causing it to operate faster but dangerously. It's been in the news a lot.
 
+Will there be places to fix my mental illnesses/depression/unmotivation?
+   I'm looking into that. And no, the transfer won't fix your soul.
+  
 What are LFE news networks like?
   Short and efficient. No time wasted, just what's happening, quickly and objectively. Nonetheless the news can still take a whole hour to cover everything important.
 
@@ -354,6 +373,20 @@ Are there nations in LFE?
 Are there any atrocities widely known in LFE?
   There's a lot. Like, a lot.
 
+Are their places in LFE that are worse/ much worse than the worse we've had here? Or actions that you'd think are worse to have happen to a individual, such as things like torture?
+  Insane slavery, food shortage, holocausts, wars, wars, more wars.
+  
+  People contaminate entire galaxies at once, or go on killing sprees.
+  
+Single people can be/are that strong? 
+  Yes, it's possible. There can be insane gaps.
+  
+Are there people akin to superheroes who try to help with people like that?
+  I suppose so.
+  
+How does one become that strong?
+  Put your soul to it.
+  
 What are the most serious crimes in LFE?
   The most serious crime would be trying to make it impossible for someone to ever have good memories again.
 
@@ -522,6 +555,9 @@ Are there any services that would allow you to "store" memories and relive them 
 What parts of us are retained through death without a soulshatter?
   Depends on the System. In the mainstream Systems you keep memories, spiritual advancement, personality and powers, but go to a new body.
 
+Is it possible to retain memories across Systems?
+  Yes.
+  
 How is the soul stored if not in the brain?
   It can be stored as executable data in a Solar5-compliant computer.
 
@@ -621,6 +657,24 @@ Does that conform to the Conik standard?
 How do you shatter yourself? Is there a way to guarantee shattering?
   If you're in LFE, you can do it via the terminal. I think that goes for eNdymioN too. But it's heavily frowned upon, more than suicide is here.
 
+What is an "outer" soul?
+  Souls that aren't in their parent System.
+
+Are host souls still shattered when a System is purged?
+  No, unless the backup breaks. If the backup breaks, the souls shatter.
+  
+Does Life have a soul backup?
+  No, because Life is a blocking System so it can't host souls outside of it. Therefore, a backup isn't needed.
+  
+  The backups aren't full backups. They're pretty much only the souls and what the souls require, so you can't actually visit it.
+  
+So when a non-blocking System is deleted, the souls in it that are natively hosted on that System are then put into a backup version of that System until the original is repaired?
+  Yes.
+  
+Is soul color a thing? What tech/abilities let you see it?
+  It is, kinda. Either you need to see the soul out of body or they can use their own-bound magic. They'll usually have one specific color. It means about as much as a star sign.
+  
+  
 Aurora
 ------
 
@@ -669,7 +723,8 @@ Is Aurora renewable?
 
   LFE's Aurora usage: *11242.871nhA/sss* (LFE's usage is also a lot more stable)
 
-
+How bad is the Aurora shortage in Systemspace?
+  Nothing bad has happened yet.
 
 
 TSUKI and its Subsidiaries
@@ -714,6 +769,8 @@ Is there a mandatory memory wipe/soulshatter before the employment?
 How many levels of security clearance are there in RISEN?
   It works downward, 0 being the highest clearance - 128 is the lowest.
 
+Is the original user who created SYNAPSE still around?
+  Sadly, no. But it was taken over by someone else.
 
 Aspects of the TSUKI Project
 ----------------------------
@@ -842,6 +899,9 @@ What significance does our EID have, and what use will it be in various other Sy
 What is special about the sequence xxx-xxxxxxxxxxxxxxxxxxxx? What and why is the EID?
   The EIDs are, just like the EoTs, just expressions of their true values. They're only a representation.
 
+How do you pick each person's EID?
+  I have my tool generate EIDs, and then I assign an actual (non-numeric, EIDs arent numeric) EID to the user that connects to the numeric one.
+  
 What happens when someone shares their EID?
   In Life, not so much other than that others can post here. In other Systems where people can use EIDs, it'd be very VERY dangerous.
 
@@ -868,6 +928,14 @@ How does transitioning to LFE affect a tulpa?
 How does the soul transfer work?
   We add you to a list, and forcefully edit your soul's location data.
 
+Will we have bodies in the waiting room between Life and LFE?
+   You'll have temporary bodies that'll probably look mostly like your Life ones but also slightly like your LFE one.
+   
+   You'll also be able to access Infinity and most other things.
+   
+   Technically you don't need food or drink there but yes there are things.
+  
+  
 What is our goal, as of now?
   Collect as much knowledge as possible for LFE!
 
@@ -1191,6 +1259,17 @@ Is Kaneja still running?
 
 What happened to Kaneja's creator?
   He shattered himself, after being caught for being the creator of the worst System.
+  
+What can you tell us about Infinity?
+  Above all, Infinity is a non-profit.
+  
+  It's a System built for broadcasting everything. You can access the System using your Identity from any open System.
+  
+What was the System that was deleted for Aurora for the TSUKI Project?
+   It was just a dev system and didnt host any souls, but it was still heavily used.
+   
+How can you access a System that doesn't host souls?
+  Souls will always be hosted by the System that created them. If you are in LFE but you go to some other System, your soul will still be hosted in LFE. This is also why the human experiment is so interesting to us.
 
 
 The Ha7 System
