@@ -56,16 +56,16 @@ Timeline
 7. At 7:49 PM, the second mp4 was extracted and found to be identical with the first. The same was confirmed for the third mp4 file.
 8. **A download started at 8:49 PM GMT, April 26th was found not to contain the MP4 headers anymore**. Results were confirmed by other downloads. This marks the first known instance of the second iteration of the void file.
 9. **At 4PM, April 26th, 179 found a PNG file in the void stream**. We were able to extract a complete PNG file, albeit with a malformed adaptive filter type. The raw PNG can be found `at images/corrupt.png
-   <https://github.com/SystemSpace/Compendium/blob/master/voidstream/images/corrupt.png>`_, with a cleaned-up version here:
+   <voidstream/images/corrupt.png>`_, with a cleaned-up version here:
 
-   .. image:: https://raw.githubusercontent.com/SystemSpace/Compendium/master/voidstream/images/tsuki_corrupt_small.png
+   .. image:: voidstream/images/tsuki_corrupt_small.png
     :alt: TSUKI.PNG
     :width: 400px
     :align: center
 
 10. **At 5PM, April 27th, TSUKI.PNG had been extracted and decorrupted enough to be legible.**
 
-   .. image:: https://raw.githubusercontent.com/SystemSpace/Compendium/master/voidstream/images/tsuki_small.png
+   .. image:: voidstream/images/tsuki_small.png
      :alt: TSUKI.PNG
      :width: 400px
      :align: center
@@ -108,11 +108,11 @@ Facts
 - The non-null data differs with each download. It has previously proven to contain valid files - these sections will be referred to hereinafter as **payload sections**, to differentiate them from **garbage sections** which do not, as far as we know, contain anything of importance.
 - Analysis by ``strings`` doesn't find anything human-readable within the garbage sections that is not consistent with random or raw binary data.
 - The garbage sections are mostly made up of seemingly random repeating subsections. `Here is a sample of all strings of length at least 8 in a randomly selected section of the void stream
-  <https://raw.githubusercontent.com/SystemSpace/Compendium/master/voidstream/voidfile_strings_8_bytes_plus.txt>`_.
+  <voidstream/voidfile_strings_8_bytes_plus.txt>`_.
 - The repeating sections don't match either between different downloads.
 - The matches between garbage sections from different downloads are so sparse, they probably are pure coincidence. Screencap from a random section of the first gigabyte of two different downloads:
 
-  .. image:: https://raw.githubusercontent.com/SystemSpace/Compendium/master/voidstream/images/matches.png
+  .. image:: voidstream/images/matches.png
     :alt: Matching bytes
     :width: 400px
     :align: center
@@ -166,7 +166,7 @@ Theories
   The file contained a raw .mp4 file.
   
 - Tsuki alleges he found an mp4 file header embedded in the file. He provided `this file
-  <https://raw.githubusercontent.com/SystemSpace/Compendium/master/voidstream/tsuki_header.txt>`_ as proof 
+  <voidstream/tsuki_header.txt>`_ as proof 
   
   .. raw:: html
     
@@ -174,7 +174,7 @@ Theories
 
   **CONFIRMED**:
 
-  .. image:: https://raw.githubusercontent.com/SystemSpace/Compendium/master/voidstream/images/mp4header.png
+  .. image:: voidstream/images/mp4header.png
     :alt: MP4 header
     :width: 400px
     :align: center
@@ -198,7 +198,7 @@ TEST.MP4 - What we know
 
 - The MP4 header position (or occurence at all, possibly) in the file is not constant. Out of four downloads of the first gigabyte of the file, only two of them contained the header:
 
-  .. image:: https://raw.githubusercontent.com/SystemSpace/Compendium/master/voidstream/images/mp4occurence.png
+  .. image:: voidstream/images/mp4occurence.png
     :alt: Matching bytes
     :width: 400px
     :align: center
@@ -210,7 +210,7 @@ TEST.MP4 - What we know
 - Despite the corruption, it is playable.
 - The video track displays an image with white symbols with a black shadow resembling ``3 + G`` on a blue background:
 
-  .. image:: https://raw.githubusercontent.com/SystemSpace/Compendium/master/voidstream/images/firstmp4.png
+  .. image:: voidstream/images/firstmp4.png
     :alt: The image
     :width: 400px
     :align: center
@@ -276,7 +276,7 @@ TSUKI.PNG has been extracted from the second iteration of the void stream. It ha
 TSUKI.PNG - What we know
 ------------------------
 
-.. image:: https://raw.githubusercontent.com/SystemSpace/Compendium/master/voidstream/images/tsuki_small.png
+.. image:: voidstream/images/tsuki_small.png
   :alt: TSUKI.PNG
   :width: 400px
   :align: center
@@ -310,7 +310,7 @@ At 11 AM, automatic extraction of PNG files from the stream was launched. It was
 ``curl`` was downloading the file, and the output was being piped into ``pngcheck``. ``pngcheck`` is a multi-purpose tool used for primarily for checking the validity of PNG files, but also including the incredibly useful ``-x`` option that causes it to try and extract PNGs from anything passed to it - and also, incidentally, fix the CRC headers. (CRC is an error-detection algorithm; each section of a PNG file has a CRC section specifying a hash of the data. If the CRC section differs from the actual hash, the image is corrupt.)
 
 After extracting 300+ files, the second step of the operation was launched - calculating the "averaged" PNG. To aid in this task, a Python script, which can be found `here
-<https://github.com/SystemSpace/Compendium/blob/master/voidstream/extract.py>`_, was written.
+<voidstream/extract.py>`_, was written.
 
 After running the Python script, we were left with a PNG file with invalid CRC headers. It was once again passed to ``pngcheck -x`` to correct the headers - and with that, we obtained the final TSUKI.PNG.
  

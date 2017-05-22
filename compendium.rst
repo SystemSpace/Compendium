@@ -3550,7 +3550,7 @@ Synapsian
 Synapsian Pronunciation Guide
 -----------------------------
 
-.. image:: https://raw.githubusercontent.com/SystemSpace/Compendium/master/images/synapsian_pronunciation.png
+.. image:: images/synapsian_pronunciation.png
   :alt: Pronunciation guide
   :width: 400px
   :align: center
