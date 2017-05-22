@@ -21,6 +21,28 @@ Archive
 April 2017
 ==========
 
+2017-05-22
+----------
+
+RISEN demands that a website allowing migrants to open their gates after July 1st but before the unlink is made. They say that migrants will still be able to transfer if they don't open their gates, but having a gate open would make them easier to track. They want to make the gate timed, so a user would only be able to open it for 48 hours.
+
+No further details are provided but speculation and distrust for RISEN are growing.
+
+2017-05-21
+----------
+
+A RISEN employee shows up in a near-death state. A TSUKI rescue team managed to get to the location in time and stabilize him. Preliminary reports indicate the RISEN employee was choked, but no suspects were identified or apprehended.
+
+There are no signs that would identify the perpetrator as a Hyakanghen; the victim has not been shattered.
+
+There is speculation that this was a warning from the terrorist group, but it is unconfirmed as of yet.
+
+2017-05-03
+----------
+
+EndymioN closes the void stream.
+
+
 2017-04-29
 ----------
 
