@@ -1,4 +1,4 @@
-.. image:: https://raw.githubusercontent.com/SystemSpace/Compendium/master/images/vulpes.png
+.. image:: /images/vulpes.png
   :alt: Vulpes News
   :align: center
   :width: 200 px
