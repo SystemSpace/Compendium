@@ -286,6 +286,9 @@ How was Japanese inspired by Synapsian? How did they recieve this information?
 
   Then someone invents something like Synapsian (Japanese, most Asian languages.)
   
+Is Synapsian a naturally created language, or was it deliberately designed with the intent of creating a universal language?
+  A mix of both. It's very early stage was deliberately created but it has evolved.
+  
 Do they speak English in LFE?
   No, in LFE most people speak Synapsian. The acronym is in ""English"" because the language for Systemspace itself is English. (This English is quite a bit different from the human English, though.)
 
@@ -346,6 +349,9 @@ How does education work in LFE?
   
    Before 12 you just have default eduction that basically makes you get accustomed to the culture you're in.
   
+What are the most important fields of science in LFE?
+  I'd say programming, alternate species, intersystematical science, etc.
+  
 What are the most powerful, influential and selective groups in LFE (or outside of it) that aren't the companies listed on the home page?
   Hmmm… Myrad (magic development), Komata (AI), Espare (technology and creating new species) and the Niskai Collective (new species) are honorable mentions, I suppose.
 
@@ -355,8 +361,11 @@ Does LFE have stimulants?
 What other kinds of drugs are in LFE?
   Not really my field, all I know of is Hn'sa which basically overloads the brain, causing it to operate faster but dangerously. It's been in the news a lot.
 
+What is medicine like in LFE?
+  There are different medicines and surgeons for different species, but a lot of species have stuff in common so a few things can be used on multiple species. AI are often used, but a lot of things are still done by hand!
+  
 Will there be places to fix my mental illnesses/depression/unmotivation?
-   I'm looking into that. And no, the transfer won't fix your soul.
+  I'm looking into that. And no, the transfer won't fix your soul.
   
 What are LFE news networks like?
   Short and efficient. No time wasted, just what's happening, quickly and objectively. Nonetheless the news can still take a whole hour to cover everything important.
@@ -639,6 +648,9 @@ Has there been a soulless person that tried to sign up yet?
 What is the file size of a soul?
   Honestly all I know is that the usual soul takes about 20 snhV. No clue how much that is in bytes.
 
+Can you extract/inject stuff from/into your soul?
+  You can easily extract stuff and inject stuff. However, natural memories aren't perfect.
+  
 Is love a soul to soul relation, or is it purely physical attraction?
   Love is very deeply rooted in the soul.
 
@@ -934,11 +946,18 @@ Will we have bodies in the waiting room between Life and LFE?
    You'll also be able to access Infinity and most other things.
    
    Technically you don't need food or drink there but yes there are things.
-  
+   
+   Transferring to the waiting room is the hardest part of the transfer. From there on it's easy because you're no longer in a closed System.
   
 What is our goal, as of now?
   Collect as much knowledge as possible for LFE!
 
+Does the upgrade of Systemspace to Systemspace 2 still occur on July 1st, 2017 even though the unlink date has changed?
+  No, the upgrade is at the unlink.
+  
+What about the force bond?
+  The force bond is applied upon registration.
+  
 
 Tsuki, the Representative
 -------------------------
