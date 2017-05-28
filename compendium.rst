@@ -73,7 +73,7 @@ Index
 
     #. `/404 PAGE/`_
 
-#. `Synapsian`_
+#. `What we know about Synapsian`_
 
     #. `Synapsian Pronunciation Guide`_
     #. `Collection of Synapsian Names, Phrases, Numbers, and Words`_
@@ -3618,8 +3618,8 @@ That is really all there is to us. We enjoy helping others, including those at t
 
 ----------------------------
 
-Synapsian
----------
+What we know about Synapsian
+----------------------------
 
 Synapsian Pronunciation Guide
 -----------------------------
