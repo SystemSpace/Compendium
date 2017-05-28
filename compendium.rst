@@ -11,14 +11,14 @@ Index
 #. `Life`_
 #. `About LFE`_
 
-    #.  `Species`_
-    #.  `Synapsian`_
-    #.  `Science`_
-    #.  `Economy`_
-    #.  `Culture`_
-    #.  `Technology`_
-    #.  `Magic`_
-    #.  `System Parameters`_
+   #. `Species`_
+   #. `Synapsian`_
+   #. `Science`_
+   #. `Economy`_
+   #. `Culture`_
+   #. `Technology`_
+   #. `Magic`_
+   #. `System Parameters`_
 
 #. `Souls, Experience, Memories, and Users`_
 #. `Aurora`_
@@ -28,27 +28,27 @@ Index
 #. `The Key`_
 #. `Systems / Systemspace in General`_
 
-    #. `The Ha7 System`_
+   #. `The Ha7 System`_
 
 #. `Hyakanghen`_
 #. `Statements Made by Tsuki`_
 #. `Text Archive of systemspace.link as of Apr 23 2017`_
 
-    #. `/HOME PAGE/`_
-    #. `/STATUS PAGE/`_
-    #. `/REGISTER PAGE/`_
-    #. `/LISTING PAGE/`_
-    #. `/GLOSSARY PAGE/`_
-    #. `/FAQ PAGE/`_
-    #. `/NEWS PAGE/`_
-    #. `/DATAVERSES PAGE/`_
+   #. `/HOME PAGE/`_
+   #. `/STATUS PAGE/`_
+   #. `/REGISTER PAGE/`_
+   #. `/LISTING PAGE/`_
+   #. `/GLOSSARY PAGE/`_
+   #. `/FAQ PAGE/`_
+   #. `/NEWS PAGE/`_
+   #. `/DATAVERSES PAGE/`_
 
-       #. `/INFINITY PAGE/`_
-       #. `/INFINITY II PAGE/`_
-       #. `/THOUGHTS PAGE/`_
+      #. `/INFINITY PAGE/`_
+      #. `/INFINITY II PAGE/`_
+      #. `/THOUGHTS PAGE/`_
 
-          #. `/ECHOES PAGE/`_
-          #. `/THE BURDEN OF TRUTH PAGE/`_
+         #. `/ECHOES PAGE/`_
+         #. `/THE BURDEN OF TRUTH PAGE/`_
 
     #. `/REPRESENTATIVE PAGE/`_
 
@@ -75,8 +75,8 @@ Index
 
 #. `What we know about Synapsian`_
 
-    #. `Synapsian Pronunciation Guide`_
-    #. `Collection of Synapsian Names, Phrases, Numbers, and Words`_
+   #. `Synapsian Pronunciation Guide`_
+   #. `Collection of Synapsian Names, Phrases, Numbers, and Words`_
 
 #. `Misc`_
 
