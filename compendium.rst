@@ -1,4 +1,4 @@
-SystemSpace Compendium revision 5.8
+SystemSpace Compendium revision 5.9
 ===================================
 
 This document serves as a repository of all current knowledge of Systemspace. It has been categorized and spelling and grammar mistakes have been corrected. Some questions and answers have been slightly reformatted but have been in a manner which ensures that no meaning or context is lost. Searching through the Discord with snippets of the question/answer pairs, or just backtracking through all of Tsuki's messages will verify this. For information taken from 4chan's /r9k/ board and TSUKICHAN's /lfe/ board, archives of the original threads are verified and can be found on desuarchive. Honorable mention to Unterminator for providing the initial pastebins which got me started. - Yari (655)
@@ -8,67 +8,77 @@ Migrant in charge of formatting/publishing: Kᵣettu (1336)
 Index
 =====
 
-1. `Life`_
-2. `About LFE`_
-3. `Souls, Experience, Memories, and Users`_
-4. `Aurora`_
-5. `TSUKI and its Subsidiaries`_
-6. `Aspects of the TSUKI Project`_
-7. `Tsuki, the Representative`_
-8. `The Key`_
-9. `Systems / Systemspace in General`_
+#. `Life`_
+#. `About LFE`_
 
-   1. `The Ha7 System`_
+    #.  `Species`_
+    #.  `Synapsian`_
+    #.  `Science`_
+    #.  `Economy`_
+    #.  `Culture`_
+    #.  `Technology`_
+    #.  `Magic`_
+    #.  `System Parameters`_
 
-10. `Hyakanghen`_
-11. `Statements Made by Tsuki`_
-12. `Text Archive of systemspace.link as of Apr 23 2017`_
+#. `Souls, Experience, Memories, and Users`_
+#. `Aurora`_
+#. `TSUKI and its Subsidiaries`_
+#. `Aspects of the TSUKI Project`_
+#. `Tsuki, the Representative`_
+#. `The Key`_
+#. `Systems / Systemspace in General`_
 
-    1. `/HOME PAGE/`_
-    2. `/STATUS PAGE/`_
-    3. `/REGISTER PAGE/`_
-    4. `/LISTING PAGE/`_
-    5. `/GLOSSARY PAGE/`_
-    6. `/FAQ PAGE/`_
-    7. `/NEWS PAGE/`_
-    8. `/DATAVERSES PAGE/`_
+    #. `The Ha7 System`_
 
-       1. `/INFINITY PAGE/`_
-       2. `/INFINITY II PAGE/`_
-       3. `/THOUGHTS PAGE/`_
+#. `Hyakanghen`_
+#. `Statements Made by Tsuki`_
+#. `Text Archive of systemspace.link as of Apr 23 2017`_
 
-          1. `/ECHOES PAGE/`_
-          2. `/THE BURDEN OF TRUTH PAGE/`_
+    #. `/HOME PAGE/`_
+    #. `/STATUS PAGE/`_
+    #. `/REGISTER PAGE/`_
+    #. `/LISTING PAGE/`_
+    #. `/GLOSSARY PAGE/`_
+    #. `/FAQ PAGE/`_
+    #. `/NEWS PAGE/`_
+    #. `/DATAVERSES PAGE/`_
 
-    9. `/REPRESENTATIVE PAGE/`_
+       #. `/INFINITY PAGE/`_
+       #. `/INFINITY II PAGE/`_
+       #. `/THOUGHTS PAGE/`_
+
+          #. `/ECHOES PAGE/`_
+          #. `/THE BURDEN OF TRUTH PAGE/`_
+
+    #. `/REPRESENTATIVE PAGE/`_
 
     SYNAPSE
 
-    10. `/SYNAPSE EXPLORE LFE PAGE/`_
-    11. `/SYNAPSE EOT PAGE/`_
-    12. `/SYNAPSE ABOUT PAGE/`_
+    #. `/SYNAPSE EXPLORE LFE PAGE/`_
+    #. `/SYNAPSE EOT PAGE/`_
+    #. `/SYNAPSE ABOUT PAGE/`_
 
     RISEN
 
-    13. `/RISEN OUR GOAL PAGE/`_
-    14. `/RISEN EOT PAGE/`_
-    15. `/RISEN ABOUT PAGE/`_
+    #. `/RISEN OUR GOAL PAGE/`_
+    #. `/RISEN EOT PAGE/`_
+    #. `/RISEN ABOUT PAGE/`_
 
     eNdymioN
 
-    16. `/ENDYMION EOT PAGE/`_
-    17. `/ENDYMION ABOUT PAGE/`_
+    #. `/ENDYMION EOT PAGE/`_
+    #. `/ENDYMION ABOUT PAGE/`_
 
     Misc. Pages
 
-    18. `/404 PAGE/`_
+    #. `/404 PAGE/`_
 
-13. `Synapsian`_
+#. `Synapsian`_
 
-    1. `Synapsian Pronunciation Guide`_
-    2. `Collection of Synapsian Names, Phrases, Numbers, and Words`_
+    #. `Synapsian Pronunciation Guide`_
+    #. `Collection of Synapsian Names, Phrases, Numbers, and Words`_
 
-14. `Misc`_
+#. `Misc`_
 
 
 -----------------------------------------------------------------
@@ -206,24 +216,18 @@ How old is LFE?
 
   We've had to reboot LFE a few times now, actually. The version of LFE you'll be starting into will be the 128th iteration.
 
+Will LFE be even better by the time we get there?
+  Definitely.
+  
+Species
+-------
+  
 What type of life exists in LFE?
   Heh, there's so many species and subspecies it'll be impossible to name them all.
 
-  There's mostly 2 groups, magical beings and scientific beings. Both are usually humanoid - magical beings includes demons, angels and fallen angels, and scientific beings includes datamen, espers and others.
-
-How does magic work in LFE?
-  The "protocol" for magic is soul-based. Although you need to remember that magic is not a nameable thing like technology. Magic is the art of using specific codes of energy (created by the soul) to override the rules of reality in your own shape. Like remote code insertion into a webserver.
-
-What are the main governing principles that separate magic from science?
-  Magic is editing the world with energy, while technology is editing the world with materials.
-
-How advanced is life in LFE?
-   Very advanced, but it depends where you are very much.
-
-Where how? Different country, continent, planet?
-  Usually different planet.
-
   I could try and recreate the LFEian Circle (of all major species), I did so once but it'll be a mess on normal paper.
+  
+  There's mostly 2 groups, magical beings and scientific beings. Both are usually humanoid - magical beings includes demons, angels and fallen angels, and scientific beings includes datamen, espers and others.
 
 What are the sentient races in LFE like?
   They look pretty humanoid, Aurora seems to prefer this sort of build.
@@ -248,10 +252,14 @@ Are the Synnis anything like humans?
 Tsuki, could you give an example of Synni culture from our perspective?
   I'll see if I can include this in a later Dataverse.
 
-How common are interspecies relationships?
-  Common, although depends on the species and their culture.
+Are there any extremely long-lived species in LFE?
+  The Korta are known for living a long time.
 
-What language are those names?
+
+Synapsian
+---------
+  
+What languages are the names of all these things?
   Synapsian. (mostly)
 
 Is Synapsian the default language? Where could someone learn this language?
@@ -292,9 +300,24 @@ Is Synapsian a naturally created language, or was it deliberately designed with 
 Do they speak English in LFE?
   No, in LFE most people speak Synapsian. The acronym is in ""English"" because the language for Systemspace itself is English. (This English is quite a bit different from the human English, though.)
 
+Do they know English?
+  No, but it can be translated.
+  
 Do you mind explaining some of the curse words that they use in LFE?
   Honestly swearing doesn't really have it own words - it's more the way you talk to people that signifies your disgust. If anything, the word "t'xa" would be something along the lines of "fuck" or "shit".
 
+  
+  
+  
+Science
+-------
+  
+How advanced is life in LFE?
+   Very advanced, but it depends where you are very much.
+
+Where how? Different country, continent, planet?
+  Usually different planet.  
+  
 Are worlds in LFE specifically earth-like?
   LFE still hasn't been fully explored.
 
@@ -327,6 +350,44 @@ What is the time scale of LFE vs. Life?
 Is the atomic structure the same?
   Completely different. None at all. Everything works differently there.
 
+What is medicine like in LFE?
+  There are different medicines and surgeons for different species, but a lot of species have stuff in common so a few things can be used on multiple species. AI are often used, but a lot of things are still done by hand!
+  
+Does LFE have stimulants?
+  Coffee is a lot like konhya in LFE, so I guess it'll do.
+
+What other kinds of drugs are in LFE?
+  Not really my field, all I know of is Hn'sa which basically overloads the brain, causing it to operate faster but dangerously. It's been in the news a lot.
+  
+Will there be places to fix my mental illnesses/depression/unmotivation?
+  I'm looking into that. And no, the transfer won't fix your soul.
+
+Will I be able to be a machine in LFE?
+  Yes, although a bit more risky than using a normal body. Software issue -> soulshatter.
+
+Are there anti-robot/cyborg groups in LFE?
+  Yes, most definitely! Pretty much the entire magic side is against artificial soul/vessels.
+
+Could you go over all of the available or at least a few of the most common services available for modifying one's body?
+  First of all, there's the popular but highly controversial soul transplant - putting your soul in someone else's or even a new body. In this way, you can have any body possible, including robot bodies. You can also pretty much change everything via other bodyforming methods, which are more usual, like changing shape of body, gender, eyes, etc.
+
+  I'll be simple. The sky's the limit. We can add/remove/change bones (hnhehen), change skin (hdhahen), add/remove/move/change eyes/mouth/etc (mhenhen), add/remove/move body parts (khrahen), anything.
+
+  Writing body-mudded words is hard with the english alphabet :(
+
+  These all have to do with the body, so they're all mudded towards the empty h (body)
+  as such, "SJI" becomes "SH"
+
+  if you were to mud it towards Sky it'd be like "sjy" with a pitched-up i
+  it's interesting, this language, as its vocabulary is very very close to the Japanese one but its writing system took a completely different turn somewhere.
+  
+Will we dream in LFE?
+  You will dream, yes. There's a lot of dream-related little facts, but mainly it is possible to access other Systems via dreams (as you can move yourself around "spiritually" to the other Systems), although you will have no true body or soul there. Dreams are also the easiest way to talk to Auroraic Spirits (in fact, I did so last night).
+
+  
+Economy
+-------
+  
 Are the politics and economy in LFE a mess like they are in Life?
   Everything is sorted out a lot better over there, from years and years of time.
 
@@ -355,17 +416,9 @@ What are the most important fields of science in LFE?
 What are the most powerful, influential and selective groups in LFE (or outside of it) that aren't the companies listed on the home page?
   Hmmm… Myrad (magic development), Komata (AI), Espare (technology and creating new species) and the Niskai Collective (new species) are honorable mentions, I suppose.
 
-Does LFE have stimulants?
-  Coffee is a lot like konhya in LFE, so I guess it'll do.
 
-What other kinds of drugs are in LFE?
-  Not really my field, all I know of is Hn'sa which basically overloads the brain, causing it to operate faster but dangerously. It's been in the news a lot.
-
-What is medicine like in LFE?
-  There are different medicines and surgeons for different species, but a lot of species have stuff in common so a few things can be used on multiple species. AI are often used, but a lot of things are still done by hand!
-  
-Will there be places to fix my mental illnesses/depression/unmotivation?
-  I'm looking into that. And no, the transfer won't fix your soul.
+Culture
+-------
   
 What are LFE news networks like?
   Short and efficient. No time wasted, just what's happening, quickly and objectively. Nonetheless the news can still take a whole hour to cover everything important.
@@ -376,6 +429,12 @@ What other forms of media are there?
 What is courtship and love like in LFE?
   Above all, breaking up is a bit of a taboo. Everybody either waits very long to find the perfect one or finds the perfect one instantly.
 
+Is there racism in LFE?
+  Racism works a lot differently in LFE. There's still racism, but not in the large places (like Ghakuwent'sji), because there's so many races there people stopped caring.
+
+How common are interspecies relationships?
+  Common, although depends on the species and their culture.
+  
 Are there nations in LFE?
   Yes, they are divided into nations.
 
@@ -405,6 +464,40 @@ What is the crime rate in LFE compared to Life?
 How is the crime rate so low with all the magic/technology?
   Everyone always carry what we call an "Identity". You can make as many Identities as you want, or only use the one given to you at birth. (This is so you can be anonymous.) However, all actions you do have your Identity linked to them, allowing those in power to find you (if you're stupid enough to reuse that Identity, or even worse, you just use your main).
 
+Is there religion in LFE?
+  Yes, very much so!!!!! Who controls the Aurora? Who is Aurora? Is it sentient? Who created the outer world outside Systemspace? Why does Aurora take a sudden turn? Is it because of a special god using its powers to diverge the Aurora?
+
+Is impermanence is a big thing in LFE?
+  It's one of the main parts of most of the religions.
+
+Does LFE have some form of zodiac?
+  Yes it does, LFErs love spiritual shit. They have about 49 signs if I remember correctly, don't quote me on that.
+  
+Is there music in LFE?
+  Yes, there is! It's quite a bit different though, people like to encode data (voids) into their music to evoke feeling or make you dream.
+  
+Are there guitars in LFE?
+  LFE only has the really annoying ukeleles you hear in those dog treat ads when the dog finally gets the food that's "right for him".
+
+How does regaining previous live's memories work?
+  Most people in LFE have past life memories.
+
+  Everyone has a 12-year wait time until they regain their memories. This is also why 12 is usually the age of consent/adulthood.
+
+  A soul is fully stably adapted to its body when it remembering its past lives, almost always 12 years after birth. This is often celebrated with a gigantic party for the child on their "Recollection Day". This also marks the start of soul-based and mental adulthood.
+  
+Am I right in assuming the age of consent in LFE would be 12?
+  In most places, yes.
+  
+  Some go down to 9, some go up to 25. Some don't even use body age, but soul age.
+  
+Are transgenders allowed in LFE?
+  Nobody really cares about sexuality other than to have offspring.
+
+  
+Technology
+----------
+  
 What kind of weapons are used in LFE?
   They often use metadevelopment to move earth, use magic or railgun-like guns.
 
@@ -418,7 +511,7 @@ What does warfare and combat look like in LFE?
 How much of Life can LFE viewers see and understand?
   Only as much as we allow them to see. They know about this project, they know that Life will be deleted.
 
-There has been some import/export to/from Life in most previous iterations, but we have not hit that stage this iteration.
+  There has been some import/export to/from Life in most previous iterations, but we have not hit that stage this iteration.
 
 Can LFE viewers access systemspace.link?
   They can, but they cannot interact. (They read the imageboard, but do not post.)
@@ -432,18 +525,26 @@ Do they read the Discord too?
 Do they observe individual personalities of registrants that display names or numbers?
   I'm sure some do, but most are more interested in you as a whole.
 
-Do they know English?
-  No, but it can be translated.
+  
+Magic
+-----
 
-Is there music in LFE?
-  Yes, there is! It's quite a bit different though, people like to encode data (voids) into their music to evoke feeling or make you dream.
+How does magic work in LFE?
+  The "protocol" for magic is soul-based. Although you need to remember that magic is not a nameable thing like technology. Magic is the art of using specific codes of energy (created by the soul) to override the rules of reality in your own shape. Like remote code insertion into a webserver.
 
-Will we dream in LFE?
-  You will dream, yes. There's a lot of dream-related little facts, but mainly it is possible to access other Systems via dreams (as you can move yourself around "spiritually" to the other Systems), although you will have no true body or soul there. Dreams are also the easiest way to talk to Auroraic Spirits (in fact, I did so last night).
+What are the main governing principles that separate magic from science?
+  Magic is editing the world with energy, while technology is editing the world with materials.
 
-Are there guitars in LFE?
-  LFE only has the really annoying ukeleles you hear in those dog treat ads when the dog finally gets the food that's "right for him".
+Does LFE have its own astral plane?
+  Most Systems do, actually.
 
+How does the astral plane work?
+  Different Aurora frequencies. (that's all I'm allowed to say, sadly).
+
+  
+System Parameters
+-----------------
+  
 Can you die in LFE?
   You can, it just works differently.
 
@@ -467,77 +568,14 @@ Is it common to soulshatter in LFE?
 To what extent will we have the ability to interact with Systems when we reach LFE?
   The sky's the limit! You can create your own Systems, go to others, anything you wish!
 
-Will we be a new person in LFE with our old memories, or our old selves?
-  You are a new person with both Life memories and LFE childhood memories.
-
 When you turn 12, do you only remember your past life, or every single life before that as well?
   You can only remember so much, after a while the memories start fading. Some people are particularly good at saving them and others can only remember one past life, but generally you remember only 2-4 past lives.
 
 Is lives a measure of time here, the actual count of how many times you died, or just an estimate based off average lifespans?
   An estimate of times of full death.
-
-Will we be able to choose our species when we get to LFE?
-  You're born into whatever your soul can adapt to the best.
-
-Will LFE be even better by the time we get there?
-  Definitely.
-
-Wouldn't they just waive us off as crazy?
-  Most people in LFE have past life memories.
-
-  Also, you're searchable. Literally look up "life human experiment" and you get the list of humans who entered into LFE.
-
-  Everyone has a 12-year wait time until they regain their memories. This is also why 12 is usually the age of consent/adulthood.
-
-  A soul is fully stably adapted to its body when it remembering its past lives, almost always 12 years after birth. This is often celebrated with a gigantic party for the child on their "Recollection Day". This also marks the start of soul-based and mental adulthood.
-
-Am I right in assuming the age of consent in LFE would be 12?
-  In most places, yes.
-  Some go down to 9, some go up to 25. Some don't even use body age, but soul age.
-
-Will I be able to be a machine in LFE?
-  Yes, although a bit more risky than using a normal body. Software issue -> soulshatter.
-
-Are there anti-robot/cyborg groups in LFE?
-  Yes, most definitely! Pretty much the entire magic side is against artificial soul/vessels.
-
-Could you go over all of the available or at least a few of the most common services available for modifying one's body?
-  First of all, there's the popular but highly controversial soul transplant - putting your soul in someone else's or even a new body. In this way, you can have any body possible, including robot bodies. You can also pretty much change everything via other bodyforming methods, which are more usual, like changing shape of body, gender, eyes, etc.
-
-  I'll be simple. The sky's the limit. We can add/remove/change bones (hnhehen), change skin (hdhahen), add/remove/move/change eyes/mouth/etc (mhenhen), add/remove/move body parts (khrahen), anything.
-
-  Writing body-mudded words is hard with the english alphabet :(
-
-  These all have to do with the body, so they're all mudded towards the empty h (body)
-  as such, "SJI" becomes "SH"
-
-  if you were to mud it towards Sky it'd be like "sjy" with a pitched-up i
-  it's interesting, this language, as its vocabulary is very very close to the Japanese one but its writing system took a completely different turn somewhere.
-
-Are transgenders allowed in LFE?
-  Nobody really cares about sexuality other than to have offspring.
-
-Does LFE have its own astral plane?
-  Most Systems do, actually.
-
-How does the astral plane work?
-  Different Aurora frequencies. (that's all I'm allowed to say, sadly).
-
-Is there religion in LFE?
-  Yes, very much so!!!!! Who controls the Aurora? Who is Aurora? Is it sentient? Who created the outer world outside Systemspace? Why does Aurora take a sudden turn? Is it because of a special god using its powers to diverge the Aurora?
-
-Is impermanence is a big thing in LFE?
-  It's one of the main parts of most of the religions.
-
-Does LFE have some form of zodiac?
-  Yes it does, LFErs love spiritual shit. They have about 49 signs if I remember correctly, don't quote me on that.
-
+  
 Can humans be banned from LFE?
   Humans cannot be banned.
-
-  Racism works a lot differently in LFE. There's still racism, but not in the large places (like Ghakuwent'sji), because there's so many races there people stopped caring.
-
-  Here's an unfinished (I need to make it more busy, it's still too empty, for one there's no people, no guardlines and no traffic) drawing of Sjiyantan-ko, a suburb of Kyansjita.
 
 
 Souls, Experience, Memories, and Users
@@ -606,7 +644,7 @@ Why do some anons have extra notes next to their 4chan ID?
   There's some extra information about their soul that might be of importance to RISEN.
   It's extra data for RISEN to help with your transfer. Your soul structure is slightly different than usual. Don't worry, it won't harm anything.
 
-What is a user?
+What is a User?
   A user is the person controlling the actions through the soul.
 
 Do people without souls already exist?
@@ -615,7 +653,7 @@ Do people without souls already exist?
 What happens to people who lose their souls?
   Systems handle it in many ways, some cause the soulless bodies to suicide, some do nothing, some do a combination (like Life).
 
-What can a user do without a soul or a body?
+What can a User do without a soul or a body?
   Without soul, not much. A soul is, after all, the link between Experience and body, and as such they cannot join a System without a soul.
 
   We are souls (server information and local information (a client, pretty much)), linked to a System (server information), which gives us a body and acts upon our soul.
@@ -624,11 +662,14 @@ What can a user do without a soul or a body?
   Soulshatters in Life make the body continue soullessly, after which the body usually suicides.
   Life handles humans without souls strangely, it sometimes causes suicide, sometimes homicide, or sometimes they just stay alive.
 
+Are Users immortal?
+  We've never had one die, so sure.
+  
 What would theoretically happen if everyone within a given System that gave souls bodies through reproduction chose not to reproduce?
   This is what we call a "souldash" or a "soulhalt". When there are too many souls and not enough bodies (a souldash), the System speeds up to make the queue as fast as possible. (If a System allows bodies to be created from thin air
   [Astrea], then this will not apply.) If there's not enough souls for all the bodies, we get a soulhalt, where the System slows down or even pauses altogether while waiting for another soul. (Unless the System allows soulless humanoids)
 
-Is there a set of pre-requisites for a soul to be asigned to a body?
+Is there a set of pre-requisites for a soul to be assigned to a body?
   That depends on the System.
 
 Does every soul produced by a System correspond to a user, or are some souls just "unallocated"?
@@ -669,6 +710,12 @@ Does that conform to the Conik standard?
 How do you shatter yourself? Is there a way to guarantee shattering?
   If you're in LFE, you can do it via the terminal. I think that goes for eNdymioN too. But it's heavily frowned upon, more than suicide is here.
 
+Does soul immortality exist?
+  No. i mean technically there's immortality for the body but your soul will still shatter. You can pass on the body to someone else forever,but you'll shatter at some point. It might take insanely long but it'll happen.
+
+What is the oldest a soul can get before it shatters?
+  Like, over a million. But it's not immortal.
+  
 What is an "outer" soul?
   Souls that aren't in their parent System.
 
@@ -889,6 +936,8 @@ How are we insured?
 Will us migrants get a special status in LFE?
   You migrants will definitely be seen as some sort of elite group.
 
+   Also, you're searchable. Literally look up "life human experiment" and you get the list of humans who entered into LFE.
+   
 What do you mean by "elite group"?
   If you choose to tell people you are from Life, you will be pretty famous (as one of the few to ever leave Life.)
 
@@ -928,6 +977,12 @@ Will we be placed in the same location upon transfer, or will we be spread out t
 
   We're looking to get you all in Ghakuwent'sji, which is both a country and a city.
 
+Will we be a new person in LFE with our old memories, or our old selves?
+  You are a new person with both Life memories and LFE childhood memories.
+
+Will we be able to choose our species when we get to LFE?
+  You're born into whatever your soul can adapt to the best.
+  
 We will be born within a similar relative timeframe?
   Probably.
 
@@ -3732,3 +3787,8 @@ LFE Time
     3,145,728 hours = 98,304 days
     6,291,456 hours = 196,608 days
     12,582,912 hours = 393,216 days
+	
+Referenced Material
+-------------------
+
+ Here's an unfinished (I need to make it more busy, it's still too empty, for one there's no people, no guardlines and no traffic) drawing of Sjiyantan-ko, a suburb of Kyansjita.
