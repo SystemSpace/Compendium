@@ -605,6 +605,9 @@ What parts of us are retained through death without a soulshatter?
 Is it possible to retain memories across Systems?
   Yes.
   
+Can we opt out of retaining memories? Is it possible to retain only particular memories?
+  Yes. You can opt out of particular memories.
+  
 How is the soul stored if not in the brain?
   It can be stored as executable data in a Solar5-compliant computer.
 
