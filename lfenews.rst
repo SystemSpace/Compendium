@@ -5,21 +5,18 @@
 
 ---------
 
-Archive
-=======
-
-- `April 2017`_
-
-  - `2017-04-27`_
-  - `2017-04-26`_
-  - `2017-04-24`_
-  - `2017-04-23`_
-  - `2017-04-21`_
+.. contents::
 
 ---------
 
-April 2017
+May 2017
 ==========
+
+2017-05-29
+----------
+
+An entire block of eNdymioN staff were thrown out of the TSUKI project and replaced.
+Migrants are celebrating.
 
 2017-05-22
 ----------
@@ -42,6 +39,9 @@ There is speculation that this was a warning from the terrorist group, but it is
 
 EndymioN closes the void stream.
 
+
+April 2017
+==========
 
 2017-04-29
 ----------
