@@ -1152,6 +1152,18 @@ Would it be possible to design Systemspace stickers?
 Do you have a boss?
   TSUKI is only a collaboration, it doesn't have a true hierarchy.
 
+Is there a Tsukirep fanclub in LFE?
+  There is, kinda. There's the "opposite" of hyakanghen, who love the project, humans, and me. They're called Nanekyan.
+  
+Are the Nanekyan cute catgirls?
+  
+.. image:: images/replyhazy.png
+  :alt: Reply hazy
+  :width: 200px
+  :align: center
+
+What does "Nanekyan" mean?
+  "Human appreciation"
 
 The Key
 -------
