@@ -1156,8 +1156,9 @@ Is there a Tsukirep fanclub in LFE?
   There is, kinda. There's the "opposite" of hyakanghen, who love the project, humans, and me. They're called Nanekyan.
   
 Are the Nanekyan cute catgirls?
+  Well...
   
-.. image:: images/replyhazy.png
+.. image:: images/replyhazy.jpg
   :alt: Reply hazy
   :width: 200px
   :align: center
