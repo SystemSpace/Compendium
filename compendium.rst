@@ -229,6 +229,8 @@ What type of life exists in LFE?
   
   There's mostly 2 groups, magical beings and scientific beings. Both are usually humanoid - magical beings includes demons, angels and fallen angels, and scientific beings includes datamen, espers and others.
 
+  Espers are usually seen as on the science side and not the magic side.
+  
 What are the sentient races in LFE like?
   They look pretty humanoid, Aurora seems to prefer this sort of build.
 
@@ -284,6 +286,8 @@ Any way to get a Synapsian dictionary or text for learning?
 
   The circle acts like a tenten.
 
+  Two different syles of writing Synapsian: Kodaban, with the standard separate glyphs, and iriman, the stylistic handwriting.
+  
 Can you leave some of the Infinity posts untranslated so that we can see a larger sample of the language?
   I'll ask around if I can do that - although I'm not that great at Synapsian (and most Synapsian I've been writing is honestly very bad).
 
@@ -491,6 +495,12 @@ Am I right in assuming the age of consent in LFE would be 12?
   
   Some go down to 9, some go up to 25. Some don't even use body age, but soul age.
   
+Do people care about their relatives even after they die? Would it be common too keep in contact with your previous life's parents for example if you died before them?
+  Yes. By accessing Infinity, etc.
+
+What is the naming convention in LFE?
+  The most common are First/Last, and First/Middle/Secondary/Last.
+  
 Are transgenders allowed in LFE?
   Nobody really cares about sexuality other than to have offspring.
 
@@ -508,6 +518,17 @@ What does warfare and combat look like in LFE?
 
   The LFEian combat system is mainly based on pride and being able to execute actions. It's more an art than a fight - you try to fire your magic / bullets / kicks in the most beautiful yet powerful way possible, to make the enemy unable to execute their own actions. Once all participants run out of stamina, the one with the best actions usually wins (either by a jury, if official or just decided between participants). Death is not really valued, so nobody really tries to go for the kill. If anything, people try to go for a soulshatter, but this is seen as very rude.
 
+  Killing is illegal there too after all, all wars are on an incapacitation basis.
+  
+  Dying is so invaluable and such a useless part of battle that it's become a taboo, not that it doesn't happen at all.
+  
+  There are exceptions though, in environmentally hostile environments etc. If a ship blows another up, you'll die.
+  
+  Fights that are in a non-hostile environment almost always end in incapacitation of a team, assassinations etc. outside of a controlled battle don't follow this.	
+  
+Can I become an assassin in LFE?
+  Sure, although it's a rare job.
+  
 How much of Life can LFE viewers see and understand?
   Only as much as we allow them to see. They know about this project, they know that Life will be deleted.
 
@@ -535,6 +556,11 @@ How does magic work in LFE?
 What are the main governing principles that separate magic from science?
   Magic is editing the world with energy, while technology is editing the world with materials.
 
+How exactly do people use magic?
+  By using a specific type of energy to push aurora outside of its standard. Its mainly energy channeling, but there are a lot of ways to do it.
+  
+  The common ways are circle methods (write what could be seen as an if-then-else statement in a circle and sign it), pure energy movement (with the brain), or the Synapsian method, which works by writing code next to a specific icon (only works in LFE, as its SYNAPSE hosted).
+  
 Does LFE have its own astral plane?
   Most Systems do, actually.
 
@@ -994,6 +1020,9 @@ Do you plan to have us move onto LFE with the talents that we once had?
 
 How does transitioning to LFE affect a tulpa?
   Tulpas will gain their own bodies, but keep their personality, and will still be a subsoul of yours.
+  
+Can a person see through their tulpa's eyes?
+  Depends per person and how they partition it.
 
 How does the soul transfer work?
   We add you to a list, and forcefully edit your soul's location data.
@@ -1015,6 +1044,12 @@ Does the upgrade of Systemspace to Systemspace 2 still occur on July 1st, 2017 e
   
 What about the force bond?
   The force bond is applied upon registration.
+  
+How does the name and wishlist for LFE work?
+  Your parents will think of that name for you, and call you that.
+  
+If I just leave the name space blank will I receive whatever name my parents want?
+  Yes. Leave blank = let others/Aurora decide, like your parents or other people.
   
 
 Tsuki, the Representative
@@ -1152,7 +1187,7 @@ Would it be possible to design Systemspace stickers?
 Do you have a boss?
   TSUKI is only a collaboration, it doesn't have a true hierarchy.
 
-Is there a Tsukirep fanclub in LFE?
+Is there a TsukiRep fanclub in LFE?
   There is, kinda. There's the "opposite" of hyakanghen, who love the project, humans, and me. They're called Nanekyan.
   
 Are the Nanekyan cute catgirls?
@@ -1164,7 +1199,12 @@ Are the Nanekyan cute catgirls?
   :align: center
 
 What does "Nanekyan" mean?
-  "Human appreciation"
+  "Human appreciation".
+  
+What do you want to do in LFE?
+  I'd like to live a simple life, out in some magical village.
+  
+
 
 The Key
 -------
@@ -3681,6 +3721,12 @@ Synni
 Espa
   species in LFE
 
+Nane
+  Popular word for human
+  
+Ekyan
+  to appreciate
+  
 Lynling
   flying creature in southern Mahuensj
 
