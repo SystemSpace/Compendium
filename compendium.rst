@@ -1559,6 +1559,8 @@ I don't want to force you to keep going through Life, and if you really wish to 
 
 Tsuki fun fact episode watermelon: Tsuki (when written out in Synapsian) looks like a key, which is one of the reasons why the project has been given this name.
 
+I'm afraid to check logs to see if there's any "Registrant incapacitated". I'd rather be unknowing forever than have a big message box saying "Ex-registrant incapacitated".
+
 ----------------------------------------------------------------------------
 
 
