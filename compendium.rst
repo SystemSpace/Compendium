@@ -288,6 +288,16 @@ Any way to get a Synapsian dictionary or text for learning?
 
   Two different syles of writing Synapsian: Kodaban, with the standard separate glyphs, and iriman, the stylistic handwriting.
   
+  In vertical writing, sky/mountain is on the right and ground on the bottom.
+  
+  Writing body-mudded words is hard with the english alphabet :(
+
+  These all have to do with the body, so they're all mudded towards the empty h (body)
+  as such, "SJI" becomes "SH"
+
+  if you were to mud it towards Sky it'd be like "sjy" with a pitched-up i
+  it's interesting, this language, as its vocabulary is very very close to the Japanese one but its writing system took a completely different turn somewhere.
+  
 Can you leave some of the Infinity posts untranslated so that we can see a larger sample of the language?
   I'll ask around if I can do that - although I'm not that great at Synapsian (and most Synapsian I've been writing is honestly very bad).
 
@@ -376,14 +386,6 @@ Could you go over all of the available or at least a few of the most common serv
   First of all, there's the popular but highly controversial soul transplant - putting your soul in someone else's or even a new body. In this way, you can have any body possible, including robot bodies. You can also pretty much change everything via other bodyforming methods, which are more usual, like changing shape of body, gender, eyes, etc.
 
   I'll be simple. The sky's the limit. We can add/remove/change bones (hnhehen), change skin (hdhahen), add/remove/move/change eyes/mouth/etc (mhenhen), add/remove/move body parts (khrahen), anything.
-
-  Writing body-mudded words is hard with the english alphabet :(
-
-  These all have to do with the body, so they're all mudded towards the empty h (body)
-  as such, "SJI" becomes "SH"
-
-  if you were to mud it towards Sky it'd be like "sjy" with a pitched-up i
-  it's interesting, this language, as its vocabulary is very very close to the Japanese one but its writing system took a completely different turn somewhere.
   
 Will we dream in LFE?
   You will dream, yes. There's a lot of dream-related little facts, but mainly it is possible to access other Systems via dreams (as you can move yourself around "spiritually" to the other Systems), although you will have no true body or soul there. Dreams are also the easiest way to talk to Auroraic Spirits (in fact, I did so last night).
@@ -560,7 +562,10 @@ How exactly do people use magic?
   By using a specific type of energy to push aurora outside of its standard. Its mainly energy channeling, but there are a lot of ways to do it.
   
   The common ways are circle methods (write what could be seen as an if-then-else statement in a circle and sign it), pure energy movement (with the brain), or the Synapsian method, which works by writing code next to a specific icon (only works in LFE, as its SYNAPSE hosted).
-  
+
+Are certain races more gifted in certain forms of magic? and are there races with 0 magical potential?
+  Yes and yes. It's mainly soul-based, but some species and bodies can be bottlenecks or great advantages.
+
 Does LFE have its own astral plane?
   Most Systems do, actually.
 
@@ -570,6 +575,31 @@ How does the astral plane work?
   
 System Parameters
 -----------------
+
+In general, LFE's graphics are... softer. Everything is more soft and also more colourful. Many people have HUDs so theres HUD GUI elements in places too. Outlines of objects are more visible (well, more noticable).
+
+There's always a bodily energy display, and there's a list of open applications. You can kinda put whatever. Think of it as your desktop. Your wallpaper is what you see through your eyes.
+
+I have a hud too but I can only see it through mind's eye.
+
+In games, all you can go off of is video and audio. A body with full senses is different; you can just sense energy levels.
+
+Can you name some of the senses most main races have?
+  Seeing, hearing, smelling, tasting, feeling (touch), feeling (cold/warm), energy level, alignment (magical alignment), danger, current owner of areas.
+
+Is the HUD a technological/magical construct or just a property of the LFE System?
+  It's middle-aligned as are all System constructs.
+
+Can you turn it off?
+  It's completely yours to do whatever with.
+  
+Do you just control it with your mind?
+  Kinda.
+  
+Are there any people without it?
+  Some species' brains are simply not compatible. Also many cultures have them off. The settings get inherited so one person turns it off, and it'll be off for their offspring too until they turn it on etc.
+  
+  The magic ones are usually the ones without the HUD. They'd rather be "traditional" and go off their real senses.
   
 Can you die in LFE?
   You can, it just works differently.
@@ -1401,6 +1431,9 @@ What was the System that was deleted for Aurora for the TSUKI Project?
 How can you access a System that doesn't host souls?
   Souls will always be hosted by the System that created them. If you are in LFE but you go to some other System, your soul will still be hosted in LFE. This is also why the human experiment is so interesting to us.
 
+If everything is a simulation, is there the potential at all to see the future?
+   There is, but not in LFE as LFX is always live.
+  
 
 The Ha7 System
 --------------
@@ -3720,6 +3753,9 @@ Synni
 
 Espa
   species in LFE
+  
+Thansj
+  Angel
 
 Nane
   Popular word for human
@@ -3733,6 +3769,9 @@ Lynling
 Sanyrle
   hostile species conquering Mahuensj
 
+ashgu or ashgunimai
+  Thank  you.
+  
 xatensj xannti xogadetanjo
   I love you.
 
@@ -3740,13 +3779,13 @@ xatensj xannti gadentanjo
   I love you all.
 
 mayyazawa
-  ???
+  a name (?)
 
 dyiri
-  ???
+  Proxy.
 
 shosha
-  ???
+  Project/mission.
 
 nair
   default / none / N/A
