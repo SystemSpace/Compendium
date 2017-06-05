@@ -529,7 +529,12 @@ What does warfare and combat look like in LFE?
   
   There are exceptions though, in environmentally hostile environments etc. If a ship blows another up, you'll die.
   
-  Fights that are in a non-hostile environment almost always end in incapacitation of a team, assassinations etc. outside of a controlled battle don't follow this.	
+  Fights that are in a non-hostile environment almost always end in incapacitation of a team, assassinations etc. outside of a controlled battle don't follow this.
+  
+Is dying or being incapacitated safer?
+  Inncapacitation can hurt really fucking bad, which might shatter you if it goes on for too long, while death is quite simple.
+  
+  Dying is less dangerous than incapacitation.
   
 Can I become an assassin in LFE?
   Sure, although it's a rare job.
@@ -575,6 +580,11 @@ Does LFE have its own astral plane?
 How does the astral plane work?
   Different Aurora frequencies. (that's all I'm allowed to say, sadly).
 
+How viable is it to use both magic and science in LFE?
+  It's viable, but some people will dislike you for it.
+  
+Are magic and technology compatible in LFE, as in, can you use them both at the same time, in one task?
+  Yes.
   
 System Parameters
 -----------------
