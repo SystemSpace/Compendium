@@ -193,8 +193,8 @@ Do extraterrestrials exist in Life?
 
 Do you have any examples of Auroraic Echoing influencing Life media?
   I'm not sure, but I'm sure there are quite a few things in our media which were sent over by Auroraic Echoing, although I never really inspected what content.
-  
 
+  
 About LFE
 ---------
 
@@ -805,6 +805,8 @@ So when a non-blocking System is deleted, the souls in it that are natively host
 Is soul color a thing? What tech/abilities let you see it?
   It is, kinda. Either you need to see the soul out of body or they can use their own-bound magic. They'll usually have one specific color. It means about as much as a star sign.
   
+When you shatter and come back, in a System like LFE, do you have the same soul just "rearranged" or is your user just attached to a new soul?
+  It's a completely new soul. Shattered souls are fully disintegrated into Aurora.  
   
 Aurora
 ------
@@ -1252,6 +1254,9 @@ What does "Nanekyan" mean?
 What do you want to do in LFE?
   I'd like to live a simple life, out in some magical village.
   
+Why can't RISEN grant you a full soul before the unlink?
+  They didn't have the time. They'll grant me a full soul when they can.
+  
 
 
 The Key
@@ -1280,6 +1285,12 @@ Are there any interesting systems outside of LFE?
 Is all of Systemspace accessible?
   Not all of it - some Systems are paid, some are locked to specific users/species, some are blocking (like Life). There's many restrictions a System operator can place, as their System always remains theirs. If they want they could even block users based on whether their soul ID is even or not.
 
+Are there Systems where you can go as just your consciousness without a soul?
+  Yes, some Systems completely disregard the soul framework.
+  
+Do people in those Systems have a body then?
+  Sometimes, but usually they're more for utility.
+  
 What is the currency of Systemspace?
   SEN (often abbreviated Sn). It goes for about 124 SEN per dollar.
 
@@ -1350,6 +1361,9 @@ Are blocking Systems breeding grounds for Souls?
   In a sense, yes.
 
   Inside Life, new souls are generated as people reproduce and create babies - those souls then get attached to users.
+  
+When you enter a blocking system, does your soul shatter and you're given a new one?
+  Enter some blocking Systems (not all do this) and you'll shatter, receive a new soul and lose all subsouls attached etc. if they cannot be reached. I was forced in by a RISENII.
 
 LFE and Life are very similar to Eastern philosophical lines of thought and beliefs in reincarnation, is there any connection between them?
   It is very much possible that they knew of Systemspace!
@@ -1453,7 +1467,11 @@ If everything is a simulation, is there the potential at all to see the future?
    There is, but not in LFE as LFX is always live.
   
 What is the smallest system?
-  Some people do code gofl with Systems. The smallest one has used 0.4 hA.
+  Some people do code golf with Systems. The smallest one has used 0.4 hA.
+  
+  Like, to make something as small as possible, not the sport golf.
+  
+  The idea is they create a System as small as possible, that has 1) an interactive environment capable of living in 2) bodies and 3) souls (and all the things a System always requires). So its very simple.
 
 The Ha7 System
 --------------
@@ -1577,6 +1595,8 @@ I don't want to force you to keep going through Life, and if you really wish to 
 Tsuki fun fact episode watermelon: Tsuki (when written out in Synapsian) looks like a key, which is one of the reasons why the project has been given this name.
 
 I'm afraid to check logs to see if there's any "Registrant incapacitated". I'd rather be unknowing forever than have a big message box saying "Ex-registrant incapacitated".
+
+All souls are from elsewhere in Life, and Life doesn't create Users. While in LFE, you could very well just be born there, as it generates new Users.
 
 ----------------------------------------------------------------------------
 
