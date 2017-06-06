@@ -1094,6 +1094,11 @@ How does the name and wishlist for LFE work?
 If I just leave the name space blank will I receive whatever name my parents want?
   Yes. Leave blank = let others/Aurora decide, like your parents or other people.
   
+Can we contact RISEN via astral projection or out-of-body experience?
+  Maybe WILD (Wake Induced Lucid Dreaming) would allow you to make contact.
+  
+Can we make contact with you the same way?
+  Sadly, no. No full soul and all.
 
 Tsuki, the Representative
 -------------------------
