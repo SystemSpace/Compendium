@@ -1469,9 +1469,27 @@ If everything is a simulation, is there the potential at all to see the future?
 What is the smallest system?
   Some people do code golf with Systems. The smallest one has used 0.4 hA.
   
+<<<<<<< HEAD
   Like, to make something as small as possible, not the sport golf.
   
   The idea is they create a System as small as possible, that has 1) an interactive environment capable of living in 2) bodies and 3) souls (and all the things a System always requires). So its very simple.
+=======
+What's "Systems code golf"?
+  The idea is to create a System as small as possible, that has an interactive environment that supports life, bodies and souls.
+  (And all the other things that a System always requires). The norm is to have infinite light and an infinite single plane of material.
+  
+How can there be anything infinite?
+  It doesn't end, but you can only access a small part at a time.
+  
+  1336:
+  Imagine if you had a shower head that spawned water, and your shower drain despawned water. You technically have an infinite amount of water, since you can keep the shower on forever - but only a set amount of the water exists at a single point in time.
+  
+  Keeping the shower on without despawning it would be called an "infinity leak", causing Aurora usage to go up indefinitely.
+  Despawning things is called "negating" Aurora.
+  
+Is this the thing that makes Life suck so much Aurora?
+  Life doesn't negate Aurora. Ever.
+>>>>>>> origin/master
 
 The Ha7 System
 --------------
