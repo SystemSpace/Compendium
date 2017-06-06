@@ -1452,6 +1452,8 @@ How can you access a System that doesn't host souls?
 If everything is a simulation, is there the potential at all to see the future?
    There is, but not in LFE as LFX is always live.
   
+What is the smallest system?
+  Some people do code gofl with Systems. The smallest one has used 0.4 hA.
 
 The Ha7 System
 --------------
