@@ -446,6 +446,9 @@ How common are interspecies relationships?
   
 Are there nations in LFE?
   Yes, they are divided into nations.
+  
+Often times people seem to need to prove that they are superior or important in some way, potentially going out of their way to seek attention/admiration in a self-centered manner. Is this common in LFE as well?
+  In LFE, group society is the norm - egoism is a lot less present.
 
 Are there any atrocities widely known in LFE?
   There's a lot. Like, a lot.
@@ -645,6 +648,9 @@ Is lives a measure of time here, the actual count of how many times you died, or
   
 Can humans be banned from LFE?
   Humans cannot be banned.
+  
+So what happens specifically in LFE with souls caught in a reboot?
+  In LFE, souls caught in an unlink will get thrown out into random neighbouring Systems.
 
 
 Souls, Experience, Memories, and Users
@@ -820,7 +826,10 @@ If the soul was transferred into another body, would the soul eventually adapt t
 Technically you can "eat" a soul (merge it).
  
 How does soul merging work?
-   You just push your and their soul together and force access into the victim soul.
+  You just push your and their soul together and force access into the victim soul.
+   
+What is an Impossible Soul Structure?
+  Exactly as its name says, a structure of a soul that cannot be usefully edited as its structure is incompatible.
 
 Aurora
 ------
@@ -1116,6 +1125,12 @@ Can we contact RISEN via astral projection or out-of-body experience?
 Can we make contact with you the same way?
   Sadly, no. No full soul and all.
 
+How will we acquire our uploaded files when we're in LFE?
+  You'll get them into whatever device you're using at that moment.
+
+  We'll have to recode your files by hand :/
+  
+  
 Tsuki, the Representative
 -------------------------
 
@@ -1283,6 +1298,8 @@ What is the Key?
   The Key is the one usually tasked with missions related to removing/rebooting broken Systems, and evaluating them. However, she has become tired and wanted someone else to work together with, which became me.
   "The Key" is only one of many names given to them though, "Key" is only an inner name we refer to them as within Tsuki. Mainly because they're the "key" to the balance in Systemspace. Their most common name out there is "Gendatzu", from very old Synapsian.
 
+So Keys are basically System inspectors?
+  Yes, pretty much.
 
 Systems / Systemspace in General
 --------------------------------
@@ -1410,6 +1427,9 @@ Would more Memories put stress on the System, requiring more reboots?
 What happens to everyone in a reboot?
   Their soul stays, but new bodies.
 
+Would users of non-blocking systems like LFE remember old iterations of the System, i.e. after a reboot?
+  Depends on if the System treats souls stuck in a reboot as soulshatterer or alive.
+  
 Do you mind clarifying the assert for me? And what might bring it about?
   If everything runs out of Aurora, the "assert" will unlink all Systems to move to a lower state of Aurora use.
 
@@ -1460,6 +1480,9 @@ Say I want to leave LFE to go to another system. Does it just happen automatical
 Aren't there places or mechanisms that at least serve to connect Systems together?
   In Systemspace2 (which we're launching Jul 1st), there will be a hub-planet connecting all big Systems. It'll abide the most generic laws (basically, the LFE ones in its central universe) and will allow directly walking over (transferring everything) from System to System.
 
+Will people be able to live on the Tsuki hubplanet or will it just be some sort of terminal, like in an airport?
+  Yes, it's its own planet that people live in.
+  
 Can you give us more details on some of the other Systems (Ha7, Isiki, Danbon, etc)?
   Most of them are pretty usual. The only one really worth noting is Danbon, where physical combat is not possible.
 
