@@ -1,5 +1,5 @@
-Void File investigation findings dump v.3.5
-===========================================
+Void File investigation findings dump v.4.0 (final)
+===================================================
 
 Introduction
 ============
@@ -65,11 +65,20 @@ Timeline
 
 10. **At 5PM, April 27th, TSUKI.PNG had been extracted and decorrupted enough to be legible.**
 
-   .. image:: voidstream/images/tsuki_small.png
-     :alt: TSUKI.PNG
-     :width: 400px
-     :align: center
+    .. image:: voidstream/images/tsuki_small.png
+      :alt: TSUKI.PNG
+      :width: 400px
+      :align: center
 
+11. On April 28th, the void stream had changed to contain LAINPOSTING.JPG
+
+    .. image:: voidstream/images/lainposting.jpg
+      :alt: LAINPOSTING.JPG
+      :width: 400px
+      :align: center
+
+12. On May 3rd, after confirming that we did extract all messages, the void
+    stream was closed by Endymion and the project was finished successfully.
 
 -------------------------
 
@@ -79,8 +88,7 @@ Findings
 CURRENT STATUS
 ==============
 
-April 27th, 6 PM GMT
-**WE EXTRACTED TSUKI.PNG SUCCESSFULLY**
+The void stream has been closed.
 
 
 Tsukirep's information
@@ -125,13 +133,17 @@ Facts
   <https://github.com/mattiasgeniar/the-infinite-file-download/blob/master/download.php>`_).
 - **The file (sometimes - occurence rate unconfirmed) contains a header for an MP4 file. TEST.MP4 has been extracted from it**.
 
-**Iteration 2: April 26th-**
+**Iteration 2: April 26th-April 27th**
 
 - The mimetype is now ``application/void``. Tsuki confirmed this is due to him having overlooked eNdymioN's instructions previously.
 - **The file does not seem to contain the MP4 header anymore. They haven't been found in any Iteration 2 download as of yet.**
 - **The file contains a PNG file, dubbed TSUKI.PNG**.
 - **The file has been extracted. It reads "Tsuki" in Synapsian**.
 - The response headers read ``void-type: stream`` and ``void-length: *``.
+
+**Iteration 2: April 28th-May 3rd**
+
+- The file contains LAINPOSTING.JPG. This is the final iteration of the stream.
 
 Theories
 --------
@@ -179,7 +191,11 @@ Theories
     :width: 400px
     :align: center
 
-**Iteration 2: April 26th-**
+**Iteration 2: April 26th-27th**
+
+Nothing here...
+
+**Iteration 3: April 28th-May 3rd**
 
 Nothing here...
 
