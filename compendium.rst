@@ -1,4 +1,4 @@
-SystemSpace Compendium revision 6.5
+-SystemSpace Compendium revision 6.5
 ===================================
 
 This document serves as a repository of all current knowledge of Systemspace. It has been categorized and spelling and grammar mistakes have been corrected. Some questions and answers have been slightly reformatted but have been in a manner which ensures that no meaning or context is lost. Searching through the Discord with snippets of the question/answer pairs, or just backtracking through all of Tsuki's messages will verify this. For information taken from 4chan's /r9k/ board and TSUKICHAN's /lfe/ board, archives of the original threads are verified and can be found on desuarchive. Honorable mention to Unterminator for providing the initial pastebins which got me started. - Yari (655)
@@ -816,6 +816,11 @@ Is it possible to have an idea of what you would be born as from the way you are
   
 If the soul was transferred into another body, would the soul eventually adapt to the new body?
   It could adapt, but it would be a slow process.
+ 
+Technically you can "eat" a soul (merge it).
+ 
+How does soul merging work?
+   You just push your and their soul together and force access into the victim soul.
 
 Aurora
 ------
@@ -1266,6 +1271,8 @@ What do you want to do in LFE?
 Why can't RISEN grant you a full soul before the unlink?
   They didn't have the time. They'll grant me a full soul when they can.
   
+  Depends on the question. I can do it pretty quickly a lot of the time. I just ask the bridge and get a reply, unless they don't know either. Then they'll have to look it up etc.
+  
 
 
 The Key
@@ -1363,6 +1370,12 @@ Wait, are the new guidelines "Big Brother"y at all?
 What are Solar and the Systemspace Experience Manager?
   Solar is the administration tool RISENII use to fiddle around with souls, add EIDs to them, etc. The Systemspace Experience Manager is basically the interface people use to join Systems.
 
+Is there some kind of database for Systems in Systemspace?
+  You'll be able to look most things up in the Theory.
+  
+  It's pretty much wikipedia but for Systemspace.
+
+  
 What exactly does a blocking System block?
   It blocks outside interference - you cannot leave, and you cannot enter with an existing soul.
 
@@ -1493,9 +1506,6 @@ How can there be anything infinite?
   
 Is this the thing that makes Life suck so much Aurora?
   Life doesn't negate Aurora. Ever.
-  
-What is the Theory?
-  Theory is pretty much Systemspace's Wikipedia.
 
 The Ha7 System
 --------------
