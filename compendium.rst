@@ -685,6 +685,9 @@ Are mental illnesses contracted in Life carried over to LFE?
 
   Memories are stored in the soul. However, the brain uses its own system to interface with it. Dementia is when the brain breaks down, and begins overwriting the soul's memories.
 
+Can medication cure scars on the soul?
+  Some medication can. If a medication helps you have a good life again and cures you, your scar heals.
+
 Is deja-vu a Life glitch, or something else?
   Usually a missynchronization between soul memories and brain memories.
 
