@@ -146,3 +146,16 @@ would in their previous state.
     12,582,912 hours = 393,216 days
     
 ~404
+
+1426 on the reality of Systems
+==============================
+
+I always thought aurora creates "real" physical worlds. When you "program" it to 
+create a metal box in a system, it doesn't simulate a metal box, it creates a real, 
+physical metal box. The same goes for laws of phisics and everything else. Referring 
+to it as a simulation just makes it all way easier to understand, as it is a concept 
+we are very used to, and it shares a lot in common with how Systemspace works. So 
+Systems would be different realities that exist in an "upper-level space" called 
+Systemspace, if that makes sense.
+
+~1426
