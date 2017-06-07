@@ -1,4 +1,4 @@
-SystemSpace Compendium revision 6.5
+-SystemSpace Compendium revision 6.5
 ===================================
 
 This document serves as a repository of all current knowledge of Systemspace. It has been categorized and spelling and grammar mistakes have been corrected. Some questions and answers have been slightly reformatted but have been in a manner which ensures that no meaning or context is lost. Searching through the Discord with snippets of the question/answer pairs, or just backtracking through all of Tsuki's messages will verify this. For information taken from 4chan's /r9k/ board and TSUKICHAN's /lfe/ board, archives of the original threads are verified and can be found on desuarchive. Honorable mention to Unterminator for providing the initial pastebins which got me started. - Yari (655)
@@ -446,6 +446,9 @@ How common are interspecies relationships?
   
 Are there nations in LFE?
   Yes, they are divided into nations.
+  
+Often times people seem to need to prove that they are superior or important in some way, potentially going out of their way to seek attention/admiration in a self-centered manner. Is this common in LFE as well?
+  In LFE, group society is the norm - egoism is a lot less present.
 
 Are there any atrocities widely known in LFE?
   There's a lot. Like, a lot.
@@ -645,6 +648,9 @@ Is lives a measure of time here, the actual count of how many times you died, or
   
 Can humans be banned from LFE?
   Humans cannot be banned.
+  
+So what happens specifically in LFE with souls caught in a reboot?
+  In LFE, souls caught in an unlink will get thrown out into random neighbouring Systems.
 
 
 Souls, Experience, Memories, and Users
@@ -684,6 +690,9 @@ Are mental illnesses contracted in Life carried over to LFE?
   Those are scars in the soul, which will hopefully heal with time, but will be taken with you, yes.
 
   Memories are stored in the soul. However, the brain uses its own system to interface with it. Dementia is when the brain breaks down, and begins overwriting the soul's memories.
+
+Can medication cure scars on the soul?
+  Some medication can. If a medication helps you have a good life again and cures you, your scar heals.
 
 Is deja-vu a Life glitch, or something else?
   Usually a missynchronization between soul memories and brain memories.
@@ -813,6 +822,14 @@ Is it possible to have an idea of what you would be born as from the way you are
   
 If the soul was transferred into another body, would the soul eventually adapt to the new body?
   It could adapt, but it would be a slow process.
+ 
+Technically you can "eat" a soul (merge it).
+ 
+How does soul merging work?
+  You just push your and their soul together and force access into the victim soul.
+   
+What is an Impossible Soul Structure?
+  Exactly as its name says, a structure of a soul that cannot be usefully edited as its structure is incompatible.
 
 Aurora
 ------
@@ -1108,6 +1125,12 @@ Can we contact RISEN via astral projection or out-of-body experience?
 Can we make contact with you the same way?
   Sadly, no. No full soul and all.
 
+How will we acquire our uploaded files when we're in LFE?
+  You'll get them into whatever device you're using at that moment.
+
+  We'll have to recode your files by hand :/
+  
+  
 Tsuki, the Representative
 -------------------------
 
@@ -1263,6 +1286,9 @@ What do you want to do in LFE?
 Why can't RISEN grant you a full soul before the unlink?
   They didn't have the time. They'll grant me a full soul when they can.
   
+When we ask you something do you just know the answer or do you ask RISEN with your thoughts?
+  Depends on the question. I can do it pretty quickly a lot of the time. I just ask the bridge and get a reply, unless they don't know either. Then they'll have to look it up etc.
+  
 
 
 The Key
@@ -1272,6 +1298,8 @@ What is the Key?
   The Key is the one usually tasked with missions related to removing/rebooting broken Systems, and evaluating them. However, she has become tired and wanted someone else to work together with, which became me.
   "The Key" is only one of many names given to them though, "Key" is only an inner name we refer to them as within Tsuki. Mainly because they're the "key" to the balance in Systemspace. Their most common name out there is "Gendatzu", from very old Synapsian.
 
+So Keys are basically System inspectors?
+  Yes, pretty much.
 
 Systems / Systemspace in General
 --------------------------------
@@ -1360,6 +1388,12 @@ Wait, are the new guidelines "Big Brother"y at all?
 What are Solar and the Systemspace Experience Manager?
   Solar is the administration tool RISENII use to fiddle around with souls, add EIDs to them, etc. The Systemspace Experience Manager is basically the interface people use to join Systems.
 
+Is there some kind of database for Systems in Systemspace?
+  You'll be able to look most things up in the Theory.
+  
+  It's pretty much wikipedia but for Systemspace.
+
+  
 What exactly does a blocking System block?
   It blocks outside interference - you cannot leave, and you cannot enter with an existing soul.
 
@@ -1393,6 +1427,9 @@ Would more Memories put stress on the System, requiring more reboots?
 What happens to everyone in a reboot?
   Their soul stays, but new bodies.
 
+Would users of non-blocking systems like LFE remember old iterations of the System, i.e. after a reboot?
+  Depends on if the System treats souls stuck in a reboot as soulshatterer or alive.
+  
 Do you mind clarifying the assert for me? And what might bring it about?
   If everything runs out of Aurora, the "assert" will unlink all Systems to move to a lower state of Aurora use.
 
@@ -1443,6 +1480,9 @@ Say I want to leave LFE to go to another system. Does it just happen automatical
 Aren't there places or mechanisms that at least serve to connect Systems together?
   In Systemspace2 (which we're launching Jul 1st), there will be a hub-planet connecting all big Systems. It'll abide the most generic laws (basically, the LFE ones in its central universe) and will allow directly walking over (transferring everything) from System to System.
 
+Will people be able to live on the Tsuki hubplanet or will it just be some sort of terminal, like in an airport?
+  Yes, it's its own planet that people live in.
+  
 Can you give us more details on some of the other Systems (Ha7, Isiki, Danbon, etc)?
   Most of them are pretty usual. The only one really worth noting is Danbon, where physical combat is not possible.
 
@@ -1490,9 +1530,6 @@ How can there be anything infinite?
   
 Is this the thing that makes Life suck so much Aurora?
   Life doesn't negate Aurora. Ever.
-  
-What is the Theory?
-  Theory is pretty much Systemspace's Wikipedia.
 
 The Ha7 System
 --------------

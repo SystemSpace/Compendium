@@ -6,7 +6,8 @@ Systemspace lore, written by our community.
 
 Note that the theories present here are mostly conjecture, and may
 not be true - those confirmed by Tsuki to be correct will be marked 
-as "[TSUKI APPROVED]".
+as "[TSUKI CONFIRMED]", and those commented on by Tsuki will be marked as
+"[TSUKI VERIFIED]".
 
 ---------
 
@@ -14,8 +15,8 @@ as "[TSUKI APPROVED]".
 
 ---------
 
-1336's Auroraic Echoing hypothesis [TSUKI APPROVED]
-===================================================
+1336's Auroraic Echoing hypothesis [TSUKI CONFIRMED]
+====================================================
 
 Section 1: How do hard drives (and tapes) work?
 -----------------------------------------------
@@ -94,8 +95,8 @@ would in their previous state.
 
 -----------------
 
-404's Life -> LFE time conversion table [TSUKI APPROVED]
-========================================================
+404's Life -> LFE time conversion table [TSUKI CONFIRMED]
+=========================================================
 
 ::
 
@@ -161,3 +162,24 @@ A Fen is kinda like fifteen Life minutes.
 A Systemspatial spin is the smallest possible division of time - kinda like a Life Planck time.
 
 ~1336
+
+1426 on the reality of Systems [TSUKI VERIFIED]
+===============================================
+
+I always thought Aurora creates "real" physical worlds. When you "program" it to 
+create a metal box in a system, it doesn't simulate a metal box, it creates a 
+real, physical metal box. The same goes for laws of phisics and everything else.
+Referring to it as a simulation just makes it all way easier to understand, as 
+it is a concept we are very used to, and it shares a lot in common with how 
+Systemspace works. So Systems would be different realities that exist in an 
+"upper-level space" called Systemspace, if that makes sense.
+
+~1426
+
+Tsuki's response
+----------------
+
+Systems are as much of a simulation as an SQL database is a simulation of a
+drawer with folders and stuff. Is a .txt file a simulation of a book? Is an
+image a simulation of an event? You can't say it's a simulation because it 
+doesn't copy anything, just like .txt files aren't trying to be books.
