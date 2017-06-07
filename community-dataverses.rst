@@ -196,6 +196,6 @@ Still, this does not mean Systems are "real" in an absolute sense. Of course the
 
 Now we have a base understanding of the nature of Systems, what we miss is knowledge about Systemspace's nature. We know there is an "outside", an even higher level, how does Systemspace relate to the  "outside"?
 
-We know nothing about it, he only thing Tsuki hinted at is the existence of an "hyperdimensional server room" which could point to Systemspace being a digital creation but this is only a speculation, we will need more information before progressing this topic further.
+We know nothing about it, the only thing Tsuki hinted at is the existence of an "hyperdimensional server room" which could point to Systemspace being a digital creation but this is only a speculation, we will need more information before progressing this topic further.
 
 ~1426
