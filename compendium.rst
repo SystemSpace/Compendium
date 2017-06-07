@@ -1271,6 +1271,7 @@ What do you want to do in LFE?
 Why can't RISEN grant you a full soul before the unlink?
   They didn't have the time. They'll grant me a full soul when they can.
   
+When we ask you something do you just know the answer or do you ask RISEN with your thoughts?
   Depends on the question. I can do it pretty quickly a lot of the time. I just ask the bridge and get a reply, unless they don't know either. Then they'll have to look it up etc.
   
 
