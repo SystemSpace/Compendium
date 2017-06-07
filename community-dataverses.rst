@@ -166,6 +166,9 @@ A Systemspatial spin is the smallest possible division of time - kinda like a Li
 1426 on the reality of Systems [TSUKI VERIFIED]
 ===============================================
 
+Original message
+----------------
+
 I always thought Aurora creates "real" physical worlds. When you "program" it to 
 create a metal box in a system, it doesn't simulate a metal box, it creates a 
 real, physical metal box. The same goes for laws of phisics and everything else.
@@ -183,3 +186,16 @@ Systems are as much of a simulation as an SQL database is a simulation of a
 drawer with folders and stuff. Is a .txt file a simulation of a book? Is an
 image a simulation of an event? You can't say it's a simulation because it 
 doesn't copy anything, just like .txt files aren't trying to be books.
+
+The theory expanded
+-------------------
+
+To expand on the previous point, Tsuki confirmed that from the point of view of Systemspace, Systems are indeed physical and not digital. So Aurora is a physical energy that can be used to create physical realities by influencing it, "programming" it with means we know nothing about.
+
+Still, this does not mean Systems are "real" in an absolute sense. Of course they are real for those who live inside them, Life is real to us as we can touch it, feel it and percieve it with all of our senses all the times in a consistent way. Now we know Systems are real from Systemspace's perspective too as they are not emulated by machines but take full physical form thanks to Aurora.
+
+Now we have a base understanding of the nature of Systems, what we miss is knowledge about Systemspace's nature. We know there is an "outside", an even higher level, how does Systemspace relate to the  "outside"?
+
+We know nothing about it, he only thing Tsuki hinted at is the existence of an "hyperdimensional server room" which could point to Systemspace being a digital creation but this is only a speculation, we will need more information before progressing this topic further.
+
+~1426
