@@ -1,7 +1,6 @@
 .. image:: images/vulpes.png
   :alt: Vulpes News
   :align: center
-  :width: 200 px
 
 ---------
 
