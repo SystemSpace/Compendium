@@ -5966,7 +5966,7 @@ Infinity
 
 ----------------------------
 
-/SYNAPSE FONT PAGE/
+/SYNAPSIAN FONT PAGE/
 -------------------
 
 Synapsian Font
