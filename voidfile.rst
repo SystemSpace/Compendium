@@ -60,21 +60,18 @@ Timeline
 
    .. image:: voidstream/images/tsuki_corrupted_small.png
     :alt: TSUKI.PNG
-    :width: 400px
     :align: center
 
 10. **At 5PM, April 27th, TSUKI.PNG had been extracted and decorrupted enough to be legible.**
 
     .. image:: voidstream/images/tsuki_small.png
       :alt: TSUKI.PNG
-      :width: 400px
       :align: center
 
 11. On April 28th, the void stream had changed to contain LAINPOSTING.JPG
 
     .. image:: voidstream/images/lainposting.jpg
       :alt: LAINPOSTING.JPG
-      :width: 400px
       :align: center
 
 12. On May 3rd, after confirming that we did extract all messages, the void
@@ -122,7 +119,6 @@ Facts
 
   .. image:: voidstream/images/matches.png
     :alt: Matching bytes
-    :width: 400px
     :align: center
 
 - Embedded files have been found as early as 50MB into the stream, leading us to believe that the everything immediately after the null section is a homogeneous stream.
@@ -188,7 +184,6 @@ Theories
 
   .. image:: voidstream/images/mp4header.png
     :alt: MP4 header
-    :width: 400px
     :align: center
 
 **Iteration 2: April 26th-27th**
@@ -216,7 +211,6 @@ TEST.MP4 - What we know
 
   .. image:: voidstream/images/mp4occurence.png
     :alt: Matching bytes
-    :width: 400px
     :align: center
 
 - The file repeats multiple (possibly infinitely many) times in the void stream.
@@ -228,7 +222,6 @@ TEST.MP4 - What we know
 
   .. image:: voidstream/images/firstmp4.png
     :alt: The image
-    :width: 400px
     :align: center
     
 - The audio track consists of repeated beeps of a constant, 4.5kHz square wave approximation tone. The beeps and their spacing seem to be of relatively constant length. Spectral analysis returned no findings.
@@ -294,7 +287,6 @@ TSUKI.PNG - What we know
 
 .. image:: voidstream/images/tsuki_small.png
   :alt: TSUKI.PNG
-  :width: 400px
   :align: center
 
 - ``TSUKI.PNG`` is just a name given to the file by the investigators.
