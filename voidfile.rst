@@ -58,7 +58,7 @@ Timeline
 9. **At 4PM, April 26th, 179 found a PNG file in the void stream**. We were able to extract a complete PNG file, albeit with a malformed adaptive filter type. The raw PNG can be found `at images/corrupt.png
    <voidstream/images/corrupt.png>`_, with a cleaned-up version here:
 
-   .. image:: voidstream/images/tsuki_corrupt_small.png
+   .. image:: voidstream/images/tsuki_corrupted_small.png
     :alt: TSUKI.PNG
     :width: 400px
     :align: center
