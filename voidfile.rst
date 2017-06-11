@@ -50,7 +50,7 @@ Timeline
 1. On April 24th, Tsuki mentioned getting instructions from eNdymioN to provide a download link for a file. This was the first appearance of the void stream.
 2. On April 25th at 10 AM GMT, Tsuki mentioned finding an .mp4 file header within the void stream.
 3. Preliminary analysis of the void stream failed to confirm Tsuki's claims.
-4. At 6 PM GMT, an .mp4 header *was found* within the void stream at the 882th megabyte mark. 
+4. At 6 PM GMT, an .mp4 header *was found* within the void stream at the 882nd megabyte mark. 
 5. Three occurences of an .mp4 header were noted within a five gigabyte sample of the void stream
 6. **By 7 PM GMT, April 25th, the first mp4 file contained in the stream had been extracted and played.**
 7. At 7:49 PM, the second mp4 was extracted and found to be identical with the first. The same was confirmed for the third mp4 file.
