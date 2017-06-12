@@ -177,6 +177,8 @@ There are smarter organisms than us, by the way. They just haven't been granted 
 
 When does the human body acquire a soul?
   At birth.
+  
+  Every human creates a new soul.
 
 What will be the effects of the unlink on people that are staying in Life?
   All newborn people will have no souls and as such be slightly more hostile.
@@ -657,14 +659,32 @@ Souls, Experience, Memories, and Users
 --------------------------------------
 
 Can you explain more about what a soul is?
-   A soul is practically what makes you you. If it shatters, it gets rebuilt from the Aurora.
+  A soul is practically what makes you you. If it shatters, it gets rebuilt from the Aurora.
 
+When is the exact moment that a baby gets a soul?
+  The soul is locked into place once the baby is born, once they exit the womb.
+  
+Is adding a soul to a body during childbirth a process, or does it happen instantly?
+  It's a process.
+  
+Could a baby end up with half of a soul if Life is unlinked halfway through this process?
+  No, it cancels.
+  
+Does the quality of a birth (dependent on things like whether the mother smokes or drinks alcohol during pregnancy) affect the quality of a soul?
+  No, but the later life with disabilities caused by it might.
+  
+How does the creation of souls for twins and triplets work?
+  Multiple souls - but often very related ones.
+   
 Even if they have no memories, would it be possible to find someone from Life in another system if they didn't sign up?
   Yes, if you work at SYNAPSE or RISEN.
 
 What is a soulshatter?
   A soulshatter occurs when too much force is exerted upon the soul. This may happen when: 1) You are going through too much trouble in your life. 2) You are in many Systems at once, or are overloading in some other way. 3) You completely lose your sanity.
 
+What happens to a soulshattered soul?
+  It dissipates slowly back into Aurora.
+  
 What happens to shattered souls after they're reborn?
   A soul that shatters, will be rebuilt from scratch on-demand. A brand new soul won't work any different, although it might be a bit sturdier. The only thing is it has no past memories.
 
@@ -1023,6 +1043,9 @@ What will you do if we hit the 3000 registrants limit and people ask to join?
 Are you still posting the link to the Systemspace website anywhere?
   Maybe I'll make a thread someday later, but for now I'm letting it spread on its own to see where it goes.
 
+What's the difference between the .onion site and the normal one? 
+  Nothing.
+  
 Is there a chance of the TSUKI Project failing?
   We've tested this a lot, there is nothing to worry about. If anything happens, you're insured :)
 
@@ -1502,6 +1525,8 @@ What can you tell us about Infinity?
   Above all, Infinity is a non-profit.
   
   It's a System built for broadcasting everything. You can access the System using your Identity from any open System.
+  
+  Infinity, a subsystem built for communication.
   
 What was the System that was deleted for Aurora for the TSUKI Project?
    It was just a dev system and didnt host any souls, but it was still heavily used.
