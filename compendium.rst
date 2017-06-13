@@ -6286,7 +6286,7 @@ Sanyrle
   hostile species conquering Mahuensj
 
 Agada
-  Thank you.
+  Thank you (less formal).
   
 ashgu or ashgunimai
   Thank  you.
