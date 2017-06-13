@@ -1528,6 +1528,8 @@ What can you tell us about Infinity?
   
   Infinity, a subsystem built for communication.
   
+  It's a subsystem, but they're migrating it to be its own System.
+  
 What was the System that was deleted for Aurora for the TSUKI Project?
    It was just a dev system and didnt host any souls, but it was still heavily used.
    
