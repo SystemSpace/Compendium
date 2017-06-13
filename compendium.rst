@@ -6239,6 +6239,9 @@ Rein
 
 Kikhko
   Popular memory storage service.
+  
+Yirson
+  LFE equivalent of internet.
 
 Mahuensj
   Continent in LFE.
@@ -6282,6 +6285,9 @@ Lynling
 Sanyrle
   hostile species conquering Mahuensj
 
+Agada
+  Thank you.
+  
 ashgu or ashgunimai
   Thank  you.
   
@@ -6330,6 +6336,9 @@ khrahen
 Naine
   128
 
+Tan
+  2
+  
 Hy
   7.72606529604x10^2889
 
