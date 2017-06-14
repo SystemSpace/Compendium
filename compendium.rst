@@ -45,9 +45,9 @@ Index
 
       #. `/INFINITY PAGE/`_
       #. `/INFINITY II PAGE/`_
-	 #. `/INFINITY III PAGE/`_
-	 #. `/SYNAPSIAN FONT PAGE/`_
-	 #. `/SYNAPSCRIPT PAGE/`_
+      #. `/INFINITY III PAGE/`_
+      #. `/SYNAPSIAN FONT PAGE/`_
+      #. `/SYNAPSCRIPT PAGE/`_
       #. `/TSUKI'S THOUGHTS PAGE/`_
 
          #. `/ECHOES PAGE/`_
