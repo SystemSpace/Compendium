@@ -6298,6 +6298,9 @@ xatensj xannti xogadetanjo
 
 xatensj xannti gadentanjo
   I love you all.
+  
+Kon xhoa.
+  This is a book.
 
 mayyazawa
   a name (?)
