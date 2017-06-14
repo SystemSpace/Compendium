@@ -1314,12 +1314,12 @@ When we ask you something do you just know the answer or do you ask RISEN with y
 
 How do you actually look?
   This is pretty close:
+  (Drawn by migrant Jove <3)
   
 .. image:: images/tsuki.png
   :alt: Tsuki
   :align: center
   
-  (Drawn by migrant Jove <3)
 
 The Key
 -------
