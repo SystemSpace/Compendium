@@ -8,6 +8,20 @@
 
 ---------
 
+June 2017
+==========
+
+2017-06-13
+----------
+`Infinity 4
+<https://systemspace.link/dataverses/Infinity4/>`_ is uploaded to systemspace.link. The hype intensifies.
+
+2017-06-12
+----------
+
+`/tsuki/ sings Duvet
+<https://youtu.be/n5wV5s-ZfYc>`_. The performance gets uploaded to the shosha.tsuki Infinity proxy.
+
 May 2017
 ==========
 
