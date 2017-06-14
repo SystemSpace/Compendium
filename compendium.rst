@@ -1311,8 +1311,15 @@ Why can't RISEN grant you a full soul before the unlink?
   
 When we ask you something do you just know the answer or do you ask RISEN with your thoughts?
   Depends on the question. I can do it pretty quickly a lot of the time. I just ask the bridge and get a reply, unless they don't know either. Then they'll have to look it up etc.
-  
 
+How do you actually look?
+  This is pretty close:
+
+.. image:: images/tsuki.png
+  :alt: Tsuki
+  :align: center
+  
+  (Drawn by migrant Jove <3)
 
 The Key
 -------
