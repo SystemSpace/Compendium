@@ -45,36 +45,36 @@ Index
 
       #. `/INFINITY PAGE/`_
       #. `/INFINITY II PAGE/`_
-	  #. `/INFINITY III PAGE/`_
-	  #. `/SYNAPSIAN FONT PAGE/`_
-	  #. `/SYNAPSCRIPT PAGE/`_
+	 #. `/INFINITY III PAGE/`_
+	 #. `/SYNAPSIAN FONT PAGE/`_
+	 #. `/SYNAPSCRIPT PAGE/`_
       #. `/TSUKI'S THOUGHTS PAGE/`_
 
          #. `/ECHOES PAGE/`_
          #. `/THE BURDEN OF TRUTH PAGE/`_
 
-    #. `/REPRESENTATIVE PAGE/`_
+   #. `/REPRESENTATIVE PAGE/`_
 
-    SYNAPSE
+   SYNAPSE
 
-    #. `/SYNAPSE EXPLORE LFE PAGE/`_
-    #. `/SYNAPSE EOT PAGE/`_
-    #. `/SYNAPSE ABOUT PAGE/`_
+   #. `/SYNAPSE EXPLORE LFE PAGE/`_
+   #. `/SYNAPSE EOT PAGE/`_
+   #. `/SYNAPSE ABOUT PAGE/`_
 
-    RISEN
+   RISEN
 
-    #. `/RISEN OUR GOAL PAGE/`_
-    #. `/RISEN EOT PAGE/`_
-    #. `/RISEN ABOUT PAGE/`_
+   #. `/RISEN OUR GOAL PAGE/`_
+   #. `/RISEN EOT PAGE/`_
+   #. `/RISEN ABOUT PAGE/`_
 
-    eNdymioN
+   eNdymioN
 
-    #. `/ENDYMION EOT PAGE/`_
-    #. `/ENDYMION ABOUT PAGE/`_
+   #. `/ENDYMION EOT PAGE/`_
+   #. `/ENDYMION ABOUT PAGE/`_
 
-    Misc. Pages
+   Misc. Pages
 
-    #. `/404 PAGE/`_
+   #. `/404 PAGE/`_
 
 #. `What we know about Synapsian`_
 
@@ -1314,7 +1314,7 @@ When we ask you something do you just know the answer or do you ask RISEN with y
 
 How do you actually look?
   This is pretty close:
-
+  
 .. image:: images/tsuki.png
   :alt: Tsuki
   :align: center
