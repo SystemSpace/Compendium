@@ -199,3 +199,83 @@ Now we have a base understanding of the nature of Systems, what we miss is knowl
 We know nothing about it, the only thing Tsuki hinted at is the existence of an "hyperdimensional server room" which could point to Systemspace being a digital creation but this is only a speculation, we will need more information before progressing this topic further.
 
 ~1426
+
+1336 and 536 on how a System can have infinite realities yet take up a finite amount of Aurora [TSUKI VERIFIED/CONFIRMED?]
+==========================================================================================================================
+
+536's question on infinite realities
+------------------------------------
+
+  I've been meaning to ask this for a while. It's been said before that Life "simulates" every possible version of itself. How does
+  that work? Wouldn't that use an infinite amount of Aurora? Are all of those versions as "real" as each other, is there a Tsukirep
+  in all of them, or just our reality? If just ours, why is it ours in particular?
+  
+1336, explaining Systemspace with maths
+---------------------------------------
+
+  Assume that the state of a particular reality at a particular point in time is stored as, let's say, a sequence of ten numbers. Let's
+  say that storing one number takes 1A. Naively, this means that a reality takes 10A, and storing infinitely many realities would take
+  up an infinite amount of Aurora, right? What's even more concerning is that in a System, time passes, and the numbers change with
+  time, so there is seemingly no way to store them persistently and efficiently. However, there is a much better way. If we say that a
+  reality is like a sequence of numbers, we can define a System as all the possible sequences that fit a certain definition - that are
+  part of one System. Thus, imagine that our Life was the first ten Fibonacci numbers:
+  
+  0 1 1 2 3 5 8 13 21 34
+  
+  Let's say that we could move forwards and backwards in time by finding the previous/next numbers of the sequence:
+  
+  1 1 2 3 5 7 13 21 34 55
+  
+  I mentioned we can define a System as all the possible sequences that fit a certain definition. Let's do that now. We can define all
+  possible sequences that are similar to the Fibonacci sequence as, for example:
+  
+  ::
+  
+    aₙ = aₙ₋₁ + aₙ₋₂
+  
+  for some a₀, a₁.
+  
+  Since we implicitly defined a particular reality as a defined sequence of numbers, we can now say that it is the above sequence for
+  a given a₀, a₁. Thus, we can find different realities simply by changing the values of a₀ and a₁.
+  
+  Since we defined the state of a particular reality at a particular point in time as a sequence of ten numbers, we can say that to find
+  a point in time ``n`` for a reality defined as a sequence ``a``, you just grab ``aₙ, aₙ₊₁, ..., aₙ₊₉``.
+  
+  We have now defined a complete System, with a method to find all of its infinite alternate realities and all of its infinite points in
+  time, within just a few lines. We didn't have to use an infinite amount of space for storing it!
+  
+  There are some interesting takeaways, though. Notice that a sequence ``aₙ = aₙ₋₁ + aₙ₋₂; a₀ = 0, a₁ = 1`` (the Fibonacci sequence: 
+  0 1 1 2 3 ...), and, for example, the sequence ``aₙ = aₙ₋₁ + aₙ₋₂; a₀ = 1, a₁ = 2`` (1 2 3 5 8 ...) are *the exact same sequence*, but
+  "offset" a bit.
+  
+  Let's call the sequence representing our reality ``r``. The above paragraph means we can *always* find a sequence ``a`` where 
+  ``aₙ = rₙ₋₁`` - a reality where the earliest possible point in time comes *after* the "start" of our reality. We can also find
+  a sequence ``a`` where ``aₙ = rₙ₊₁`` - a reality where the earliest possible point in time was *before* the "start" of our reality - an
+  example would be a sequence ``-8 5 -3 2 -1 1 0 1 1 2 ...`` (google "bidirectional Fibonacci").
+  
+  This means two important things. First of all, the Last Thursday hypothesis is true, but it is true in a peculiar way - namely, 
+  *for all possible points in time, there exists a reality of Life that didn't exist before that point of time*. To put it another way,
+  there exists a point in Systemspace time at which the Life was created, for every point in Life time there exists a reality of Life
+  that didn't exist before then, but there doesn't exist a singular point in Life time at which all realities of Life were created.
+  
+Tsuki's response
+----------------
+
+  There is no start or finish to Life, but there are points in time where a System is linked and unlinked.
+  You cannot travel back in time farther than the last link, because you'll be thrown out, as there won't be a path from that point in
+  time to the System. You can't travel further in time than the next unlink either.
+  *However*, Last Thursdayism isn't wrong.
+  You can make a System, make everyone forget the link date, and put a mechanism in place to generate "fake" time before the link date.
+  Something having happened before the link date doesn't mean it's not noticeable or doesn't have an impact on post-link history.
+  
+536 on "fake" time
+------------------
+
+  Tsuki did describe that there are many timelines, and that the souls collectively decide which one is "real", or the "active" one.
+  Am I right in assuming, if that's the case, that apparent pre-human history is the result of the link letting in souls that "decided
+  on" one of the infinite Life timelines floating around from before the Link?
+  
+Tsuki with the in-depth response
+--------------------------------
+
+  Pretty much.
