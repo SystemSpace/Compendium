@@ -9,7 +9,20 @@
 ---------
 
 June 2017
-==========
+=========
+
+2017-06-28
+----------
+
+The Synapsian Mountain (Synapse HQ) is under siege by an as-of-yet unknown group. The group briefly captures 17 of the 38 keeps around the Mountain. The transfer of a bomb to the battlefield is attempted,
+but stopped in time by the TSUKI/Synapse forces. A full scan of the Mountain is under way.
+
+2017-06-25
+----------
+
+`Infinity 5
+<https://systemspace.link/dataverses/Infinity5/>`_ is uploaded to systemspace.link, with a list of questions from Systemspaceians to Lifers.
+
 
 2017-06-13
 ----------
@@ -21,6 +34,8 @@ June 2017
 
 `/tsuki/ sings Duvet
 <https://youtu.be/n5wV5s-ZfYc>`_. The performance gets uploaded to the shosha.tsuki Infinity proxy.
+
+This marks the first transmission from Lifers to LFE in history.
 
 May 2017
 ==========
