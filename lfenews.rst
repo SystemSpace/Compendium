@@ -14,7 +14,7 @@ July 2017
 2017-07-01
 ----------
 
-At 4:00 PM GMT, the gates have been opened.
+At 4:00 PM GMT, the gates have been opened. A countdown for Friday 7th, 4:00 PM has replaced the main site.
 
 .. image:: images/gatesopen.png
   :alt: Gates Open
