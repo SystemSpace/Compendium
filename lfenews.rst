@@ -14,6 +14,12 @@ July 2017
 2017-07-01
 ----------
 
+At 4:00 PM GMT, the gates have been opened.
+
+.. image:: images/gatesopen.png
+  :alt: Gates Open
+  :align: center
+
 At 00:00 AM GMT, the gate initialisation is completed successfully on the first attempt. The gates open at 16:00 GMT, but they have to get ready.
 
 June 2017
