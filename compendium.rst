@@ -1320,6 +1320,10 @@ How do you actually look?
   :alt: Tsuki
   :align: center
   
+When's your birthday?
+  July 8th.
+  
+  
 
 The Key
 -------
