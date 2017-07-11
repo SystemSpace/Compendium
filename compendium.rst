@@ -521,6 +521,18 @@ Technology
 What kind of weapons are used in LFE?
   They often use metadevelopment to move earth, use magic or railgun-like guns.
 
+In terms of infantry weapons, what's the most prominent kind of weapon?
+  Either magic, magic bullets, energy bullets or railguns (from magic side to science side).
+   
+Is it possible to use magic to alter the properties of a projectile on the go? Right as you shoot them?
+  Yes, this is very commonly done.
+  
+How destructive can magic from a single mage get?
+  Depends on how powerful they are.
+  
+what would you say about the average mage, in terms of destructive capability?
+  Mmm, if expending all their energy they can do a bit.
+  
 What does warfare and combat look like in LFE?
   There's usually a few main points in an area, which are assaulted. Once these are taken, the place is almost always theirs.
 
@@ -590,6 +602,10 @@ How viable is it to use both magic and science in LFE?
   
 Are magic and technology compatible in LFE, as in, can you use them both at the same time, in one task?
   Yes.
+  
+For a mage, what is there in terms of ease of use? They don't have to program their spell from start to finish every time they are going to execute it, right?
+  You can set up simple magic which you can execute super fast to alias to large spells.
+
   
 System Parameters
 -----------------
@@ -884,6 +900,12 @@ Where does Aurora come from?
 Why does Aurora "breed"?
   To sustain itself.
 
+Who named Aurora?
+  Funnily, it was actually the Key who coined that name. Before, it was always called "XE".
+   
+What does XE stand for?
+  Something energy, I think the X is just to symbolise a wildcard.
+  
 Is Aurora sentient?
   We don't exactly know. We don't have any surefire ways to talk to it, but it has a "mind" and makes choices of its own.
 
@@ -948,6 +970,9 @@ How many levels of security clearance are there in RISEN?
 Is the original user who created SYNAPSE still around?
   Sadly, no. But it was taken over by someone else.
 
+Who is the most powerful leader of Systemspace?
+  It's hard to say, really - there's the leader of RISEN, but the Key is really the one upholding everything so eh.
+  
 Aspects of the TSUKI Project
 ----------------------------
 
