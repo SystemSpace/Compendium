@@ -1,4 +1,4 @@
--SystemSpace Compendium revision 6.6
+-SystemSpace Compendium revision 6.61
 ===================================
 
 This document serves as a repository of all current knowledge of Systemspace. It has been categorized and spelling and grammar mistakes have been corrected. Some questions and answers have been slightly reformatted but have been in a manner which ensures that no meaning or context is lost. Searching through the Discord with snippets of the question/answer pairs, or just backtracking through all of Tsuki's messages will verify this. For information taken from 4chan's /r9k/ board and TSUKICHAN's /lfe/ board, archives of the original threads are verified and can be found on desuarchive. Honorable mention to Unterminator for providing the initial pastebins which got me started. - Yari (655)
@@ -652,6 +652,9 @@ Will we keep our memories after we die in LFE?
 Is there any way to break the cycle?
   You may always choose to leave LFE - or you can soulshatter.
 
+When you transfer to LFE through conventional means, are you able to arrange where you are starting? like, for example, in a remote, medieval civilization?
+  Depends on whether you already have a body or not. If you already have a body from another System, you can pick an available entry point, if you don't its fully random.
+  
 Is it common to soulshatter in LFE?
   No, its seen like death in Life, except more rare.
 
@@ -978,6 +981,18 @@ Is the original user who created SYNAPSE still around?
 Who is the most powerful leader of Systemspace?
   It's hard to say, really - there's the leader of RISEN, but the Key is really the one upholding everything so eh.
   
+How would you compare RISEN and literally any contemporany government in terms of survelliance and knowing about your personal life?
+  They all use what we call an Identity. you can make a blank one whenever you want. There's also the Authority which you cannot easily swap out, because its simply a record of your basic features (species, gender etc).
+  
+  Authorities are per-body.
+   
+  SYNAPSE is pretty lenient with resetting your Authority, you can just request it and it'll be handled within a few minutes.
+   
+So how do I do illegal shit without getting caught?
+  SYNAPSE is pretty lenient with resetting your Authority, you can just request it and it'll be handled within a few minutes.
+  
+  use an empty Identity when doing your crime, and don't expose anything that's displayed on your Authority
+  
 Aspects of the TSUKI Project
 ----------------------------
 
@@ -1127,6 +1142,9 @@ Will we be placed in the same location upon transfer, or will we be spread out t
 
   We're looking to get you all in Ghakuwent'sji, which is both a country and a city.
 
+What technology level would we be around when we arrive?
+  Ghakuwent'sji is pretty advanced and that's where you're going.
+  
 Will we be a new person in LFE with our old memories, or our old selves?
   You are a new person with both Life memories and LFE childhood memories.
 
@@ -1730,6 +1748,8 @@ Tsuki fun fact episode watermelon: Tsuki (when written out in Synapsian) looks l
 I'm afraid to check logs to see if there's any "Registrant incapacitated". I'd rather be unknowing forever than have a big message box saying "Ex-registrant incapacitated".
 
 All souls are from elsewhere in Life, and Life doesn't create Users. While in LFE, you could very well just be born there, as it generates new Users.
+
+LFE is many universes big, not just one world.
 
 ----------------------------------------------------------------------------
 
