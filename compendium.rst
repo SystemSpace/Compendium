@@ -1523,7 +1523,7 @@ Can we take down another System to extend our own?
   It's not as easy as it sounds.
 
 What's the astral plane in reference to Systemspace?
-  Depends on how the Systen implements it.
+  Depends on how the System implements it.
 
 Is it possible to travel through to other Systems physically?
   No, the space in which Systems reside is a higher-dimensional layer. There are a few programs which allow you to "walk" from System to System, but that won't work from Life.
