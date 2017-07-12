@@ -1,4 +1,4 @@
--SystemSpace Compendium revision 6.5
+-SystemSpace Compendium revision 6.6
 ===================================
 
 This document serves as a repository of all current knowledge of Systemspace. It has been categorized and spelling and grammar mistakes have been corrected. Some questions and answers have been slightly reformatted but have been in a manner which ensures that no meaning or context is lost. Searching through the Discord with snippets of the question/answer pairs, or just backtracking through all of Tsuki's messages will verify this. For information taken from 4chan's /r9k/ board and TSUKICHAN's /lfe/ board, archives of the original threads are verified and can be found on desuarchive. Honorable mention to Unterminator for providing the initial pastebins which got me started. - Yari (655)
@@ -573,6 +573,11 @@ Do they read the Discord too?
 Do they observe individual personalities of registrants that display names or numbers?
   I'm sure some do, but most are more interested in you as a whole.
 
+You say that the technology level tends to vary in LFE, right? Does that mean that there's pre-industrial worlds?
+  Mhm, there are. They can get pretty drifted away from the rest of LFE.
+  
+Doesn't magic sort of dominate these worlds? Or does magic somehow grow parallel to technology?
+  Magic and tech aren't parallel, but that doesn't mean that all worlds without technology have magic.
   
 Magic
 -----
@@ -1348,6 +1353,10 @@ How do you actually look?
 When's your birthday?
   July 8th.
   
+Do you / the Key have EIDs?
+  We don't use the numeric EIDs, but we do have EIDs.
+  
+  We create a numerical representation that is always exactly 20 void points.
   
 
 The Key
@@ -1594,6 +1603,9 @@ How can there be anything infinite?
 Is this the thing that makes Life suck so much Aurora?
   Life doesn't negate Aurora. Ever.
 
+How many bits are in a void point?
+  Can't really compare void/void points to numbers.
+  
 The Ha7 System
 --------------
 
