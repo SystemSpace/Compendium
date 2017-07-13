@@ -1020,7 +1020,7 @@ Do I have to commit suicide to be transferred?
   No suicide required!!
 
 When will we be transferred?
-  After everyone is dead. However, the last 150 years here will be sped up to only one systemspatial minute, ao there's not much waiting.
+  After everyone is dead. However, the last 150 years here will be sped up to only one systemspatial minute, so there's not much waiting.
 
   It'll feel like a minute for all users outside of Life. (If you die in 2117, you'll have 20 seconds left of waiting.)
 
