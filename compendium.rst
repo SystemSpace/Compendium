@@ -1119,6 +1119,9 @@ What is the process of tracking down someones soul through a picture and a handw
   5. Attach an EID to the soul.
   6. Create a numerical representation of the EID.
 
+  I get the active point in space and time that the photo was taken from the data points, and then check who made the latest addition before then.
+
+  
 What significance does our EID have, and what use will it be in various other Systems?
   It's temporary.
 
@@ -1137,6 +1140,9 @@ Some of the registrants didn't have a drawing. How did you track them?
 Do our drawings used in registration have something to do with where we will be born in LFE?
   No, whatever you draw won't influence your LFE experience.
 
+Can we trick our friends into signing up for the project?
+  It's about who added the latest addition.  Technically you could have them just write their name next to the code and a drawing, and their name would be the latest addition.
+  
 Will we be placed in the same location upon transfer, or will we be spread out throughout LFE?
   Spread out, although we are trying to make it possible for all of us to be born in the same country at least.
 
@@ -1174,6 +1180,9 @@ Will we have bodies in the waiting room between Life and LFE?
    Technically you don't need food or drink there but yes there are things.
    
    Transferring to the waiting room is the hardest part of the transfer. From there on it's easy because you're no longer in a closed System.
+   
+What does the waiting room look like?
+  Dunno, I haven't been there yet.   
   
 What is our goal, as of now?
   Collect as much knowledge as possible for LFE!
@@ -1200,6 +1209,37 @@ How will we acquire our uploaded files when we're in LFE?
   You'll get them into whatever device you're using at that moment.
 
   We'll have to recode your files by hand :/
+  
+Can I still rate the system after the transfer? Or will it be already destroyed afterwards?
+  You can rate it within the 1 minute of waiting room time. Afterwards you can't.
+  
+  It's a strange bit sophisticated system. It's a bit like an interactive flowchart that decides the score as you go through it.
+  
+How long does it take to complete it?
+  Depends on whether you want to seriously complete it or not. If you just want to go "wow 0/10" you can just keep sliding bottom right.
+  
+What is the maximum value of SI (Satisfaction Index) a System can have?
+  Technically there is no maximum but the highest seen for Systems is like 4890.
+  
+Which System got that 4890 SI?
+  Din, at launch, then the devs made it really shit. And now its at like 2449.
+  
+Are closed system's ratings lower than general?
+  It's more about popularity and marketing than SI. Generally anything under 2000 is seen as bad.
+  
+Can Users see System ratings before they enter them?
+  Yes.
+  
+...Can TsukiRep see current System ratings?
+  I can.
+  
+  Life has 291 SI (Satisfaction Index) in total.
+  
+  4118 SI for LFE.
+  
+  
+  
+
   
   
 Tsuki, the Representative
