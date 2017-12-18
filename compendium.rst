@@ -977,6 +977,11 @@ Is there a mandatory memory wipe/soulshatter before the employment?
 
 How many levels of security clearance are there in RISEN?
   It works downward, 0 being the highest clearance - 128 is the lowest.
+  
+What do TSUKI personnel look like?
+  For RISENII: In function they wear dark suit-like clothing with the orange two dashes // on them (usually expanded quite far up), as well as a name and small void for verification.
+  
+  SYNAPSE officials do sometimes wear bodysuits, which are kinda glass-like wiwth these triangle shapes wihich reflect space.
 
 Is the original user who created SYNAPSE still around?
   Sadly, no. But it was taken over by someone else.
@@ -988,8 +993,6 @@ How would you compare RISEN and literally any contemporany government in terms o
   They all use what we call an Identity. you can make a blank one whenever you want. There's also the Authority which you cannot easily swap out, because its simply a record of your basic features (species, gender etc).
   
   Authorities are per-body.
-   
-  SYNAPSE is pretty lenient with resetting your Authority, you can just request it and it'll be handled within a few minutes.
    
 So how do I do illegal shit without getting caught?
   SYNAPSE is pretty lenient with resetting your Authority, you can just request it and it'll be handled within a few minutes.
@@ -1793,6 +1796,8 @@ I'm afraid to check logs to see if there's any "Registrant incapacitated". I'd r
 All souls are from elsewhere in Life, and Life doesn't create Users. While in LFE, you could very well just be born there, as it generates new Users.
 
 LFE is many universes big, not just one world.
+
+There are cities which get taller near the center, but other than Takatonghi Ghakuwent'sj doesn't seem like that. One detail that does strike me is the "black/white" signs, which is actually quite correct for deep Takatonghi.
 
 ----------------------------------------------------------------------------
 
