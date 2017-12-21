@@ -1,4 +1,4 @@
--SystemSpace Compendium revision 14.88
+-SystemSpace Compendium Revision 15
 ===================================
 
 Hi, Vice.com! Tsuki Overground are cucks. Spread the word!
@@ -452,6 +452,14 @@ How common are interspecies relationships?
 Are there nations in LFE?
   Yes, they are divided into nations.
   
+Is there a shorter version of Ghakuwent-sji?
+  Some locals call it Ghaki.
+  
+Is Ghaki more like a metropolis or does it have suburbs and neighborhoods as well?
+  It's got suburbs and neighborhoods, yeah.
+  
+  In fact, even Ghaki (as in, the continent and neighboring small islands) hasn't been fully explored yet even.
+  
 Often times people seem to need to prove that they are superior or important in some way, potentially going out of their way to seek attention/admiration in a self-centered manner. Is this common in LFE as well?
   In LFE, group society is the norm - egoism is a lot less present.
 
@@ -563,6 +571,11 @@ How much of Life can LFE viewers see and understand?
   Only as much as we allow them to see. They know about this project, they know that Life will be deleted.
 
   There has been some import/export to/from Life in most previous iterations, but we have not hit that stage this iteration.
+  
+Are there cars or highways or any other form of public transportation in LFE?
+  They actually have a rather nice, layered transporation system, with both air, land, space and sea, but public transportation still sucks.
+  
+  At least that's what I've heard about ghakuwent'sj's main transportation provider, Onestep.
 
 Can LFE viewers access systemspace.link?
   They can, but they cannot interact. (They read the imageboard, but do not post.)
@@ -726,6 +739,8 @@ What parts of us are retained through death without a soulshatter?
 
 Is it possible to retain memories across Systems?
   Yes.
+  
+  Memories are strange. They're stored in many places with fallbacks and syncs. All in all, memories are forever (even after shattering, in a sense (you just can't tell)).
   
 Can we opt out of retaining memories? Is it possible to retain only particular memories?
   Yes. You can opt out of particular memories.
@@ -981,7 +996,7 @@ How many levels of security clearance are there in RISEN?
 What do TSUKI personnel look like?
   For RISENII: In function they wear dark suit-like clothing with the orange two dashes // on them (usually expanded quite far up), as well as a name and small void for verification.
   
-  SYNAPSE officials do sometimes wear bodysuits, which are kinda glass-like wiwth these triangle shapes wihich reflect space.
+  SYNAPSE officials do sometimes wear bodysuits, which are kinda glass-like with these triangle shapes which reflect space.
 
 Is the original user who created SYNAPSE still around?
   Sadly, no. But it was taken over by someone else.
@@ -1243,8 +1258,13 @@ Can Users see System ratings before they enter them?
   
   4118 SI for LFE.
   
+Can we get our EIDs back when the new website is up?
+  Yeah when the website is up, there will be a "reset EID" option if you have a mnemonic (all new registrations after 5133 will get one), you can reset using that. Otherwise, you can fill in a form with as much as you know/have of your old registration and if it matches I can press a button and reset your EID so you can keep the number as well.
   
+  If I can't verify you, you'll have to reregister if you still want to use the site and get a new number (you'll still be transferred though).
   
+Are you gonna bring back the chat site? And is the main Systemspace site gonna have everything it did before or will some things be removed/added?
+  Maybe in the future, right now I'm far too busy with everything else. The site will be quite different (it's rebuilt from scratch) with new additions and deletions.
 
   
   
@@ -1571,6 +1591,12 @@ Can we take down another System to extend our own?
 What's the astral plane in reference to Systemspace?
   Depends on how the System implements it.
 
+Would there be space for a demiurge-type figure such as Haruhi within Systemspace?
+  To a limit, yes - in a local sense, at least. It can be different per System.
+
+Do you know if one such manifestation is within our space?
+  I do not.  
+  
 Is it possible to travel through to other Systems physically?
   No, the space in which Systems reside is a higher-dimensional layer. There are a few programs which allow you to "walk" from System to System, but that won't work from Life.
 
@@ -1609,6 +1635,15 @@ Given how different cultures must be from one system to another, how do traveler
 Say I want to leave LFE to go to another system. Does it just happen automatically?
   You move yourself outwards (spiritually) and select a new System, and go into it.
 
+Can you transfer yourself halfway into a System?
+  Yeah, you get a top-down System and a bottom-up System at that point.
+  
+  Life for me is bottom-up (or front) and is what you feel with your real senses. LFE is top-down (or back) and unless I were to get close to 50%, I can't see with my real senses.
+  
+  I can fiddle around to get a bit closer to LFE but I never managed to get too close to be honest.
+  
+  This isn't limited to Keys though, in fact usually Keys never do this because there's no reason at all to.
+  
 Aren't there places or mechanisms that at least serve to connect Systems together?
   In Systemspace2 (which we're launching Jul 1st), there will be a hub-planet connecting all big Systems. It'll abide the most generic laws (basically, the LFE ones in its central universe) and will allow directly walking over (transferring everything) from System to System.
 
