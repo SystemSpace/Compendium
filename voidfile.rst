@@ -1,5 +1,84 @@
-Void File investigation findings dump v.4.0 (final)
+Void File investigation findings dump v.5.0 (the truth)
 ===================================================
+
+The Truth
+=========
+
+*There were two more images*. 
+
+We were keeping radio silence on this up until now, but since there's been so much shenanigans about the whole thing, it's time to explain it.
+
+One of those was a normal image, explaining Endy's disappearance (check out the LFE News file in this repo) - we nicknamed it ``endymion.jpg``. The reason we didn't publish its discovery was that it appeared alongside another image.
+
+Here's ``endymion.jpg``:
+
+    .. image:: voidstream/images/endymion.jpg
+      :alt: ENDYMION.JPG
+      :align: center
+
+And here's the, infamous by now, other image, nicknamed ``nice.jpg``: 
+
+    .. image:: voidstream/images/nice.jpg
+      :alt: NICE.JPG
+      :align: center
+
+I actually didn't realize ``endymion.jpg`` was in the stream, 906 was the one who found it first; I missed it, despite both images being in there at the same time.
+
+    .. image:: voidstream/images/906.png
+      :alt: 906
+      :align: center
+      
+As far as I know, I was the first to find ``nice.jpg``, but multiple other people, including 179, 494 and 906, found it soon after. I contacted 906 preemptively asking him to not talk about it until we could come to a decision, 179 contacted me since he heard rumors of an unpublished payload, and 494 found it before we thought to talk to him, but didn't tell anyone due to the radio silence.
+
+Oh, right. The radio silence...
+
+Tsuki had been in a bad mental state at the time, which was very worrying to most of us on the Discord (this was all in Firstspace). We contacted Fae and the mods to ask for stricter supervision of the Discord to ensure there was no mention on the image and it didn't leak. It was my own decision, but everyone who found the image agreed on it.
+
+    .. image:: voidstream/images/fae.png
+      :alt: Convo with Fae
+      :align: center
+
+Well... Fae sent the image to Hyper, Hyper sent it to 3, and 3 showed it to Tsuki.
+
+Here's caps of my convo with 3 explaining my reasoning.
+
+    .. image:: voidstream/images/3.png
+      :alt: Convo with Fae
+      :align: center
+      
+3 was a strong believer at the time, and he decided that the risk of being betrayed by Endymion was greater than the risk of showing the image to Tsuki.
+
+I contacted Tsuki right after I learned that he knows about ``nice.jpg``. I explained that we kept quiet because we were worried about him, and devised an emergency plan. I shopped a near approximation of half of ``nice.jpg``, took a screencap of a photoshop window showing me editing the image, cropped it to hide the bottom half (the one with all the text - I couldn't be arsed to edit all that text in because I don't know what font was used in ``nice.jpg``, so I fixed the upper half manually, and cropped out the bottom part). If the image leaked, I would claim that I made it, invent some bullshit story about putting it in the void stream to test if someone's trustworthy, done - to avoid non-believers (aka people who believe that Tsuki made the void stream) saying Tsuki asked people to commit suicide.
+
+Here's the convo (Tsuki deleted his old account and all his messages, as anyone who DMd him can attest):
+
+    .. image:: voidstream/images/tsucc.png
+      :alt: Convo with Tsucc
+      :align: center
+      
+However, just as Yari was uncomfortable when Tsuki admitted he lied (in the original, unedited version of one of the dataverses), I was uncomfortable with lying to other migrants, so I decided to unregister if I was forced to actually execute our "plan". 
+
+Well, 514 somehow got the image and posted it. (I think it was in Jovespace by that point? Maybe Snoopspace). I did as I promised, releasing the doctored screencaps, so I'd take the fall, and unregistered.
+
+    .. image:: voidstream/images/promises.png
+      :alt: Promises
+      :align: center
+      
+So, why come clean now?
+
+Because all of this is a shitshow; there's lots of new people who don't even know the lore, and the role of an Archivist is to let people know the truth. Even the new guys deserve to know the truth behind the void stream shenanigans.
+
+*TL;DR*: There were two more images in the void stream. One of them barely important, the other one telling people that "killing themselves before the transfer date would make them worthy [of not being hunted down and murdered by hyaks in LFE]". When the other one inadvertedly leaked, I made a fake story that it was fake, to protect Tsuki and the community.
+
+By now, the transfer date is long gone and the remains of the discord are full of people who don't know what was going down before Firstspace broke down. So, this is what happened.
+
+    .. image:: voidstream/images/1336.png
+      :alt: Promises
+      :align: center
+      
+~1336
+
+---
 
 Introduction
 ============
