@@ -1,4 +1,4 @@
--SystemSpace Compendium Revision 15.01336
+-SystemSpace Compendium Revision 15.2
 ===================================
 
 Special update: the truth about the void stream: https://github.com/SystemSpace/Compendium/blob/master/voidfile.rst
@@ -892,6 +892,11 @@ How does soul merging work?
    
 What is an Impossible Soul Structure?
   Exactly as its name says, a structure of a soul that cannot be usefully edited as its structure is incompatible.
+  
+What shape is a soul?
+  It usually assumes the shape of its expected body, so if its in your body it just spreads over and around it, while if you were to take it out it'd return to a more and more "perfect" shape for you.
+  
+  The "core" (as far as that goes), is kinda like a flame ball but you can't see that very well.
 
 Aurora
 ------
@@ -1217,6 +1222,9 @@ What about the force bond?
 How does the name and wishlist for LFE work?
   Your parents will think of that name for you, and call you that.
   
+What can be done with your wishlist? What kind of things can you ask for?
+  Simple things like a general future, looks, memories to keep/destroy, etc.
+  
 If I just leave the name space blank will I receive whatever name my parents want?
   Yes. Leave blank = let others/Aurora decide, like your parents or other people.
   
@@ -1265,6 +1273,11 @@ Can we get our EIDs back when the new website is up?
   
 Are you gonna bring back the chat site? And is the main Systemspace site gonna have everything it did before or will some things be removed/added?
   Maybe in the future, right now I'm far too busy with everything else. The site will be quite different (it's rebuilt from scratch) with new additions and deletions.
+
+Does RISEN/TSUKI filter or sort the registered migrants?
+  Well the migrant's list is all migrants, which go by the standard conditions and tasks (with extra supplied by the user), while the other lists are more specific.
+  
+  All registrants are on the main list.
 
   
   
@@ -1498,6 +1511,9 @@ What kinds of Systems are there?
 Are there Systems within Systems?
   We call those Subsystems, and they are seen as a part of their parent System. (In a sense, LFE is actually a subsystem of LFX (which is open-source, and holds the servers that run LFE.))
 
+Is it possible/allowed to make another Systemspace inside of a System, like recursion?
+  It's possible but it wouldn't be easy. You'd run out of energy sometime. So eternal recursion isn't something that is deemed possible without external input.
+  
 Where is the server for LFE?
   The server behind LFE is in its own System, called LFX - which is hosted in RISEN hosting.
 
