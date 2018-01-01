@@ -319,6 +319,9 @@ How was Japanese inspired by Synapsian? How did they recieve this information?
 Is Synapsian a naturally created language, or was it deliberately designed with the intent of creating a universal language?
   A mix of both. It's very early stage was deliberately created but it has evolved.
   
+Is Synapsian one standard language, or is it more of a chinese situation where multiple mutually unintelligible "dialects" are grouped under one language?
+  It's more like Chinese (despite many attempts to standardize it, which just added more dialects).
+  
 Do they speak English in LFE?
   No, in LFE most people speak Synapsian. The acronym is in ""English"" because the language for Systemspace itself is English. (This English is quite a bit different from the human English, though.)
 
@@ -328,7 +331,8 @@ Do they know English?
 Do you mind explaining some of the curse words that they use in LFE?
   Honestly swearing doesn't really have it own words - it's more the way you talk to people that signifies your disgust. If anything, the word "t'xa" would be something along the lines of "fuck" or "shit".
 
-  
+Will we make the fully developed language of Systemspace, if we ever take our time to translate everything to fit into it?
+   Frankly, even I don't know enough Synapsian to make that happen. If someone tells me how to make Unicode be smart, I could try and make a font that uses an empty Unicode block for Synapsian (and maybe make a program that adds the Synapsian block to any font), but I have no clue how Unicode works, so I don't know.
   
   
 Science
@@ -380,6 +384,9 @@ Does LFE have stimulants?
 
 What other kinds of drugs are in LFE?
   Not really my field, all I know of is Hn'sa which basically overloads the brain, causing it to operate faster but dangerously. It's been in the news a lot.
+
+Do people in LFE have to use the bathroom?
+  Depends on the species. Usually yes though.
   
 Will there be places to fix my mental illnesses/depression/unmotivation?
   I'm looking into that. And no, the transfer won't fix your soul.
@@ -419,10 +426,16 @@ Does LFE use crypto-currency?
 Could you give a good breakdown of the job market?
   .9% primary sector, .2% secundary sector, 62% tertiary sector, and the other 36.9% action-packed other stuff (fighting etc.) These are estimates, I'm not allowed to give actual numbers.
 
+Can I become an assassin in LFE?
+  Sure, although it's a rare job.
+  
 How does education work in LFE?
   There's schools for different past lives. If you have no past lives, you need to go to a different school type.
   
    Before 12 you just have default eduction that basically makes you get accustomed to the culture you're in.
+   
+What is the first lesson we get in LFE?
+  Depends on the area, it won't be too different.
   
 What are the most important fields of science in LFE?
   I'd say programming, alternate species, intersystematical science, etc.
@@ -459,6 +472,12 @@ Is Ghaki more like a metropolis or does it have suburbs and neighborhoods as wel
   It's got suburbs and neighborhoods, yeah.
   
   In fact, even Ghaki (as in, the continent and neighboring small islands) hasn't been fully explored yet even.
+
+While LFE isn't a paradise, have the people at RISEN told you of any particularly nice places, cities, etc?
+  Well, there's a lot~ they say a lot of southwest Ghakuwent'sj is very nice though, or Mahuensj, or Gheiya.
+  
+Is there any really pretty sightseeing spots in LFE?
+  Absolutely! (I mean, LFE is gigantic - how could there not be?)
   
 Often times people seem to need to prove that they are superior or important in some way, potentially going out of their way to seek attention/admiration in a self-centered manner. Is this common in LFE as well?
   In LFE, group society is the norm - egoism is a lot less present.
@@ -563,9 +582,6 @@ Is dying or being incapacitated safer?
   Inncapacitation can hurt really fucking bad, which might shatter you if it goes on for too long, while death is quite simple.
   
   Dying is less dangerous than incapacitation.
-  
-Can I become an assassin in LFE?
-  Sure, although it's a rare job.
   
 How much of Life can LFE viewers see and understand?
   Only as much as we allow them to see. They know about this project, they know that Life will be deleted.
@@ -1279,6 +1295,14 @@ Does RISEN/TSUKI filter or sort the registered migrants?
   
   All registrants are on the main list.
 
+You mentioned that there are other lists of people being transferred over besides the migrants. Did these people need to follow the same steps to be transferred, i.e. making a drawing and writing the alphanumeric? Who are these people?
+  They did not have to follow the registration instructions. For safety and privacy reasons, I may not mention who they are (although as said earlier, me and Snoop are in there)
+  
+Do you have an approximate unlink date as of the current time (12/31/2017)?
+  About 10th of December. This moves towards us with every new migrant though, so this is still an approximation―who knows how many people register in that period..
+  
+Are the uploaded files that users submitted still kept?
+  Yes, and I plan to reopen the storage later into site (re)development.
   
   
 Tsuki, the Representative
@@ -1454,6 +1478,15 @@ Do you / the Key have EIDs?
   We don't use the numeric EIDs, but we do have EIDs.
   
   We create a numerical representation that is always exactly 20 void points.
+  
+Are there specific TSUKI employees in the control room you know as people?
+  There's not too many people appointed to the bridge, so I know most of them.
+  
+Have any Synapsian sayings or phrases you particularly like?
+  Luckily for me I don't have to deal with Synapsian too much, but I always liked "madaika" as a sort of "who knows/cares/it is a mystery". 
+
+What music do you like?
+  I like Camellia, but only the less hardcore parts in between. I also like Jake Chudnow and that sort of stuff, VGM too. I think the music box is actually quite representative.
   
 
 The Key
@@ -1806,7 +1839,13 @@ Are the Hyakanghen a race, or a belief system, like muslims?
   It's a label for a belief system.
 
 How many are there currently in Life?
-  We believe there to be 50
+  We believe there to be 50.
+  
+What is your stance on hyakanghen.net? Are they real hyaks, LARPers, or something in between?
+  We have no reason to believe they are affiliated with real Hyaks.
+  
+Do you have any response to the aforementioned hyaks saying that RISEN is simply going to sell our memories from Life?
+  Memories are above currencies―they're not things you can "sell". We have no interest in trying, either.
 
 Statements Made by Tsuki
 ------------------------
