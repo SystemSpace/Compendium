@@ -17,7 +17,7 @@ Index
    #. `Species`_
    #. `Synapsian`_
    #. `Science`_
-   #. `Economy`_
+   #. `Economy/Government`_
    #. `Culture`_
    #. `Technology`_
    #. `Magic`_
@@ -198,6 +198,9 @@ Do extraterrestrials exist in Life?
 
 Do you have any examples of Auroraic Echoing influencing Life media?
   I'm not sure, but I'm sure there are quite a few things in our media which were sent over by Auroraic Echoing, although I never really inspected what content.
+  
+Is it possible for humans to manipulate Aurora in Life?
+  It's not supposed to be possible, but it can work.
 
   
 About LFE
@@ -226,6 +229,9 @@ How old is LFE?
 
 Will LFE be even better by the time we get there?
   Definitely.
+  
+Is the history of LFE more fun to read about than the histories of most Life countries?
+  It's more interesting definitely as there's less taboo, more things happen (and in general there's more history). Maybe that's just the novelty of it getting to me though, I've gotten jaded from constantly reading EU history :^)
   
 Species
 -------
@@ -402,12 +408,19 @@ Could you go over all of the available or at least a few of the most common serv
 
   I'll be simple. The sky's the limit. We can add/remove/change bones (hnhehen), change skin (hdhahen), add/remove/move/change eyes/mouth/etc (mhenhen), add/remove/move body parts (khrahen), anything.
   
+Is there any way to change your race in LFE?
+  You can't change easily (except to a non-organic species (like a type of robot)), but you can be reborn into a species if the species allows it (and you have the magic for it).
+  
+  Both cases make you impure though - never 100% the new species. There's quite a few who don't like impures.
+  
 Will we dream in LFE?
   You will dream, yes. There's a lot of dream-related little facts, but mainly it is possible to access other Systems via dreams (as you can move yourself around "spiritually" to the other Systems), although you will have no true body or soul there. Dreams are also the easiest way to talk to Auroraic Spirits (in fact, I did so last night).
 
+What is math like in LFE?
+  Well I don't know too much about math, but I'd assume the basics are rather the same, but the rest'd be different.
   
-Economy
--------
+Economy/Government
+------------------
   
 Are the politics and economy in LFE a mess like they are in Life?
   Everything is sorted out a lot better over there, from years and years of time.
@@ -434,6 +447,9 @@ How does education work in LFE?
   
    Before 12 you just have default eduction that basically makes you get accustomed to the culture you're in.
    
+What are the average test scores for LFErs in the core subjects? Are they having an education crisis or do they have most of their shit figured out?
+  Everything's pretty much sorted out there, ye.
+   
 What is the first lesson we get in LFE?
   Depends on the area, it won't be too different.
   
@@ -442,6 +458,9 @@ What are the most important fields of science in LFE?
   
 What are the most powerful, influential and selective groups in LFE (or outside of it) that aren't the companies listed on the home page?
   Hmmm… Myrad (magic development), Komata (AI), Espare (technology and creating new species) and the Niskai Collective (new species) are honorable mentions, I suppose.
+  
+Are there lawyers in LFE?
+  Depends on the area. In Ghakuwent-sj, yeah.
 
 
 Culture
@@ -458,7 +477,7 @@ What is courtship and love like in LFE?
 
 Is there racism in LFE?
   Racism works a lot differently in LFE. There's still racism, but not in the large places (like Ghakuwent'sji), because there's so many races there people stopped caring.
-
+  
 How common are interspecies relationships?
   Common, although depends on the species and their culture.
   
@@ -472,6 +491,9 @@ Is Ghaki more like a metropolis or does it have suburbs and neighborhoods as wel
   It's got suburbs and neighborhoods, yeah.
   
   In fact, even Ghaki (as in, the continent and neighboring small islands) hasn't been fully explored yet even.
+  
+With respect to the places within Ghaki that we'll be sent, what's the average income/standard of living relative to places in Life? How about crime and education? Will it be better or worse than a middle class American upbringing from ages 0-12?
+  There's a lot of extremes anywhere, and also in Ghaki - so averaging might not be the best idea, but the standard of living is usually better, and as long as you are there legally, you can get quite a nice minimum income (even when NEET!). Crime is more extreme, but a lower rate. I'd say it's better (but is America an exactly high standard?)
 
 While LFE isn't a paradise, have the people at RISEN told you of any particularly nice places, cities, etc?
   Well, there's a lot~ they say a lot of southwest Ghakuwent'sj is very nice though, or Mahuensj, or Gheiya.
@@ -485,6 +507,26 @@ Often times people seem to need to prove that they are superior or important in 
 Are there any atrocities widely known in LFE?
   There's a lot. Like, a lot.
 
+What does warfare and combat look like in LFE?
+  There's usually a few main points in an area, which are assaulted. Once these are taken, the place is almost always theirs.
+
+  The combat system in most common cultures is far different from ours. Where ours is about eliminating the enemy, the LFEian is not like that at all.
+
+  The LFEian combat system is mainly based on pride and being able to execute actions. It's more an art than a fight - you try to fire your magic / bullets / kicks in the most beautiful yet powerful way possible, to make the enemy unable to execute their own actions. Once all participants run out of stamina, the one with the best actions usually wins (either by a jury, if official or just decided between participants). Death is not really valued, so nobody really tries to go for the kill. If anything, people try to go for a soulshatter, but this is seen as very rude.
+
+  Killing is illegal there too after all, all wars are on an incapacitation basis.
+  
+  Dying is so invaluable and such a useless part of battle that it's become a taboo, not that it doesn't happen at all.
+  
+  There are exceptions though, in environmentally hostile environments etc. If a ship blows another up, you'll die.
+  
+  Fights that are in a non-hostile environment almost always end in incapacitation of a team, assassinations etc. outside of a controlled battle don't follow this.
+  
+Is dying or being incapacitated safer?
+  Inncapacitation can hurt really fucking bad, which might shatter you if it goes on for too long, while death is quite simple.
+  
+  Dying is less dangerous than incapacitation.
+  
 Are their places in LFE that are worse/ much worse than the worse we've had here? Or actions that you'd think are worse to have happen to a individual, such as things like torture?
   Insane slavery, food shortage, holocausts, wars, wars, more wars.
   
@@ -553,45 +595,11 @@ What kind of weapons are used in LFE?
 
 In terms of infantry weapons, what's the most prominent kind of weapon?
   Either magic, magic bullets, energy bullets or railguns (from magic side to science side).
-   
-Is it possible to use magic to alter the properties of a projectile on the go? Right as you shoot them?
-  Yes, this is very commonly done.
-  
-How destructive can magic from a single mage get?
-  Depends on how powerful they are.
-  
-what would you say about the average mage, in terms of destructive capability?
-  Mmm, if expending all their energy they can do a bit.
-  
-What does warfare and combat look like in LFE?
-  There's usually a few main points in an area, which are assaulted. Once these are taken, the place is almost always theirs.
-
-  The combat system in most common cultures is far different from ours. Where ours is about eliminating the enemy, the LFEian is not like that at all.
-
-  The LFEian combat system is mainly based on pride and being able to execute actions. It's more an art than a fight - you try to fire your magic / bullets / kicks in the most beautiful yet powerful way possible, to make the enemy unable to execute their own actions. Once all participants run out of stamina, the one with the best actions usually wins (either by a jury, if official or just decided between participants). Death is not really valued, so nobody really tries to go for the kill. If anything, people try to go for a soulshatter, but this is seen as very rude.
-
-  Killing is illegal there too after all, all wars are on an incapacitation basis.
-  
-  Dying is so invaluable and such a useless part of battle that it's become a taboo, not that it doesn't happen at all.
-  
-  There are exceptions though, in environmentally hostile environments etc. If a ship blows another up, you'll die.
-  
-  Fights that are in a non-hostile environment almost always end in incapacitation of a team, assassinations etc. outside of a controlled battle don't follow this.
-  
-Is dying or being incapacitated safer?
-  Inncapacitation can hurt really fucking bad, which might shatter you if it goes on for too long, while death is quite simple.
-  
-  Dying is less dangerous than incapacitation.
   
 How much of Life can LFE viewers see and understand?
   Only as much as we allow them to see. They know about this project, they know that Life will be deleted.
 
   There has been some import/export to/from Life in most previous iterations, but we have not hit that stage this iteration.
-  
-Are there cars or highways or any other form of public transportation in LFE?
-  They actually have a rather nice, layered transporation system, with both air, land, space and sea, but public transportation still sucks.
-  
-  At least that's what I've heard about ghakuwent'sj's main transportation provider, Onestep.
 
 Can LFE viewers access systemspace.link?
   They can, but they cannot interact. (They read the imageboard, but do not post.)
@@ -610,6 +618,11 @@ You say that the technology level tends to vary in LFE, right? Does that mean th
   
 Doesn't magic sort of dominate these worlds? Or does magic somehow grow parallel to technology?
   Magic and tech aren't parallel, but that doesn't mean that all worlds without technology have magic.
+  
+Are there cars or highways or any other form of public transportation in LFE?
+  They actually have a rather nice, layered transporation system, with both air, land, space and sea, but public transportation still sucks.
+  
+  At least that's what I've heard about Ghakuwent'sj's main transportation provider, Onestep.
   
 Magic
 -----
@@ -643,6 +656,15 @@ Are magic and technology compatible in LFE, as in, can you use them both at the 
 For a mage, what is there in terms of ease of use? They don't have to program their spell from start to finish every time they are going to execute it, right?
   You can set up simple magic which you can execute super fast to alias to large spells.
 
+Is it possible to use magic to alter the properties of a projectile on the go? Right as you shoot them?
+  Yes, this is very commonly done.
+  
+How destructive can magic from a single mage get?
+  Depends on how powerful they are.
+  
+what would you say about the average mage, in terms of destructive capability?
+  Mmm, if expending all their energy they can do a bit.
+  
   
 System Parameters
 -----------------
@@ -744,6 +766,9 @@ What happens to a soulshattered soul?
 What happens to shattered souls after they're reborn?
   A soul that shatters, will be rebuilt from scratch on-demand. A brand new soul won't work any different, although it might be a bit sturdier. The only thing is it has no past memories.
 
+Can you feel your soul in Life?
+  Uhhh you should always feel a "soul" in a sense.
+  
 Is death ever permanent for anything but our memories?
   For your personality, spiritual advancement, etc: yes. Death in and of itself is not permanent, but a soulshatter will erase everything about you and you have to start from scratch.
 
@@ -772,6 +797,9 @@ Are mental illnesses contracted in Life carried over to LFE?
 Can medication cure scars on the soul?
   Some medication can. If a medication helps you have a good life again and cures you, your scar heals.
 
+What ailments do you know of are reflective of issues with the soul?
+  Everything that we classify as a mental disease might be soulful.
+  
 Is deja-vu a Life glitch, or something else?
   Usually a missynchronization between soul memories and brain memories.
 
@@ -970,7 +998,19 @@ Is Aurora renewable?
 
 How bad is the Aurora shortage in Systemspace?
   Nothing bad has happened yet.
+  
+On sites like Psion Nation, etc. there's always stuff about energy manipulation. Is it possible that this is referring to Aurora manipulation?
+  Well everything's manipulating Aurora but frankly, you're manipulating Aurora on a far higher level. Not even close to core Aurora.
 
+How far do you think this could be used? could a physical object be made with it since Aurora creates physical worlds in Systems?
+  Yes - however, you would have to draw the necessary Aurora from elsewhere, as in from other objects or into Life from Systemspace (but the latter would only be possible by a System owner soon, once the cert requirement goes into place).
+  
+Is object creation via Aurora possible in Life?
+  Technically yes, but its practically impossible.
+  
+  It's gonna be hard, as we have no clue how Life actually works, so we don't know how matter is assembled from Aurora either.
+
+  
 
 TSUKI and its Subsidiaries
 --------------------------
@@ -1047,6 +1087,12 @@ Why not?
 An experiment on human doubt? What if we fail?
   There's no failing this experiment - we are simply seeing how humans handle their doubt, whether they give in or not.
 
+Will there ever be a situation where proof of the project needs to be revealed?
+  There are paths like that yes, in fact if we would call an earlier destruction of Life we'd probably release proof just to quickly get people out, but it's not expected.
+  
+Can you make Life end faster than 150 years?
+  Well yes but not without good reason, because this time we can't cloak the end of the world and seeing it isn't exactly fun.
+  
 Is there a larger creative project as a stated goal?
   We picked all of you for transference because your creativity is valuable in LFE for you later on (Aside, we feel you would be more interesting to the experiment in and of itself).
 
@@ -1240,6 +1286,9 @@ How does the name and wishlist for LFE work?
   
 What can be done with your wishlist? What kind of things can you ask for?
   Simple things like a general future, looks, memories to keep/destroy, etc.
+  
+Can you set your race using the wishlist?
+  Well you can fill something in and we'll try. Don't expect too much though, your soul needs to support it, etc. And it needs to be a possible timeline. 
   
 If I just leave the name space blank will I receive whatever name my parents want?
   Yes. Leave blank = let others/Aurora decide, like your parents or other people.
@@ -1488,6 +1537,8 @@ Have any Synapsian sayings or phrases you particularly like?
 What music do you like?
   I like Camellia, but only the less hardcore parts in between. I also like Jake Chudnow and that sort of stuff, VGM too. I think the music box is actually quite representative.
   
+Do you personally think you have schizophrenia or not?
+  Hmmm, well I would surely be able to be classified as one. You need two symptoms (of which at least 1 positive) which'd be depression (I have) and psychosis/delusions (which outsiders could say I have). It needs to have been going for longer than 6 months (well, it's been a year) and needs to not be caused by substance abuse (well, never used any so..)
 
 The Key
 -------
@@ -1594,7 +1645,7 @@ Is there some kind of database for Systems in Systemspace?
   
   It's pretty much wikipedia but for Systemspace.
 
-  
+
 What exactly does a blocking System block?
   It blocks outside interference - you cannot leave, and you cannot enter with an existing soul.
 
@@ -1616,6 +1667,9 @@ Is there an "outside" of Systemspace?
 
   There is, technically, such an "outer space". However, it is very hostile and one should not visit it. You would have to leave your entire "Experience", like taking off VR goggles, you aren't even connected to a user anymore.
 
+Does this mean someone could leave Systemspace at any time?
+  Technically you can, but nobody's returned. There's a hacky way to do it but I don't remember.
+  
 Are you allowed to talk about companies and what goes outside the Systemspace?
   Not much, all I'm allowed to say is we don't know much, and that it's a bit like a hyperdimensional server room.
 
@@ -1732,6 +1786,16 @@ How can you access a System that doesn't host souls?
 If everything is a simulation, is there the potential at all to see the future?
    There is, but not in LFE as LFX is always live.
   
+Given that LFE and Life are to some extent "simulations" within Systemspace, does that mean that they are inherently predictable chaotic systems and not truly random? If they do allow for randomness, what provides it?
+  All "randomness" is Aurora-based. In that sense, all is predictable by interfacing with it. Aurora has entity-like behaviors (whether it is sentient or not is uncertain, but assumed).
+  
+  There are Systems which rolled their own randomizer which is not Aurora-based.
+  
+  Life has never called the hkrbrng library so it's just pseudorandom.
+  
+I've come to the conclusion that the entirety of Systemspace is probably entirely deterministic due to the lack of randomness. Would you say this is true?
+  Up to a point, yes.
+  
 What is the smallest system?
   Some people do code golf with Systems. The smallest one has used 0.4 hA.
 
@@ -1846,6 +1910,9 @@ What is your stance on hyakanghen.net? Are they real hyaks, LARPers, or somethin
   
 Do you have any response to the aforementioned hyaks saying that RISEN is simply going to sell our memories from Life?
   Memories are above currencies―they're not things you can "sell". We have no interest in trying, either.
+  
+When we encounter the Hyakanghen on our travels, what do you think would be the best response for us to take?
+  If you believe they have no way of knowing you're a migrant, try to hide the fact. Otherwise, try to avoid conflict whenever possible (but do not be afraid to incapacitate if they are a direct harm).
 
 Statements Made by Tsuki
 ------------------------
