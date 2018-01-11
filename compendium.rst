@@ -221,6 +221,9 @@ What does LFE mean?
   It's the names of the most important 3 partitions: Living (all living beings) eFfector (all interactions) Environment (all matter).
 
   There's more partitions (like U for users).
+  
+What other partitions of LFE are there, and why are they thought of as seperate categories?
+  There's a fuckton, like U for userdata, X for all data for the LFX framework, T for temporal storage, S for snap storage, etc.. they are seen as seperate categories because grouping them together would cause a really big mess. Instead the "active partitions" are overlayed onto eachother to form the System, and the "inactive partitions" form the backend.
 
 How old is LFE?
   LFE has been around for far longer than Life. It has [had] 128 iterations.
@@ -270,6 +273,10 @@ Tsuki, could you give an example of Synni culture from our perspective?
 
 Are there any extremely long-lived species in LFE?
   The Korta are known for living a long time.
+  
+What is the most powerful species in LFE, in terms of magical powers?
+  Hmmmm, probably the Neika - they are very low in quantity, and live very short, but they have amazing magical powers.
+  
 
 
 Synapsian
@@ -382,6 +389,9 @@ What is the time scale of LFE vs. Life?
 Is the atomic structure the same?
   Completely different. None at all. Everything works differently there.
 
+Is matter formed by miniscule particles like in Life?
+  In a sense, yes, Aurora is built up around particles.
+  
 What is medicine like in LFE?
   There are different medicines and surgeons for different species, but a lot of species have stuff in common so a few things can be used on multiple species. AI are often used, but a lot of things are still done by hand!
   
@@ -419,6 +429,9 @@ Will we dream in LFE?
 What is math like in LFE?
   Well I don't know too much about math, but I'd assume the basics are rather the same, but the rest'd be different.
   
+How is shapeshifting accomplished?
+  I'm not entirely sure how shapeshifting happens, as I've never done it myself, but as I heard people usually help themselves by letting the subconscious do most of the work - as in, they rather imagine themselves pouring a liquid out of their normal body and into a new.
+  
 Economy/Government
 ------------------
   
@@ -428,6 +441,21 @@ Are the politics and economy in LFE a mess like they are in Life?
 How does the economy work on LFE?
   Can't say too much on this, but it's honestly quite a bit like the human one.
 
+What kind of government does LFE have?
+  LFE itself is minorly governed - there are practically no laws, and few enforcement agencies.
+  
+What about Ghakuwent-sji's government?
+  Ghaki has a very democratic government, with basic laws, further specified by the "states" Ghaki consists of.
+  
+What is the punishment/justice system like in LFE?
+  The concept of "weighted reflection" is commonly used, whhere say, if you steal 1M Sn, you have to pay 1M Sn (hence the "reflection"). Furthermore, if you're broke and very desperate, you'll have to pay less, while a rich businessman would pay more (not even counting the harm to image), hence the "weighted".
+
+What would the punishment for suicide be, or actions done by a suicidal individual?
+  Suicide is not against the law. In that case though, they are isolated or the punishment is expanded to other things, say loss of inheritance. This is not a common issue though, frankly, as self-shattering is not a thing people usually want.
+
+Is threatening to shatter or kill important figures publically a crime?
+  No, the act of threatening is fine - although if there is enough reason to believe you have the capability to do so, you may be stopped. But you won't be stopped from threatening, just from actually doing the act. This differs per place though. I'm just stating Ghaki laws by default, because they are fairly common all over LFE.
+  
 Is there government assistance in LFE?
   Depends on where you go, but in Ghakuwent-sji, you'll be fine - you get about 210000 sen a month - worth as much as about 1700 US$.
 
@@ -483,6 +511,12 @@ How common are interspecies relationships?
   
 Are there nations in LFE?
   Yes, they are divided into nations.
+
+What do people from LFE call themselves (i.e. people from the US are americans, NE are Dutch, etc)?
+  LFErs, or LFEkaiji.
+  
+What about people from Ghakuwent-sji?
+  Ghaki-kaiji / Ghakuwent'sj-kaiji.
   
 Is there a shorter version of Ghakuwent-sji?
   Some locals call it Ghaki.
@@ -556,6 +590,12 @@ Is there religion in LFE?
 Is impermanence is a big thing in LFE?
   It's one of the main parts of most of the religions.
 
+Is it legal to make an Aurora worshipping religion/cult in LFE?
+  You wouldn't be the first, so yes.
+
+Is there some kind of religion in LFE that has things like praying, ramadan, etc. like in Life? 
+  Yes.
+  
 Does LFE have some form of zodiac?
   Yes it does, LFErs love spiritual shit. They have about 49 signs if I remember correctly, don't quote me on that.
   
@@ -623,6 +663,9 @@ Are there cars or highways or any other form of public transportation in LFE?
   They actually have a rather nice, layered transporation system, with both air, land, space and sea, but public transportation still sucks.
   
   At least that's what I've heard about Ghakuwent'sj's main transportation provider, Onestep.
+  
+How do computers work in LFE (more specifically processors)? Is it similar in the way that it uses billions of transistors, or is it biological?
+  There's many different architectures, both biological and technical.
   
 Magic
 -----
@@ -800,6 +843,12 @@ Can medication cure scars on the soul?
 What ailments do you know of are reflective of issues with the soul?
   Everything that we classify as a mental disease might be soulful.
   
+Is split-personality disorder or DID a human illness or is it due to the fracturing of the soul in Life?
+  Could be both frankly, seems like a more soulful thing though.
+  
+If someone has two personalities, could they split their soul somehow such that one body gets one personality and another body gets the other personality?
+  Depends on how uniform the fracture is.
+  
 Is deja-vu a Life glitch, or something else?
   Usually a missynchronization between soul memories and brain memories.
 
@@ -849,6 +898,9 @@ What can a User do without a soul or a body?
   Soulshatters in Life make the body continue soullessly, after which the body usually suicides.
   Life handles humans without souls strangely, it sometimes causes suicide, sometimes homicide, or sometimes they just stay alive.
 
+What exactly is the Experience?
+  I'm not allowed to say.
+  
 Are Users immortal?
   We've never had one die, so sure.
   
@@ -1010,6 +1062,14 @@ Is object creation via Aurora possible in Life?
   
   It's gonna be hard, as we have no clue how Life actually works, so we don't know how matter is assembled from Aurora either.
 
+You referred to three different kinds of energy derived from Aurora: shi/sj (life energy), chi/chj (magic energy) and tsu (other energy). What exactly does tsu include, electricity/radiation etc. or something completely different?
+  It's mainly just used as a category for most other types of energy (including but not limited to electricity, matter energy, force, etc.), often its broken down int more specific types (such as ts-eba for electricity-types).
+
+Can chi/chj be changed into other types of energy like electricity?
+  Yes, although energy will be lost that way.  
+  
+You said before that shapeshifting requires a fuckton of energy. Are you referring to whatever the equivalent of ATP is, or is it some form of Aurora?
+  Usually this is expressed in Chj. 
   
 
 TSUKI and its Subsidiaries
@@ -1059,6 +1119,8 @@ What do TSUKI personnel look like?
   
   SYNAPSE officials do sometimes wear bodysuits, which are kinda glass-like with these triangle shapes which reflect space.
 
+  For eNdymioN: just a black suit with a few red lines which meet to form the endymioN logo.
+  
 Is the original user who created SYNAPSE still around?
   Sadly, no. But it was taken over by someone else.
 
@@ -1122,6 +1184,9 @@ What's the catch?
 
   We will ask SYNAPSE to go easy on y'all ;)
 
+Do we have any sort of prayers or rituals as migrants?
+  No, we don't have any official prayers etc. as migrants.
+  
 What happens if you sign up and live for a thousand years, due to new technologies?
   I'm afraid you'll drop dead 1st of Jul 2167.
 
@@ -1352,6 +1417,9 @@ Do you have an approximate unlink date as of the current time (12/31/2017)?
   
 Are the uploaded files that users submitted still kept?
   Yes, and I plan to reopen the storage later into site (re)development.
+
+Is the forcebond on migrant's souls still active at this point?
+  Yes.
   
   
 Tsuki, the Representative
@@ -1400,6 +1468,9 @@ What is it like from your perspective when you talk with RISEN/have an "out of l
 
 Do you chose when it happens or is involuntary?
   A mix of both. It's mainly me invoking it now, as I'm taking a short vacation right now.
+  
+What senses are you able to experience LFE through?
+  Mind's eye, ear, etc.
 
 What's your age?
   I am 16.
@@ -1540,6 +1611,9 @@ What music do you like?
 Do you personally think you have schizophrenia or not?
   Hmmm, well I would surely be able to be classified as one. You need two symptoms (of which at least 1 positive) which'd be depression (I have) and psychosis/delusions (which outsiders could say I have). It needs to have been going for longer than 6 months (well, it's been a year) and needs to not be caused by substance abuse (well, never used any so..)
 
+How do you feel about tricking someone into registering?
+  I mean I can understand why people would do it. I find it immoral but it's up to you really.
+  
 The Key
 -------
 
@@ -1549,6 +1623,9 @@ What is the Key?
 
 So Keys are basically System inspectors?
   Yes, pretty much.
+  
+Did the Key you were created from have a name? What was she like?
+  I'm not alllowed to talk too much about this, actually - sorry. She's a nice person though, although very worn out.
 
 Systems / Systemspace in General
 --------------------------------
@@ -1574,6 +1651,12 @@ Are there Systems where you can go as just your consciousness without a soul?
 Do people in those Systems have a body then?
   Sometimes, but usually they're more for utility.
   
+Will a User ever run out of stuff to do in the entirety of Systemspace? And if it has happened, how do they handle this?
+  After a very long time, maybe. It's not happened often, but we do offer a sort of reset/prestige system where you start from 0 again, including memory.
+  
+How is this different than soulshattering?
+  It resets the whole User, not just one of its souls.
+  
 What is the currency of Systemspace?
   SEN (often abbreviated Sn). It goes for about 124 SEN per dollar.
 
@@ -1597,14 +1680,14 @@ Are there Systems within Systems?
 
 Is it possible/allowed to make another Systemspace inside of a System, like recursion?
   It's possible but it wouldn't be easy. You'd run out of energy sometime. So eternal recursion isn't something that is deemed possible without external input.
+
+What's your stance on Recursion? What do you think it is?
+  Not sure, frankly I haven't read their thing enough but if I read correctly they're wanting to keep making Systems in Systems ???
   
 Where is the server for LFE?
   The server behind LFE is in its own System, called LFX - which is hosted in RISEN hosting.
 
   It houses over 9.4x10^28 souls, in many different species.
-
-What kinds of Systems do people make with LFX?
-  The LFX framework makes it extremely easy to make your own System, so there's a lot of people that do so, to create simulations, to explore their own worlds, or to experience spiritual growth.
 
 What was the first System?
   The first real System would be AAAR (An Alternate Asynchronous Reality). It still exists nowadays, and still hosts quite a few subsystems.
@@ -1623,6 +1706,23 @@ Do the RISEN admins love Lain?
 What is the framework for creating Systems like?
   It's about the same as making some game - lots of coding, lots of worldbuilding, and a LOT of understanding how Aurora functions. System Certificates (and simple hosting) are free!
 
+Is writing a System similar to writing a program where you write it in any language and it gets compiled into Aurora code (or whatever the machine code equivalent is), or is creating a System far more complex?
+  It's a lot more complex, you have to practically write everything yourself (unless you use existing frameworks like LFX). This is changing in 2.0 though, there will be an official framework you can use. Using that groundwork makes it more just like Life programming, yes (but still a lot different in what you can do!).
+  
+Is it possible to make a System without knowing any form of coding for doing so?
+  If you're going fully bare-bones, you can go with LFX Ready! which is a package that basically sets up a simple LFX System for you, no hassle. It's got practically no features or scalability though and using it for anything big is a bad idea.  
+
+If it doesn't scale and has limited features, then what's the point of using LFX Ready?
+  It's like using iOS instead of Android - it works  well and does everything it needs to with practically no knowledge, but expanding it and customizing it is a pain. In fact, the default world it creates upon install has become a meme staple for crappy System design because it's seen as the Beats of System creation :^)
+  
+What kinds of Systems do people make with LFX?
+  The LFX framework makes it extremely easy to make your own System, so there's a lot of people that do so, to create simulations, to explore their own worlds, or to experience spiritual growth.
+  
+Have there been any major attempts to recreate/emulate Life without the Aurora leakage?
+  People have looked into Life, and there's even a place made to look like it, but no Systems as of yet.
+  
+  There's one in LFE; it's basically to look like a Life city.
+  
 Can we take it that there's a Systemspace government?
   Yes, there is.
 
@@ -1644,7 +1744,6 @@ Is there some kind of database for Systems in Systemspace?
   You'll be able to look most things up in the Theory.
   
   It's pretty much wikipedia but for Systemspace.
-
 
 What exactly does a blocking System block?
   It blocks outside interference - you cannot leave, and you cannot enter with an existing soul.
@@ -1914,6 +2013,9 @@ Do you have any response to the aforementioned hyaks saying that RISEN is simply
 When we encounter the Hyakanghen on our travels, what do you think would be the best response for us to take?
   If you believe they have no way of knowing you're a migrant, try to hide the fact. Otherwise, try to avoid conflict whenever possible (but do not be afraid to incapacitate if they are a direct harm).
 
+What does "Hyankanghen" translate to?
+  It freely translates to "eclipse of humanity" or some edgy shit like that.
+  
 Statements Made by Tsuki
 ------------------------
 
@@ -6578,6 +6680,9 @@ Kon xhoa.
 mayyazawa
   a name (?)
 
+madaika
+  a sort of "who knows/cares/it is a mystery". 
+  
 dyiri
   Proxy.
 
@@ -6614,6 +6719,15 @@ khrahen
 Naine
   128
 
+Nangahen
+  Human
+  
+LFEkaiji
+  People from LFE.
+  
+Ghaki-kaiji / Ghakuwent'sj-kaiji
+  People from Ghakuwent'sj.
+  
 Tan
   2
   
@@ -6630,10 +6744,13 @@ shi / sj
   Magic energy
 
 tsu
-  Other energy
+  Other energy, including electricity, matter energy, force, etc.
+  
+ts-eba
+  electricity-types of energy.
 
 Hyakanghen
-  Anti-Life volunteer group.
+  Anti-Life volunteer group. Translates closely to "eclipse of humanity".
 
 Misc
 ====
