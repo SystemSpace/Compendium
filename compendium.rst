@@ -102,6 +102,14 @@ How old is Life?
 Why was Life created?
   Life was made to be a peaceful System away from all the action in the others. A System that was even often used for people to seek spiritual enlightenment, as it would be so serene.
 
+How was the universe in Life created?
+  Life only has one universe so the big bang was just spawned at runtime.
+  
+  In LFE everything expands up to a limit because of pressure differences. Not sure how it works in Life.
+  
+If it's due to pressure differences then why is the expansion accelerating?
+ We're not sure, it doesn't do that in LFE. Some people say its because our universe has no size limits and that the amount of space it can expand to gets bigger as the universe expands, loading more empty space. But I'm not physicist so I can't really tell you too much, just a (probably misunderstood) explanation from the LFE side.
+  
 Why are the people in Life in it, exactly?
   You chose to join this System a while ago, and so did everyone else. You expected to see a peaceful System after all, not a broken one using too much Aurora.
 
@@ -124,7 +132,7 @@ How far did Life get in past iterations?
   Pretty far, actually. Most iterations were able to figure out on their own that Systemspace exists.
 
 At what point did people start figuring out Aurora and stuff?
-  Usually only a few days before the Key restarted the System.
+  Usually only a few days before the Key restarted the System. It took them very long, and then they almost destroyed themselves. Most iterations couldn't find out how to do that, only that Systemspace exists.
   
 Is humanity to blame for Life's problems?
   Humans are not what caused Life to go wrong. It is simply its code being absolutely horrid and broken.
@@ -173,10 +181,15 @@ How big of a thing is Life's deletion in Systemspace?
 Will other forms of life on our planet be preserved somehow?
   The thing is, they don't have souls nor history - it's too much of a gamble.
 
+What makes preserving other forms of life a gamble?
+  We'd need to know exactly how they work, and the reward is random.
+  
+  Frankly, we have no time to take other species to LFE. Or Aurora, or like, manpower.
+  
 Less advanced forms of life do not have a soul? Why?
   The creator of Life only intended humans to have souls.
 
-There are smarter organisms than us, by the way. They just haven't been granted souls.
+  There are smarter organisms than us, by the way. They just haven't been granted souls.
 
 When does the human body acquire a soul?
   At birth.
@@ -201,6 +214,9 @@ Do you have any examples of Auroraic Echoing influencing Life media?
   
 Is it possible for humans to manipulate Aurora in Life?
   It's not supposed to be possible, but it can work.
+  
+After Life is unlinked, will manipulating Aurora still be possible?
+  Yes, it will be possible still, you will be manipulating "fake" Aurora though.
 
   
 About LFE
@@ -285,6 +301,9 @@ Synapsian
 What languages are the names of all these things?
   Synapsian. (mostly)
 
+Is Synapsian a universal language in LFE?
+  Far from it.
+  
 Is Synapsian the default language? Where could someone learn this language?
   You'll learn it in your LFE childhood.
 
@@ -322,7 +341,7 @@ Any way to get a Synapsian dictionary or text for learning?
 Can you leave some of the Infinity posts untranslated so that we can see a larger sample of the language?
   I'll ask around if I can do that - although I'm not that great at Synapsian (and most Synapsian I've been writing is honestly very bad).
 
-How was Japanese inspired by Synapsian? How did they recieve this information?
+How was Japanese inspired by Synapsian? How did they receive this information?
   Anything that happens causes Aurora to vibrate, and it also vibrates on its own. This vibration gets echoed through the entirety of Systemspace. As such, Aurora in other Systems may resonate. We call this Auroraic Interference.
 
   So: In LFE the Aurora vibrated with Synapsian -> Vibrations spread to Life -> Life's Aurora vibrates with Synapsian
@@ -332,7 +351,7 @@ How was Japanese inspired by Synapsian? How did they recieve this information?
 Is Synapsian a naturally created language, or was it deliberately designed with the intent of creating a universal language?
   A mix of both. It's very early stage was deliberately created but it has evolved.
   
-Is Synapsian one standard language, or is it more of a chinese situation where multiple mutually unintelligible "dialects" are grouped under one language?
+Is Synapsian one standard language, or is it more of a Chinese situation where multiple mutually unintelligible "dialects" are grouped under one language?
   It's more like Chinese (despite many attempts to standardize it, which just added more dialects).
   
 Do they speak English in LFE?
@@ -375,6 +394,9 @@ Do the physic laws in the most common part of the LFE follow the same patterns a
 What does the code of LFE look like?
   As in, the source code? It is all written in a ton of different languages (mostly Kuma2 though). Users don't see the code though, they use their senses to enjoy the experience.
 
+What is the equivalent to the Big Bang in LFE?
+  LFE uses big bangs too to quickly create new universes. It just removes some Aurora from one universe, and throws it into another at a specific point to birth the universe.
+  
 What's the time scale in LFE?
   We basically have truetime and localtime, local time differs wherever you go but truetime is omniversal, based on the length of one processing cycle.
 
@@ -385,6 +407,12 @@ How does time work in LFE?
 
 What is the time scale of LFE vs. Life?
    It changes all the time, but about 1 Life second is about 0.3 LFE seconds.
+   
+Does time in LFE seem to pass slower compared to Life or does it just feel the same?
+  It's a relativity thing, it feels about the same there. In fact, if anything, a second feels slightly faster.
+  
+So when we're 12 years old in LFE, the 12 years would either feel the same as 12 Life years or slightly faster?
+  Usually faster, the 12 years in general go by fast.
 
 Is the atomic structure the same?
   Completely different. None at all. Everything works differently there.
@@ -464,9 +492,18 @@ Does LFE use crypto-currency?
   
   Sen is decentralised, but things like Krynta (the currency in most eNdymioN systems) isn't.
   
-Could you give a good breakdown of the job market?
-  .9% primary sector, .2% secundary sector, 62% tertiary sector, and the other 36.9% action-packed other stuff (fighting etc.) These are estimates, I'm not allowed to give actual numbers.
+How does SEN have value if everything is a simulation?
+   Sen has value the same way any crypto has value, it is scarce and not "creatable" outside it's protocol.
 
+What is the current inflation rate of SEN?
+  I'm no economist, but AFAIK it's stable. CPI (average across the board) as opposed to 10 years (their time) ago is 1.41% higher.
+  
+Could you give a good breakdown of the job market?
+  .9% primary sector, .2% secondary sector, 62% tertiary sector, and the other 36.9% action-packed other stuff (fighting etc.) These are estimates, I'm not allowed to give actual numbers.
+  
+Why are there jobs if AI/automation could do basically everything needed?
+  The laws here are a bit fiddly - "full (practically sentient) AI" (which is needed for most tertiary-sector jobs) must be treated as a soulful being, so must also be paid as such, and not only that, but then the company needs to pay everything about the AI - making the AI simply too expensive for most tasks.
+  
 Can I become an assassin in LFE?
   Sure, although it's a rare job.
   
@@ -500,6 +537,9 @@ What are LFE news networks like?
 What other forms of media are there?
   There's a lot, sometimes people even just print a void onto the wall to read.
 
+How common is multilingualism in LFE?
+  Somewhat common in developed areas, less so in undeveloped areas or areas where the population doesn't really come into contact with other languages often.
+  
 What is courtship and love like in LFE?
   Above all, breaking up is a bit of a taboo. Everybody either waits very long to find the perfect one or finds the perfect one instantly.
 
@@ -534,6 +574,15 @@ While LFE isn't a paradise, have the people at RISEN told you of any particularl
   
 Is there any really pretty sightseeing spots in LFE?
   Absolutely! (I mean, LFE is gigantic - how could there not be?)
+
+What are some of the foods of Ghaki?
+  Ooh, hard to say - there's a lot, and I've never been there, it's not radically different from our stuff though.
+  
+Does Synapsian vary throughout Ghaki?
+  Absolutely.
+
+What other languages besides Synapsian are popular in LFE?
+  Well there's this one that's used in lots of regions too called "Haldal", and others that get even harder to express with human letters.
   
 Often times people seem to need to prove that they are superior or important in some way, potentially going out of their way to seek attention/admiration in a self-centered manner. Is this common in LFE as well?
   In LFE, group society is the norm - egoism is a lot less present.
@@ -612,6 +661,9 @@ How does regaining previous live's memories work?
 
   A soul is fully stably adapted to its body when it remembering its past lives, almost always 12 years after birth. This is often celebrated with a gigantic party for the child on their "Recollection Day". This also marks the start of soul-based and mental adulthood.
   
+Do you think it's possible for someone to regain their memories before the age of 12 in LFE?
+  It's possible but mmm.
+  
 Am I right in assuming the age of consent in LFE would be 12?
   In most places, yes.
   
@@ -629,6 +681,9 @@ Are transgenders allowed in LFE?
   
 Technology
 ----------
+
+How would you compare LFE's technological development to Life's?
+  Far far far further (in most areas, but not all places).
   
 What kind of weapons are used in LFE?
   They often use metadevelopment to move earth, use magic or railgun-like guns.
@@ -666,6 +721,9 @@ Are there cars or highways or any other form of public transportation in LFE?
   
 How do computers work in LFE (more specifically processors)? Is it similar in the way that it uses billions of transistors, or is it biological?
   There's many different architectures, both biological and technical.
+  
+What Life programming language is most similar to the languages elsewhere in LFE?
+  Not sure frankly, something object-oriented kind of but I have no exact clue.
   
 Magic
 -----
@@ -806,9 +864,33 @@ What is a soulshatter?
 What happens to a soulshattered soul?
   It dissipates slowly back into Aurora.
   
+What exactly needs to happen for someone to "emotionally" soulshatter?
+  Lots of suicides in Life happen either because the soul is shattered or lead up to a soulshatter. Take from that as you wish.
+  
+Can pain cause a soulshatter?
+  Usually it's more something's mental weight that counts, getting shot and dying quickly out of nowhere wouldn't be too bad.
+  
 What happens to shattered souls after they're reborn?
   A soul that shatters, will be rebuilt from scratch on-demand. A brand new soul won't work any different, although it might be a bit sturdier. The only thing is it has no past memories.
+  
+What parts of us are retained through death without a soulshatter?
+  Depends on the System. In the mainstream Systems you keep memories, spiritual advancement, personality and powers, but go to a new body.
+  
+After soulshatter is there no way to identify who you were before you shattered and reformed?
+  No way at all. Not even to RISENII. (except for the highest-ups)
 
+Will there be a way to spot/find the soulshattered?
+  Rather hard, sorry. If they are hostile and/or very depressed, it might be a sign, but there's no way to know for sure.
+
+Is there some lingering effect of the soulshatter?
+  A slight concentration of sj and chj in the area, but that's all. (Those are types of energy).
+
+How do you shatter yourself? Is there a way to guarantee shattering?
+  If you're in LFE, you can do it via the terminal. I think that goes for eNdymioN too. But it's heavily frowned upon, more than suicide is here.
+
+When you shatter and come back, in a System like LFE, do you have the same soul just "rearranged" or is your user just attached to a new soul?
+  It's a completely new soul. Shattered souls are fully disintegrated into Aurora.  
+  
 Can you feel your soul in Life?
   Uhhh you should always feel a "soul" in a sense.
   
@@ -817,9 +899,6 @@ Is death ever permanent for anything but our memories?
 
 Are there any services that would allow you to "store" memories and relive them if you forget them?
   There are a lot of these, the most common one is Kikhko.
-
-What parts of us are retained through death without a soulshatter?
-  Depends on the System. In the mainstream Systems you keep memories, spiritual advancement, personality and powers, but go to a new body.
 
 Is it possible to retain memories across Systems?
   Yes.
@@ -848,18 +927,20 @@ Is split-personality disorder or DID a human illness or is it due to the fractur
   
 If someone has two personalities, could they split their soul somehow such that one body gets one personality and another body gets the other personality?
   Depends on how uniform the fracture is.
+
+Does that person then have two bodies they can switch between or do they control them both at the same time?
+  If they actually split up their soul, they control them simultaneously. It's also possible though to just have 1 controller between 2 bodies.
+  
+  Sadly Lifers souls are probably less powerful than LFErs, as they're not used to this sort of stuff :(
+
+Is it possible for a soul to have two bodies in Life?
+  We never saw it happen, so we doubt it, it seems Life blocks it pretty hard.
+  
+Is it possible to strengthen the soul in LFE or Life?
+  Overcoming hardships, anywhere, is bound to help your soul.
   
 Is deja-vu a Life glitch, or something else?
   Usually a missynchronization between soul memories and brain memories.
-
-After soulshatter is there no way to identify who you were before you shattered and reformed?
-  No way at all. Not even to RISENII. (except for the highest-ups)
-
-Will there be a way to spot/find the soulshattered?
-  Rather hard, sorry.
-
-Is there some lingering effect of the soulshatter?
-  A slight concentration of sj and chj in the area, but that's all. (Those are types of energy).
 
 Would sentient robots have souls? What makes an entity have or not have a soul?
   A being is not fully classified as "sentient" by us if they do not have a soul. Having a soul makes them sentient.
@@ -904,6 +985,12 @@ What exactly is the Experience?
 Are Users immortal?
   We've never had one die, so sure.
   
+Can a User only be accessing Systemspace through one soul at a time, or can they be in Systemspace via several different souls?
+  Several.
+  
+Do the experiences that a soul goes through have an impact on the User that isn't lost after soulshatter?
+  Yes, it can.
+  
 What would theoretically happen if everyone within a given System that gave souls bodies through reproduction chose not to reproduce?
   This is what we call a "souldash" or a "soulhalt". When there are too many souls and not enough bodies (a souldash), the System speeds up to make the queue as fast as possible. (If a System allows bodies to be created from thin air
   [Astrea], then this will not apply.) If there's not enough souls for all the bodies, we get a soulhalt, where the System slows down or even pauses altogether while waiting for another soul. (Unless the System allows soulless humanoids)
@@ -928,6 +1015,9 @@ Has there been a soulless person that tried to sign up yet?
 What is the file size of a soul?
   Honestly all I know is that the usual soul takes about 20 snhV. No clue how much that is in bytes.
 
+What does snhV stand for?
+  "savable negotiated hVoidlines".
+  
 Can you extract/inject stuff from/into your soul?
   You can easily extract stuff and inject stuff. However, natural memories aren't perfect.
   
@@ -945,10 +1035,7 @@ Do clones have souls? Like, if one were to magically clone that person, is the c
 
 Does that conform to the Conik standard?
   No. Absolutely not.
-
-How do you shatter yourself? Is there a way to guarantee shattering?
-  If you're in LFE, you can do it via the terminal. I think that goes for eNdymioN too. But it's heavily frowned upon, more than suicide is here.
-
+  
 Does soul immortality exist?
   No. i mean technically there's immortality for the body but your soul will still shatter. You can pass on the body to someone else forever,but you'll shatter at some point. It might take insanely long but it'll happen.
 
@@ -971,9 +1058,6 @@ So when a non-blocking System is deleted, the souls in it that are natively host
   
 Is soul color a thing? What tech/abilities let you see it?
   It is, kinda. Either you need to see the soul out of body or they can use their own-bound magic. They'll usually have one specific color. It means about as much as a star sign.
-  
-When you shatter and come back, in a System like LFE, do you have the same soul just "rearranged" or is your user just attached to a new soul?
-  It's a completely new soul. Shattered souls are fully disintegrated into Aurora.  
   
 Is it possible to have an idea of what you would be born as from the way you are right now?
   If you like your current form, expect something like it; if you feel like you identify with a fairy you'll become something like a fairy.
@@ -1071,9 +1155,22 @@ Can chi/chj be changed into other types of energy like electricity?
 You said before that shapeshifting requires a fuckton of energy. Are you referring to whatever the equivalent of ATP is, or is it some form of Aurora?
   Usually this is expressed in Chj. 
   
+Does Aurora work like a fractal where as it propagates, it basically "zooms in" with increasingly powerful hardware and more rendered objects, etc?
+  Mmm, you are close to describing what we call "Auroraic Rewrites", which is when an Auroraic particle redefines part of itself in higher "detail" so to say, while still claiming the same size. In a sense, if you kept forcing a particle to ARW, you could see it as a fractal - although there is a limit on how far it can zoom in before slowing down and requiring a merger with another particle that has less complexity. Aurora is thus both multiplying and merging back into itself when needed. It's not a true fractal due to not being infinite, but you can "zoom" pretty far.
 
 TSUKI and its Subsidiaries
 --------------------------
+
+What are the 3 companies of TSUKI specialized in?
+  RISEN made and administrates Systemspace itself.
+
+  SYNAPSE does a lot of big data shit and made LFE, LFX, and other very widely-used stuff.
+  
+  eNdymioN owns a fuckton of Systems all around the place and as such is a good strategic partner.
+  
+  KAHGY is really just "true" Ghendyts and me added under a company name.
+  
+  There are more companies but most are not listed because they are not in bridge with Life.
 
 On what plane do your associates exist? What if I want to pass by LFE, and move up to higher realms eventually?
   We are in the RISEN system. Feel free to stop by!
@@ -1084,8 +1181,8 @@ RISEN's HQ isn't in LFE?
 If RISEN is a company, does that mean Systemspace was created for profit?
   Systemspace wasn't really made for profit. It was made because the outside world was breaking down and we had to leave.
 
-Did every individual in Systemspace pay to join the simulation?
-  They paid a small fee to uphold the processing power.
+Do the RISEN admins love Lain?
+  We've been looking at human culture for a long time now. I asked, and yes - quite a few of them do love Lain! (Some Synapsians are even considering porting anime over to LFE just because of how charming it is)
 
 How big are the different companies in terms of manpower, relative to each other?
   eNdymioN is tiny, but has a lot of Systems, SYNAPSE is big af but RISEN is bigger.
@@ -1127,7 +1224,7 @@ Is the original user who created SYNAPSE still around?
 Who is the most powerful leader of Systemspace?
   It's hard to say, really - there's the leader of RISEN, but the Key is really the one upholding everything so eh.
   
-How would you compare RISEN and literally any contemporany government in terms of survelliance and knowing about your personal life?
+How would you compare RISEN and literally any contemporary government in terms of surveillance and knowing about your personal life?
   They all use what we call an Identity. you can make a blank one whenever you want. There's also the Authority which you cannot easily swap out, because its simply a record of your basic features (species, gender etc).
   
   Authorities are per-body.
@@ -1165,6 +1262,9 @@ What happens after we sign up? What do we have to do after that?
 
 Will TSUKI own my soul if I sign up?
   We will not take ownership of your soul. Your soul stays yours.
+  
+If we reincarnate by some other means, are we still registered?
+  Yes, as long as you're in Life and didn't shatter.
 
 Do I have to commit suicide to be transferred?
   No suicide required!!
@@ -1301,6 +1401,9 @@ Will we be placed in the same location upon transfer, or will we be spread out t
 
   We're looking to get you all in Ghakuwent'sji, which is both a country and a city.
 
+Is there a way to guarantee you'd be able to find a specific migrant once we get to LFE?
+  We're looking into that. 
+ 
 What technology level would we be around when we arrive?
   Ghakuwent'sji is pretty advanced and that's where you're going.
   
@@ -1336,9 +1439,27 @@ Will we have bodies in the waiting room between Life and LFE?
    
 What does the waiting room look like?
   Dunno, I haven't been there yet.   
+
+What would happen if we were to die in the waiting room?
+  You can't die.
+
+How does the waiting room work? Is it itself its own separate System or is it a part of LFE?
+  It's a part of the small System created for the TSUKI Project.
+  
+Are there people in the waiting room right now?
+  I am not allowed to say whether there's people there.
+
+Can you name which migrants are certainly dead?
+  No.
+  
+Do you actually know how many migrants died/soulshattered or is that information that only RISEN knows?
+  I can access the information but frankly I don't even want to. 
   
 What is our goal, as of now?
   Collect as much knowledge as possible for LFE!
+  
+Is there any information that would be more valuable in LFE?
+  I suppose more cultural and technological/physics stuff helps.
 
 Does the upgrade of Systemspace to Systemspace 2 still occur on July 1st, 2017 even though the unlink date has changed?
   No, the upgrade is at the unlink.
@@ -1357,6 +1478,12 @@ Can you set your race using the wishlist?
   
 If I just leave the name space blank will I receive whatever name my parents want?
   Yes. Leave blank = let others/Aurora decide, like your parents or other people.
+
+If I lose my specified object, will I not be transferred or will it just take longer?
+  It's fine, stuff just takes longer (and you can change it up to the unlink).
+  
+Can I transfer someone by listing them as my specified object?
+  No.
   
 Can we contact RISEN via astral projection or out-of-body experience?
   Maybe WILD (Wake Induced Lucid Dreaming) would allow you to make contact.
@@ -1418,9 +1545,29 @@ Do you have an approximate unlink date as of the current time (12/31/2017)?
 Are the uploaded files that users submitted still kept?
   Yes, and I plan to reopen the storage later into site (re)development.
 
+If someone doesn't want their storage space, can we have it added to our own free space?
+  You could also just ask me for more and give a reason.
+  
+What kind of information can be carried over using the data storage?
+  Anything can be carried over if its fathomably usable.
+  
+  Web apps won't work, but you can bring media files, zip archives, etc. Even encrypted lockers should work fine.
+  
+  Don't expect every binary to work, and noncompiled languages (php, python) won't work.
+  
+  You can try bringing php, but why would you ever want to bring the worst thing of all Life to LFE? 
+  
 Is the forcebond on migrant's souls still active at this point?
   Yes.
+
+Do you plan on bringing back the wishlist/object locater thingy?
+  Yes. 
   
+Do you think you'll go advertising the project anywhere else again any time soon after getting the site up?
+  Nah, frankly the 8ch ad did literally nothing.
+
+Any updates on whether or not you'll be able to unlink Life without suicide?
+  Well technically I can, it's just dangerous.  
   
 Tsuki, the Representative
 -------------------------
@@ -1614,6 +1761,9 @@ Do you personally think you have schizophrenia or not?
 How do you feel about tricking someone into registering?
   I mean I can understand why people would do it. I find it immoral but it's up to you really.
   
+Have you ever considered purging us all?
+  I wouldn't do anything to migrants, but every now and then I fantasize about destroying Life.
+  
 The Key
 -------
 
@@ -1625,7 +1775,7 @@ So Keys are basically System inspectors?
   Yes, pretty much.
   
 Did the Key you were created from have a name? What was she like?
-  I'm not alllowed to talk too much about this, actually - sorry. She's a nice person though, although very worn out.
+  I'm not allowed to talk too much about this, actually - sorry. She's a nice person though, although very worn out.
 
 Systems / Systemspace in General
 --------------------------------
@@ -1633,8 +1783,17 @@ Systems / Systemspace in General
 So basically, "Systems" are alternate universes, in a way?
   Yes.
 
+Where does Life exist within Systemspace? Is it like galaxies?
+  It's not expressible in space.
+  
 Is it common knowledge of the people in Systems that they are in a System?
   Yes, it is pretty much common knowledge - like people playing a game know they're in a game.
+
+Did every individual in Systemspace pay to join the simulation?
+  They paid a small fee to uphold the processing power.
+  
+Is there an official logo for Systemspace itself?
+  Meh, it's not that great, just "systemspace" in a neat font with a few quirks. I'll try and draw it if you remind me :^)  
 
 How many Systems disabled magic?
   About 8 percent or so? Not too many. I think magic in general should be interpreted like technology is for us.
@@ -1645,6 +1804,9 @@ Are there any interesting systems outside of LFE?
 Is all of Systemspace accessible?
   Not all of it - some Systems are paid, some are locked to specific users/species, some are blocking (like Life). There's many restrictions a System operator can place, as their System always remains theirs. If they want they could even block users based on whether their soul ID is even or not.
 
+How exactly do people earn money in Systemspace?
+  It's not that much different from here -> you do a thing, you get the money.
+  
 Are there Systems where you can go as just your consciousness without a soul?
   Yes, some Systems completely disregard the soul framework.
   
@@ -1700,9 +1862,6 @@ You can't get one from Life, as Life is blocking, but once you're in LFE just go
 Do the developers/creators of Systems die?
   They usually develop from their own System, or from the dev system, which you cannot die in. Aside, they keep their developer power even across souls.
 
-Do the RISEN admins love Lain?
-  We've been looking at human culture for a long time now. I asked, and yes - quite a few of them do love Lain! (Some Synapsians are even considering porting anime over to LFE just because of how charming it is)
-
 What is the framework for creating Systems like?
   It's about the same as making some game - lots of coding, lots of worldbuilding, and a LOT of understanding how Aurora functions. System Certificates (and simple hosting) are free!
 
@@ -1748,7 +1907,7 @@ Is there some kind of database for Systems in Systemspace?
 What exactly does a blocking System block?
   It blocks outside interference - you cannot leave, and you cannot enter with an existing soul.
 
-Are blocking Systems breeding grounds for Souls?
+Are blocking Systems breeding grounds for souls?
   In a sense, yes.
 
   Inside Life, new souls are generated as people reproduce and create babies - those souls then get attached to users.
@@ -1775,6 +1934,9 @@ Are you allowed to talk about companies and what goes outside the Systemspace?
 Are there beings that run Systemspace?
   We cannot say this.
 
+What is the origin of the real world outside of Systemspace?
+  Nobody really knows, some people are saying it's a simulation too, or even part of a story.
+  
 Would more Memories put stress on the System, requiring more reboots?
   Storage space is not an issue, Aurora is.
 
@@ -1894,6 +2056,9 @@ Given that LFE and Life are to some extent "simulations" within Systemspace, doe
   
 I've come to the conclusion that the entirety of Systemspace is probably entirely deterministic due to the lack of randomness. Would you say this is true?
   Up to a point, yes.
+  
+Are most timelines started with a different seed code, and results are predetermined through the auroraic equivalent of a "Rand{}" function?
+  Sort of.
   
 What is the smallest system?
   Some people do code golf with Systems. The smallest one has used 0.4 hA.
