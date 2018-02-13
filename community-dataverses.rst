@@ -145,18 +145,29 @@ would in their previous state.
 Note:
 
 1 omniversal cycle = 720 Hanacyons
+
 1 Hanacyon = 4 Halcyons
+
 1 Halcyon = 16 Parcyons
+
 1 Parcyon = 32 Hi
+
 1 Hi = 32 Fen
+
 1 Fen = 64 Tan
+
 1 Tan = 64 Kan
 
 An omniversal cycle is kinda like a Life millenium.
+
 A Hanacyon is kinda like a Life year.
+
 A Halcyon is kinda like a quarter of a Life year.
+
 A Parcyon is kinda like a Life week.
+
 A Hi is kinda like a quarter of a Life day.
+
 A Fen is kinda like fifteen Life minutes.
 
 A Systemspatial spin is the smallest possible division of time - kinda like a Life Planck time.

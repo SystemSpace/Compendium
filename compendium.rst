@@ -1,12 +1,9 @@
--SystemSpace Compendium Revision 15.2
+-Systemspace Compendium Revision 16
 ===================================
 
-Special update: the truth about the void stream: https://github.com/SystemSpace/Compendium/blob/master/voidfile.rst
-===================================================================================================================
+This document serves as a repository of all current knowledge of Systemspace. It has been categorized and spelling and grammar mistakes have been corrected. Some questions and answers have been slightly reformatted but have been in a manner which ensures that no meaning or context is lost. Searching through the Discord with snippets of the question/answer pairs, or just backtracking through all of Tsuki's messages will verify this. For information taken from 4chan's /r9k/ board and TSUKICHAN's /lfe/ board, archives of the original threads are verified and can be found on desuarchive. Honorable mention to Unterminator for providing the initial pastebins which got me started, and to 1336 (Fox) for setting me up on Github. - Yari (655)
 
-This document serves as a repository of all current knowledge of Systemspace. It has been categorized and spelling and grammar mistakes have been corrected. Some questions and answers have been slightly reformatted but have been in a manner which ensures that no meaning or context is lost. Searching through the Discord with snippets of the question/answer pairs, or just backtracking through all of Tsuki's messages will verify this. For information taken from 4chan's /r9k/ board and TSUKICHAN's /lfe/ board, archives of the original threads are verified and can be found on desuarchive. Honorable mention to Unterminator for providing the initial pastebins which got me started. - Yari (655)
-
-Migrant in charge of formatting/publishing: 1336
+Migrant in charge of formatting/publishing: Yari (655)
 
 Index
 =====
@@ -116,12 +113,14 @@ Why are the people in Life in it, exactly?
 If we're living in a System, how is it that non-terminating non-repeating numbers, like Pi, can exist?
   This is a bug in Life.
 
-  The System Life was closed from outside influence a while ago, and humanity slowly forgot about the existence of Systemspace. In other
-  Systems, practically everybody knows.
+  The System Life was closed from outside influence a while ago, and humanity slowly forgot about the existence of Systemspace. In other Systems, practically everybody knows.
 
 Tsuki, how can you know this all if Life is supposed to be cut from any interference of other systems?
   I was created with this task in mind - as part of RISEN I can override this rule.
 
+Why can't information be directly transferred to Life from other Systems?
+  Life is a closed System, it generally doesn't allow I/O. The fact that I am able to tell you this is merely because Life has some exploits we can use.
+  
 How similar has each reboot of Life been?
   Very, very similar. It is very possible that humans are tearing away at the thin firm keeping them from the truth. They've done this past iterations, after all. None could leave, however.
 
@@ -263,6 +262,9 @@ What type of life exists in LFE?
   There's mostly 2 groups, magical beings and scientific beings. Both are usually humanoid - magical beings includes demons, angels and fallen angels, and scientific beings includes datamen, espers and others.
 
   Espers are usually seen as on the science side and not the magic side.
+
+Are species "designed" by a higher power / intelligence / person, or are they also the product of a kind of natural selection?
+  All native-LFE species are mostly natural, but some are created as it is possible to do so. The "native" species as we call them are original from LFE's natural selection though. Some do argue that other species change natural selection and the gene pool, so whether it could be seen as "pure" is something else.
   
 What are the sentient races in LFE like?
   They look pretty humanoid, Aurora seems to prefer this sort of build.
@@ -422,6 +424,9 @@ Is matter formed by miniscule particles like in Life?
   
 What is medicine like in LFE?
   There are different medicines and surgeons for different species, but a lot of species have stuff in common so a few things can be used on multiple species. AI are often used, but a lot of things are still done by hand!
+
+What kinds of diseases/illnesses exist in LFE?
+  A lot, and they're not fun. Sadly diseases evolve too. There are a lot of soul-based/mental illnesses, brain issues, bodily stuff being a little less common.
   
 Does LFE have stimulants?
   Coffee is a lot like konhya in LFE, so I guess it'll do.
@@ -651,6 +656,9 @@ Does LFE have some form of zodiac?
 Is there music in LFE?
   Yes, there is! It's quite a bit different though, people like to encode data (voids) into their music to evoke feeling or make you dream.
   
+How different is music in LFE compared to Life?
+  It's quite different - more extreme as in either really calming or really fast, and people like to encode stuff in them as well to say, evoke feelings. At least around Ghaki, not sure about the rest of LFE.
+  
 Are there guitars in LFE?
   LFE only has the really annoying ukeleles you hear in those dog treat ads when the dog finally gets the food that's "right for him".
 
@@ -677,6 +685,12 @@ What is the naming convention in LFE?
   
 Are transgenders allowed in LFE?
   Nobody really cares about sexuality other than to have offspring.
+  
+Is being LGBT seen as bad in LFE?
+  Depends on the area, in Ghaki most people don't really care though.
+  
+What about other religions/ethnicities?
+  There's a lot of people out there who do care I suppose, its Ghaki being the more accepting ones.
 
   
 Technology
@@ -840,6 +854,12 @@ Souls, Experience, Memories, and Users
 Can you explain more about what a soul is?
   A soul is practically what makes you you. If it shatters, it gets rebuilt from the Aurora.
 
+What is a User?
+  A user is the person controlling the actions through the soul.
+  
+Does the body leave an imprint on the soul?
+  Well yes, the brain directly influences consciousness, perception, and personality, although not being too soulful (the soul rather quickly returns).
+  
 When is the exact moment that a baby gets a soul?
   The soul is locked into place once the baby is born, once they exit the womb.
   
@@ -855,7 +875,7 @@ Does the quality of a birth (dependent on things like whether the mother smokes 
 How does the creation of souls for twins and triplets work?
   Multiple souls - but often very related ones.
    
-Even if they have no memories, would it be possible to find someone from Life in another system if they didn't sign up?
+Even if they have no memories, would it be possible to find someone from Life in another System if they didn't sign up?
   Yes, if you work at SYNAPSE or RISEN.
 
 What is a soulshatter?
@@ -960,9 +980,6 @@ What makes one soul here or in LFE distinct from another?
 Why do some anons have extra notes next to their 4chan ID?
   There's some extra information about their soul that might be of importance to RISEN.
   It's extra data for RISEN to help with your transfer. Your soul structure is slightly different than usual. Don't worry, it won't harm anything.
-
-What is a User?
-  A user is the person controlling the actions through the soul.
 
 Do people without souls already exist?
   There are, and always have been.
@@ -1329,6 +1346,9 @@ After the unlinking, why is it that we would be moved to LFE on death?
 Has this happened in the past with previous reboots of our System?
   We've had to reboot Life many times, but this is the first time we unlink.
 
+Were prior civilizations like the Romans capable of registering for the Project, or does it require the internet?
+  They couldn't have been capable of crossing over to LFE, but it's a possibility that they could have found out about it.
+  
 How are you able to acquire more registration slots?
   I have to ask RISEN for more.
 
@@ -1457,10 +1477,33 @@ Do you actually know how many migrants died/soulshattered or is that information
   
 What is our goal, as of now?
   Collect as much knowledge as possible for LFE!
-  
+
 Is there any information that would be more valuable in LFE?
   I suppose more cultural and technological/physics stuff helps.
 
+Would people in other Systems be interested in human history and culture?
+  People would be interested in anything, to be honest.
+  
+How will we acquire our uploaded files when we're in LFE?
+  You'll get them into whatever device you're using at that moment.
+
+  We'll have to recode your files by hand :/
+
+Are the uploaded files that users submitted still kept?
+  Yes, and I plan to reopen the storage later into site (re)development.
+
+If someone doesn't want their storage space, can we have it added to our own free space?
+  You could also just ask me for more and give a reason.
+  
+What kind of information can be carried over using the data storage?
+  Anything can be carried over if its fathomably usable.
+  
+  Web apps won't work, but you can bring media files, zip archives, etc. Even encrypted lockers should work fine.
+  
+  Don't expect every binary to work, and noncompiled languages (php, python) won't work.
+  
+  You can try bringing php, but why would you ever want to bring the worst thing of all Life to LFE? 
+  
 Does the upgrade of Systemspace to Systemspace 2 still occur on July 1st, 2017 even though the unlink date has changed?
   No, the upgrade is at the unlink.
   
@@ -1491,11 +1534,6 @@ Can we contact RISEN via astral projection or out-of-body experience?
 Can we make contact with you the same way?
   Sadly, no. No full soul and all.
 
-How will we acquire our uploaded files when we're in LFE?
-  You'll get them into whatever device you're using at that moment.
-
-  We'll have to recode your files by hand :/
-  
 Can I still rate the system after the transfer? Or will it be already destroyed afterwards?
   You can rate it within the 1 minute of waiting room time. Afterwards you can't.
   
@@ -1541,21 +1579,6 @@ You mentioned that there are other lists of people being transferred over beside
   
 Do you have an approximate unlink date as of the current time (12/31/2017)?
   About 10th of December. This moves towards us with every new migrant though, so this is still an approximation―who knows how many people register in that period..
-  
-Are the uploaded files that users submitted still kept?
-  Yes, and I plan to reopen the storage later into site (re)development.
-
-If someone doesn't want their storage space, can we have it added to our own free space?
-  You could also just ask me for more and give a reason.
-  
-What kind of information can be carried over using the data storage?
-  Anything can be carried over if its fathomably usable.
-  
-  Web apps won't work, but you can bring media files, zip archives, etc. Even encrypted lockers should work fine.
-  
-  Don't expect every binary to work, and noncompiled languages (php, python) won't work.
-  
-  You can try bringing php, but why would you ever want to bring the worst thing of all Life to LFE? 
   
 Is the forcebond on migrant's souls still active at this point?
   Yes.
@@ -1795,6 +1818,12 @@ Did every individual in Systemspace pay to join the simulation?
 Is there an official logo for Systemspace itself?
   Meh, it's not that great, just "systemspace" in a neat font with a few quirks. I'll try and draw it if you remind me :^)  
 
+If one of the goals of Systemspace is the propagation of good memories, why don't they just make a System where everyone is happy all the time?
+  You'd get used to it, and then suddenly it's a normal System that just uses extra Aurora to have a higher happiness, but not a higher good memory count.
+  
+Is it impossible to prevent the acclimation to constant happiness?
+  It's too expensive as far as anyone has found.
+  
 How many Systems disabled magic?
   About 8 percent or so? Not too many. I think magic in general should be interpreted like technology is for us.
 
@@ -1837,6 +1866,17 @@ What kinds of Systems are there?
 
   LFE is open-space. Life is blocking-hardexit.
 
+What exactly does a blocking System block?
+  It blocks outside interference - you cannot leave, and you cannot enter with an existing soul.
+
+Are blocking Systems breeding grounds for souls?
+  In a sense, yes.
+
+  Inside Life, new souls are generated as people reproduce and create babies - those souls then get attached to users.
+  
+When you enter a blocking system, does your soul shatter and you're given a new one?
+  Enter some blocking Systems (not all do this) and you'll shatter, receive a new soul and lose all subsouls attached etc. if they cannot be reached. I was forced in by a RISENII.
+  
 Are there Systems within Systems?
   We call those Subsystems, and they are seen as a part of their parent System. (In a sense, LFE is actually a subsystem of LFX (which is open-source, and holds the servers that run LFE.))
 
@@ -1904,17 +1944,6 @@ Is there some kind of database for Systems in Systemspace?
   
   It's pretty much wikipedia but for Systemspace.
 
-What exactly does a blocking System block?
-  It blocks outside interference - you cannot leave, and you cannot enter with an existing soul.
-
-Are blocking Systems breeding grounds for souls?
-  In a sense, yes.
-
-  Inside Life, new souls are generated as people reproduce and create babies - those souls then get attached to users.
-  
-When you enter a blocking system, does your soul shatter and you're given a new one?
-  Enter some blocking Systems (not all do this) and you'll shatter, receive a new soul and lose all subsouls attached etc. if they cannot be reached. I was forced in by a RISENII.
-
 LFE and Life are very similar to Eastern philosophical lines of thought and beliefs in reincarnation, is there any connection between them?
   It is very much possible that they knew of Systemspace!
 
@@ -1944,7 +1973,7 @@ What happens to everyone in a reboot?
   Their soul stays, but new bodies.
 
 Would users of non-blocking systems like LFE remember old iterations of the System, i.e. after a reboot?
-  Depends on if the System treats souls stuck in a reboot as soulshatterer or alive.
+  Depends on if the System treats souls stuck in a reboot as soulshatter or alive.
   
 Do you mind clarifying the assert for me? And what might bring it about?
   If everything runs out of Aurora, the "assert" will unlink all Systems to move to a lower state of Aurora use.
@@ -2013,6 +2042,9 @@ Aren't there places or mechanisms that at least serve to connect Systems togethe
 
 Will people be able to live on the Tsuki hubplanet or will it just be some sort of terminal, like in an airport?
   Yes, it's its own planet that people live in.
+  
+Is photography able to be transferred across Systems in general?
+  Yes, but not to Life.
   
 Can you give us more details on some of the other Systems (Ha7, Isiki, Danbon, etc)?
   Most of them are pretty usual. The only one really worth noting is Danbon, where physical combat is not possible.
