@@ -8,6 +8,15 @@
 
 ---------
 
+February 2018
+=============
+
+2018-02-14
+----------
+
+After several months of sporadic Discord activity, Tsuki makes the following statement about the status of the TSUKI Project over the past several months:
+"Unexpected difficulties on the Representative's side and internal drama have caused a temporary long-term outage on the Life frontend of the TSUKI Project. Please rest assured that the issue has been resolved and this frontend will be back in full operation."
+
 July 2017
 =========
 
