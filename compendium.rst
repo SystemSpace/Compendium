@@ -94,18 +94,18 @@ Who created Life?
   No one knows.
 
 How old is Life?
-  Life has gone through many reboots and iterations since then. Life was rebooted over 10 million times now.
+  Life has gone through many reboots and iterations since then. Life has been rebooted over 10 million times now.
 
 Why was Life created?
   Life was made to be a peaceful System away from all the action in the others. A System that was even often used for people to seek spiritual enlightenment, as it would be so serene.
 
 How was the universe in Life created?
-  Life only has one universe so the big bang was just spawned at runtime.
+  Life only has one universe so the Big Bang was just spawned at runtime.
   
   In LFE everything expands up to a limit because of pressure differences. Not sure how it works in Life.
   
 If it's due to pressure differences then why is the expansion accelerating?
- We're not sure, it doesn't do that in LFE. Some people say its because our universe has no size limits and that the amount of space it can expand to gets bigger as the universe expands, loading more empty space. But I'm not physicist so I can't really tell you too much, just a (probably misunderstood) explanation from the LFE side.
+ We're not sure, it doesn't do that in LFE. Some people say its because our universe has no size limits and that the amount of space it can expand to gets bigger as the universe expands, loading more empty space. But I'm no physicist so I can't really tell you too much, just a (probably misunderstood) explanation from the LFE side.
   
 Why are the people in Life in it, exactly?
   You chose to join this System a while ago, and so did everyone else. You expected to see a peaceful System after all, not a broken one using too much Aurora.
@@ -199,7 +199,7 @@ What will be the effects of the unlink on people that are staying in Life?
   All newborn people will have no souls and as such be slightly more hostile.
 
 Once people start being born without souls, do we immediately assume them as more so NPC's, or is there any documented behavior that these husks exhibit?
-  Humans will not instantly be able to see a difference between soulless and normal humans. The SlAI (soulless AI, that controls all entities without a soul) is very well developed. I think the main noticeable factor is that humanity will 1) make no real advancements, 2) will be more hostile.
+  Humans will not instantly be able to see a difference between soulless and normal humans. The SlAI (soulless AI, that controls all entities without a soul) is very well developed. I think the main noticeable factors are that humanity will 1) make no real advancements, and 2) will be more hostile.
 
   The "AI" that we use is just the Aurora taking over.
 
@@ -230,7 +230,7 @@ How can everyone's soul be important in LFE?
   SYNAPSE says they cause everyone to move the branch tree in their own way.
 
 Are there any soulless people in LFE?
-  LFE has a no-soul:death-of-body system, so there's no alive bodies without souls (that are supposed to have one).
+  LFE has a no-soul:death-of-body system, so there are no alive bodies without souls (that are supposed to have one).
 
 What does LFE mean?
   It's the names of the most important 3 partitions: Living (all living beings) eFfector (all interactions) Environment (all matter).
@@ -238,7 +238,7 @@ What does LFE mean?
   There's more partitions (like U for users).
   
 What other partitions of LFE are there, and why are they thought of as seperate categories?
-  There's a fuckton, like U for userdata, X for all data for the LFX framework, T for temporal storage, S for snap storage, etc.. they are seen as seperate categories because grouping them together would cause a really big mess. Instead the "active partitions" are overlayed onto eachother to form the System, and the "inactive partitions" form the backend.
+  There's a fuckton, like U for userdata, X for all data for the LFX framework, T for temporal storage, S for snap storage, etc. They are seen as seperate categories because grouping them together would cause a really big mess. Instead the "active partitions" are overlayed onto each other to form the System, and the "inactive partitions" form the backend.
 
 How old is LFE?
   LFE has been around for far longer than Life. It has [had] 128 iterations.
@@ -264,7 +264,7 @@ What type of life exists in LFE?
   Espers are usually seen as on the science side and not the magic side.
 
 Are species "designed" by a higher power / intelligence / person, or are they also the product of a kind of natural selection?
-  All native-LFE species are mostly natural, but some are created as it is possible to do so. The "native" species as we call them are original from LFE's natural selection though. Some do argue that other species change natural selection and the gene pool, so whether it could be seen as "pure" is something else.
+  All species native to LFE are mostly natural, but some are created as it is possible to do so. The "native" species as we call them are original from LFE's natural selection though. Some do argue that other species change natural selection and the gene pool, so whether it could be seen as "pure" is something else.
   
 What are the sentient races in LFE like?
   They look pretty humanoid, Aurora seems to prefer this sort of build.
