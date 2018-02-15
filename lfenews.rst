@@ -15,7 +15,15 @@ February 2018
 ----------
 
 After several months of sporadic Discord activity, Tsuki makes the following statement about the status of the TSUKI Project over the past several months:
+
 "Unexpected difficulties on the Representative's side and internal drama have caused a temporary long-term outage on the Life frontend of the TSUKI Project. Please rest assured that the issue has been resolved and this frontend will be back in full operation."
+
+
+In July 2017, due to a misunderstanding between the Tsuki Representative and a personal associate known as MrSnoopDoge (as well as a loss of energy and spirit on behalf of the Representative himself), the official discord and the systemspace.link website were taken offline. The associate then released confidential Project information, mistakenly believing the TSUKI Project to be concluded. After a period of roughly 5 months, the associate then created the new Official Discord and invited the Representative, who has decided to continue Project operations. The TSUKI Project is now resuming. Migrants affected by the data breach can apply for new EIDs, once the new systemspace.link website is live.
+
+.. image:: images/ok.png
+  :alt: All Ok
+  :align: center
 
 July 2017
 =========
