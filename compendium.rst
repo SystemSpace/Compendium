@@ -206,7 +206,7 @@ Once people start being born without souls, do we immediately assume them as mor
 Do extraterrestrials exist in Life?
   They do not have souls, but they exist.
 
-  LFE currently has a little under 620 septillion souls.
+  Life currently has a little under 620 septillion souls.
 
 Do you have any examples of Auroraic Echoing influencing Life media?
   I'm not sure, but I'm sure there are quite a few things in our media which were sent over by Auroraic Echoing, although I never really inspected what content.
